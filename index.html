@@ -189,11 +189,9 @@
     const resultBox = document.getElementById('result-box');
     const finalScoreText = document.getElementById('final-score');
 
-    // Funkcja pobierająca dane z podmienianą cyfrą w adresie URL
     async function loadAndMergeAllQuizzes() {
         for (let i = 1; i <= 19; i++) {
-            // Skrypt buduje pełną, bezwzględną ścieżkę sieciową z wielką literą "P"
-            const url = `https://domsky02.github.io/t3st/pytania${i}.json`;
+            const url = `https://domsky02.github.io/t3st/Pytania${i}.json`;
             try {
                 const res = await fetch(url);
                 
@@ -202,8 +200,19 @@
                 }
                 
                 const data = await res.json();
+                
+                // ROZPAKOWYWANIE ZAGNIEŻDŻONYCH SEKCJI:
                 if (Array.isArray(data)) {
-                    quizData = quizData.concat(data);
+                    data.forEach(item => {
+                        // Jeśli element to sekcja posiadająca własną tablicę "questions"
+                        if (item.questions && Array.isArray(item.questions)) {
+                            quizData = quizData.concat(item.questions);
+                        } 
+                        // Jeśli element to bezpośrednio pytanie
+                        else if (item.options) {
+                            quizData.push(item);
+                        }
+                    });
                 }
             } catch (error) {
                 document.querySelector('.spinner').style.display = 'none';
@@ -218,7 +227,7 @@
             quizBox.style.display = 'block';
             loadQuestion();
         } else {
-            loadingBox.innerHTML = "<p style='color:red; font-weight:bold;'>Baza pytań jest pusta.</p>";
+            loadingBox.innerHTML = "<p style='color:red; font-weight:bold;'>Baza pytań jest pusta (Brak w nich pytań z opcjami).</p>";
         }
     }
 
@@ -243,7 +252,7 @@
 
         questionContainer.innerHTML = `
             <div class="question-card">
-                <div class="question-text">${currentQuestion.question}</div>
+                <div class="question-text">${currentQuestion.number ? currentQuestion.number + '. ' : ''}${currentQuestion.question}</div>
                 <ul class="options-list">${optionsHTML}</ul>
             </div>
         `;
