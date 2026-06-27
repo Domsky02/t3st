@@ -196,38 +196,47 @@
                 const res = await fetch(url);
                 
                 if (!res.ok) {
-                    throw new Error(`Błąd HTTP ${res.status}. Nie znaleziono pliku pod adresem: ${url}`);
+                    throw new Error(`Błąd HTTP ${res.status}.`);
                 }
                 
                 const data = await res.json();
                 
-                // ROZPAKOWYWANIE ZAGNIEŻDŻONYCH SEKCJI:
-                if (Array.isArray(data)) {
-                    data.forEach(item => {
-                        // Jeśli element to sekcja posiadająca własną tablicę "questions"
-                        if (item.questions && Array.isArray(item.questions)) {
-                            quizData = quizData.concat(item.questions);
-                        } 
-                        // Jeśli element to bezpośrednio pytanie
-                        else if (item.options) {
-                            quizData.push(item);
+                // KULOODPORNE WYSZUKIWANIE PYTAŃ (REKURSJA):
+                // Funkcja ta przeszukuje plik JSON niezależnie od jego struktury
+                function extractValidQuestions(node) {
+                    if (Array.isArray(node)) {
+                        node.forEach(extractValidQuestions);
+                    } else if (node !== null && typeof node === 'object') {
+                        // Jeśli obiekt ma pytanie i opcje, to na pewno jest to pytanie do quizu
+                        if (node.question && node.options && node.correct) {
+                            quizData.push(node);
+                        } else {
+                            // W przeciwnym razie sprawdzamy, co jest wewnątrz tego obiektu
+                            Object.values(node).forEach(extractValidQuestions);
                         }
-                    });
+                    }
                 }
+
+                extractValidQuestions(data);
+
             } catch (error) {
-                document.querySelector('.spinner').style.display = 'none';
+                // Zamiast przerywać całą aplikację, tylko informujemy o problematycznym pliku,
+                // po czym skrypt idzie dalej i ładuje kolejne części!
                 errorLog.style.display = 'block';
-                errorLog.innerText = `BŁĄD PODCZAS POBIERANIA ZADANIA: Pytania${i}.json\n\nSzczegóły:\n${error.message}`;
-                return; 
+                errorLog.innerHTML += `Ominięto plik Pytania${i}.json (${error.message})<br>`;
+                continue;
             }
         }
 
         if (quizData.length > 0) {
+            document.querySelector('.spinner').style.display = 'none';
             loadingBox.style.display = 'none';
             quizBox.style.display = 'block';
             loadQuestion();
         } else {
-            loadingBox.innerHTML = "<p style='color:red; font-weight:bold;'>Baza pytań jest pusta (Brak w nich pytań z opcjami).</p>";
+            document.querySelector('.spinner').style.display = 'none';
+            errorLog.style.display = 'block';
+            errorLog.innerHTML += "<br><b style='color:red;'>Błąd krytyczny: Nie wczytano żadnego pytania ze wszystkich 19 plików.</b>";
         }
     }
 
