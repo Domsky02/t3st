@@ -1,0 +1,552 @@
+[
+  {
+    "section": "Podstawy Pielęgniarstwa - Bank Pytań (Kontynuacja)",
+    "questions": [
+      {
+        "number": 19,
+        "question": "Do metod wykorzystywanych podczas badania fizykalnego nie zalicza się:",
+        "options": {
+          "A": "oglądanie",
+          "B": "wywiad skategoryzowany",
+          "C": "dotykanie",
+          "D": "opukiwanie"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 20,
+        "question": "Do metod leczenia należy:",
+        "options": {
+          "A": "leczenie chirurgiczne",
+          "B": "terapia zajęciowa",
+          "C": "fizjoterapia",
+          "D": "all_correct"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 21,
+        "question": "Do metod wykorzystywanych w fizjoterapii nie należy:",
+        "options": {
+          "A": "kinezyterapia",
+          "B": "ciepłolecznictwo",
+          "C": "hydroterapia",
+          "D": "arteterapia"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 22,
+        "question": "Podstawowe badanie ginekologiczne zaliczane jest do badań:",
+        "options": {
+          "A": "inwazyjnych",
+          "B": "podmiotowych",
+          "C": "fizykalnych",
+          "D": "all_correct"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 23,
+        "question": "Metoda, w której na organizm człowieka działamy przy zastosowaniu kąpieli, wód mineralnych, promieni słonecznych, powietrza, określona jest jako:",
+        "options": {
+          "A": "fizykoterapia",
+          "B": "balneoterapia",
+          "C": "hydroterapia",
+          "D": "chromoterapia"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 24,
+        "question": "Wśród przyczyn szerzenia się zakażeń na pierwszym miejscu wymienia się nieprzestrzeganie:",
+        "options": {
+          "A": "izolowania chorych zakażonych",
+          "B": "zasad antybiotykoterapii",
+          "C": "zasad odwiedzania pacjentów",
+          "D": "higienicznego mycia rąk personelu"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 25,
+        "question": "Do dezynfekcji skóry przed wstrzyknięciem stosuje się najczęściej środki dezynfekcyjne:",
+        "options": {
+          "A": "wodę utlenioną",
+          "B": "aldesan(aldehydy)",
+          "C": "alkohol",
+          "D": "jodynę"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 26,
+        "question": "W wyniku sterylizacji dochodzi do niszczenia:",
+        "options": {
+          "A": "wszystkich drobnoustrojów",
+          "B": "niektórych drobnoustrojów z formami przetrwalnikowymi",
+          "C": "wszystkich drobnoustrojów z formami przetrwalnikowymi",
+          "D": "niektórych drobnoustrojów"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 27,
+        "question": "Antyseptyka jest to:",
+        "options": {
+          "A": "zahamowanie rozwoju drobnoustrojów",
+          "B": "zapobieganie za pomocą środków chemicznych",
+          "C": "niszczenie drobnoustrojów za pomocą środków chemicznych",
+          "D": "all_correct"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 28,
+        "question": "Kolejność etapów przygotowania narzędzi jest następujące:",
+        "options": {
+          "A": "dezynfekcja, oczyszczanie, dezynfekcja, sterylizacja",
+          "B": "dezynfekcja, oczyszczanie, spłukiwanie, dezynfekcja, suszenie, sterylizacja",
+          "C": "mycie narzędzi, konserwowanie narzędzi, sterylizacja",
+          "D": "oczyszczanie, dezynfekcja, suszenie, konserwacja, sterylizacja"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 29,
+        "question": "Dezynfekcja jest procesem, w którym stosuje się metody z wyjątkiem:",
+        "options": {
+          "A": "chemicznej",
+          "B": "fizycznej",
+          "C": "termicznej",
+          "D": "gazowej"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 30,
+        "question": "Chirurgiczne mycie rąk ma na celu:",
+        "options": {
+          "A": "usunięcie i zniszczenie flory przejściowej",
+          "B": "obniżenie do minimum koncentracji flory stałej",
+          "C": "usunięcie i zniszczenie flory przejściowej i obniżenie do minimum flory stałej",
+          "D": "usunięcie substancji organicznych i brudu"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 31,
+        "question": "Sterylizacja tlenkiem etylenu odbywa się w temperaturze:",
+        "options": {
+          "A": "50-60 °C",
+          "B": "30-40 °C",
+          "C": "80-90 °C",
+          "D": "110-120 °C"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 32,
+        "question": "Metody pozyskiwania danych o podmiocie opieki to:",
+        "options": {
+          "A": "obserwacja",
+          "B": "wywiad",
+          "C": "pomiar",
+          "D": "all_correct"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 33,
+        "question": "Częstość oddechów u dorosłego człowieka wynosi:",
+        "options": {
+          "A": "20-25/min",
+          "B": "14-15/min",
+          "C": "16-20/min",
+          "D": "25-30/min"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 34,
+        "question": "Tętna nie bada się na tętnicy:",
+        "options": {
+          "A": "promieniowej",
+          "B": "krezkowej",
+          "C": "skroniowej",
+          "D": "szyjnej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 35,
+        "question": "Częstość tętna u rocznego dziecka wynosi:",
+        "options": {
+          "A": "140-160 uderzeń/min",
+          "B": "120-140 uderzeń/min",
+          "C": "60-100 uderzeń/min",
+          "D": "110-130 uderzeń/min"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 36,
+        "question": "Podaj trzy cechy tętna:",
+        "options": {
+          "A": "częstość, napięcie, rytm"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 37,
+        "question": "Podniesieniu temperatury ciała o 1 °C odpowiada przyspieszeniu tętna o:",
+        "options": {
+          "A": "5-10 uderzeń/min",
+          "B": "10-15 uderzeń/min",
+          "C": "15-20 uderzeń/min",
+          "D": "10-20 uderzeń/min"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 38,
+        "question": "Do oceny głębokości śpiączki u pacjenta nieprzytomnego służy:",
+        "options": {
+          "A": "skala Glasgow",
+          "B": "skala Charriera",
+          "C": "skala Lovetta",
+          "D": "skala aktywności"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 39,
+        "question": "Przed którym z wymienionych badań podaje się leki hamujące perystaltykę jelit:",
+        "options": {
+          "A": "kolonoskopią",
+          "B": "rektoskopią",
+          "C": "gastroskopią",
+          "D": "per rectum"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 40,
+        "question": "Jesteś na miejscu wypadku. Stwierdziłeś u poszkodowanego brak tętna i oddechu. Udzielając pierwszej pomocy musisz udrożnić drogi oddechowe. Zrobisz to przez:",
+        "options": {
+          "A": "wyciągnięcie języka na zewnątrz jamy ustnej i ułożenie głowy na bok",
+          "B": "ułożenie poszkodowanego w pozycji Trendelenburga",
+          "C": "odgięcie głowy do tyłu i wysunięcie żuchwy do przodu",
+          "D": "ułożenie poszkodowanego w pozycji bezpiecznej"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 41,
+        "question": "Udzielając pierwszej pomocy, przy silnym krwawieniu z rany znajdującej się w obrębie przedramienia, należy:",
+        "options": {
+          "A": "założyć opatrunek uciskowy, unieść kończynę do góry",
+          "B": "unieść kończynę górną powyżej poziomu serca",
+          "C": "założyć na przedramię opaskę uciskową",
+          "D": "zatamować krwawienie polewając wodą utlenioną"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 42,
+        "question": "Ćwiczenia bierne:",
+        "options": {
+          "A": "wykonuje pacjent samodzielnie",
+          "B": "wykonuje pacjent z pomocą przyrządów",
+          "C": "pielęgniarka instruuje, jak pacjent ma wykonywać ruchy",
+          "D": "wykonuje pielęgniarka"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 43,
+        "question": "Ile pokarmu podasz maksymalnie jednorazowo pacjentowi karmionemu przez zgłębnik żołądkowy metodą porcji:",
+        "options": {
+          "A": "300ml",
+          "B": "400ml",
+          "C": "500ml",
+          "D": "600ml"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 44,
+        "question": "Wykonując toaletę drzewa oskrzelowego u pacjenta z tracheostomią podczas wprowadzania cewnika do tchawicy wyłącza się ssanie, aby nie spowodować:",
+        "options": {
+          "A": "krwawienia",
+          "B": "niedodmy",
+          "C": "urazu",
+          "D": "niedotlenienia",
+          "E": "all_above"
+        },
+        "correct": "E"
+      },
+      {
+        "number": 45,
+        "question": "Masaż jest zabiegiem pobudzającym układ ... w tkankach.",
+        "options": {
+          "A": "Krążenia"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 46,
+        "question": "U pacjenta nieprzytomnego stosujesz nacieranie miejsc narażonych na odleżyny:",
+        "options": {
+          "A": "co 1 h",
+          "B": "co 2 h",
+          "C": "co 3 h",
+          "D": "często"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 47,
+        "question": "Stosowane mydło do mycia skóry wokół stomii powinno być o odczynie:",
+        "options": {
+          "A": "pH 4,5",
+          "B": "pH 5,5",
+          "C": "pH 6,5",
+          "D": "pH 7,5"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 48,
+        "question": "Do irygacji stomii zastosujesz wodę o temperaturze:",
+        "options": {
+          "A": "30 °C",
+          "B": "32 °C",
+          "C": "34 °C",
+          "D": "36 °C"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 49,
+        "question": "U pacjentów z ileostomią ze względu na konsystencję płynną wypróżnień mogą wystąpić:",
+        "options": {
+          "A": "niedobory potasu",
+          "B": "niedobory soli",
+          "C": "odwodnienie",
+          "D": "all_above"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 50,
+        "question": "Homeostaza jest to pojęcie, które oznacza:",
+        "options": {
+          "A": "tamowanie krwi",
+          "B": "przemianę materii",
+          "C": "równowagę środowiska wewnętrznego",
+          "D": "adaptację"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 51,
+        "question": "Podkreśl składnik, który wpływa korzystnie na formowanie się mas kałowych:",
+        "options": {
+          "A": "tłuszcz",
+          "B": "woda",
+          "C": "błonnik",
+          "D": "węglowodany"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 52,
+        "question": "Dobowa norma wydalania moczu wynosi:",
+        "options": {
+          "A": "1000-1500 ml",
+          "B": "1200-1800 ml",
+          "C": "1500-2000 ml",
+          "D": "1700-2200 ml"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 53,
+        "question": "O wysokiej gorączce mówimy wtedy kiedy temperatura wynosi:",
+        "options": {
+          "A": "37,1-37,7 °C",
+          "B": "38,6-39,0 °C",
+          "C": "37,8-38,5 °C",
+          "D": "39,1-39,9 °C"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 54,
+        "question": "Tablice Snellena wykorzystywane są do:",
+        "options": {
+          "A": "badania zaburzeń widzenia barwnego",
+          "B": "badania ostrości wzroku",
+          "C": "badania położenia i ustawienia gałek ocznych",
+          "D": "wykrycia zeza"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 55,
+        "question": "Do badań nieinwazyjnych zaliczamy:",
+        "options": {
+          "A": "zdjęcie rentgenowskie klatki piersiowej",
+          "B": "ultrasonografia",
+          "C": "magnetyczny rezonans jądrowy",
+          "D": "all_correct"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 56,
+        "question": "Celem stosowania inhalacji jest:",
+        "options": {
+          "A": "natlenianie organizmu",
+          "B": "wywołanie znieczulenia ogólnego",
+          "C": "zadziałanie lecznicze na błonę śluzową dróg oddechowych",
+          "D": "all_correct"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 57,
+        "question": "Jaką ilość leku można podać podskórnie:",
+        "options": {
+          "A": "60 ml",
+          "B": "2 ml",
+          "C": "10 ml",
+          "D": "0,1 ml"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 58,
+        "question": "Przez błony śluzowe podaje się leki do:",
+        "options": {
+          "A": "worka spojówkowego",
+          "B": "nosa",
+          "C": "pochwy",
+          "D": "all_correct"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 59,
+        "question": "Okład ciepły stosujemy przez:",
+        "options": {
+          "A": "2-3 godz.",
+          "B": "0,5-1 godz.",
+          "C": "6-8 godz.",
+          "D": "15 min"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 60,
+        "question": "Jaką dietę zastosujesz u pacjenta z chorobą wrzodową żołądka i dwunastnicy:",
+        "options": {
+          "A": "bogatopotasową",
+          "B": "bogatobiałkową",
+          "C": "ubogokaloryczną",
+          "D": "oszczędzającą"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 61,
+        "question": "Szpik kostny czerwony najczęściej pobiera się z:",
+        "options": {
+          "A": "mostka",
+          "B": "kości udowej",
+          "C": "kości biodrowej",
+          "D": "A_and_C_correct"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 62,
+        "question": "Wskazaniem do zastosowania ciepła są:",
+        "options": {
+          "A": "krwotoki",
+          "B": "oparzenia",
+          "C": "ostre stany zapalne",
+          "D": "zapalenia ucha środkowego"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 63,
+        "question": "Przeciwwskazaniem do zastosowania zimna jest:",
+        "options": {
+          "A": "stłuczenia",
+          "B": "skręcenia",
+          "C": "krwotok z nosa",
+          "D": "tętnicze zaburzenia dopływu krwi"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 64,
+        "question": "Do celu diagnostycznego cewnikowania pęcherza moczowego nie należy:",
+        "options": {
+          "A": "pobranie moczu do badania",
+          "B": "sprawdzenie czy obecny jest mocz w pęcherzu",
+          "C": "założenie cewnika na stałe w przypadku zatrzymania moczu",
+          "D": "określenie diurezy godzinowej"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 65,
+        "question": "Jakiego środka leczniczego nie stosujemy w płukaniu pęcherza moczowego:",
+        "options": {
+          "A": "0,1% roztwór azotanu srebra",
+          "B": "1-1,5% roztwór rivanolu",
+          "C": "0,9% NaCl",
+          "D": "Octeniseptu"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 66,
+        "question": "Celem leczniczym wstrzyknięć dożylnych nie jest:",
+        "options": {
+          "A": "podanie leku",
+          "B": "nawodnienie organizmu",
+          "C": "pobranie krwi do badania",
+          "D": "podanie krwi"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 67,
+        "question": "Jakie zasady należy uwzględnić stosując u pacjenta tlenoterapię:",
+        "options": {
+          "A": "pisemne zlecenie lekarza",
+          "B": "powinny być wykonane badania gazometryczne",
+          "C": "należy używać sprzęt jednorazowego użytku",
+          "D": "all_correct"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 68,
+        "question": "Prawidłowa temperatura mierzona w odbycie jest:",
+        "options": {
+          "A": "1 °C wyższa niż mierzona pod pachą",
+          "B": "0,5 °C niższa niż mierzona pod pachą",
+          "C": "0,5 °C wyższa niż mierzona pod pachą",
+          "D": "0,1 °C niższa niż mierzona pod pachą"
+        },
+        "correct": "C"
+      }
+    ]
+  }
+]

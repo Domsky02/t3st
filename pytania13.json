@@ -1,0 +1,282 @@
+[
+  {
+    "section": "Pielęgniarstwo Internistyczne",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Opiekując się pacjentem po zabiegu koronaroplastyki (angioplastyka) zwrócisz uwagę na:",
+        "options": {
+          "A": "Miejsce opatrunku uciskowego, oddawanie moczu, bolesność pleców okolicy lędźwiowej",
+          "B": "Miejsce opatrunku uciskowego, kontrolę podstawowych parametrów życiowych, pozycję pacjenta oraz ilość wydalanego moczu",
+          "C": "Kontrolę parametrów życiowych, bolesność pleców",
+          "D": "Temperaturę ciała, ilość przyjmowanych płynów"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 2,
+        "question": "Retinopatia cukrzycowa to:",
+        "options": {
+          "A": "Powikłanie przewlekłe cukrzycy, które powoduje uszkodzenie naczyń krwionośnych znajdujących się w siatkówce oka",
+          "B": "Powikłanie przewlekłe cukrzycy, które powoduje uszkodzenie nerek",
+          "C": "Powikłanie przewlekłe cukrzycy, które powoduje uszkodzenie drobnych naczyń krwionośnych",
+          "D": "Powikłanie przewlekłe cukrzycy, które powoduje wystąpienie u chorego stopy cukrzycowej"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 3,
+        "question": "W trybie nagłym na oddział został przyjęty pacjent. U chorego obserwujesz oddech Kussmaula, rumieniec kwasiczy, zaburzenia świadomości. Pacjent zgłasza bóle brzucha, nudności oraz wzmożone pragnienie. Są to objawy:",
+        "options": {
+          "A": "Hipoglikemii",
+          "B": "Hiperglikemii",
+          "C": "Kwasicy ketonowej",
+          "D": "Zespołu hiperglikemiczno-hipoglikemicznego"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 4,
+        "question": "Badanie hemoglobiny glikowanej (HbA1c) pozwala określić:",
+        "options": {
+          "A": "Średnie stężenie glukozy we krwi w ostatnim roku",
+          "B": "Średnie stężenie glukozy we krwi w ostatnim tygodniu",
+          "C": "Średnie stężenie glukozy we krwi w ostatnich trzech miesiącach",
+          "D": "Poziom zaawansowania niedokrwistości"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 5,
+        "question": "U pacjentki ze zdiagnozowaną nadczynnością tarczycy zaobserwujemy:",
+        "options": {
+          "A": "Wzmożony apetyt, spadek masy ciała, tachykardię, wypadanie włosów",
+          "B": "Wzmożony apetyt, przyrost masy ciała, bradykardię, wypadanie włosów",
+          "C": "Zmniejszony apetyt, chudnięcie, bradykardię, wypadanie włosów",
+          "D": "Zmniejszony apetyt, tycie, bradykardię, wypadanie włosów"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 6,
+        "question": "Na SOR w trybie nagłym przyjęto pacjenta z obrzękiem płuc. Która z wymienionych pozycji ułożeniowych zapewni pacjentowi najlepsze parametry oddechowe?",
+        "options": {
+          "A": "Wysoka Fowler",
+          "B": "Płaska na lewym boku",
+          "C": "Płaska na brzuchu z głową poniżej klatki piersiowej",
+          "D": "Pozycja nie ma znaczenia"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 7,
+        "question": "Przyczyną kardiogennego obrzęku płuc jest:",
+        "options": {
+          "A": "Niewydolność prawokomorowa serca",
+          "B": "Niewydolność lewokomorowa serca",
+          "C": "Zaburzona gospodarka wodno-elektrolitowa",
+          "D": "Przesączenie płynu z powodu uszkodzenia śródbłonka naczyniowego"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 8,
+        "question": "Koleżanka z dyżuru poinformowała Cię, że u jednego pacjenta stwierdziła tachypnoe, oznacza to:",
+        "options": {
+          "A": "Pacjent ma przyspieszone tętno",
+          "B": "Pacjent ma podwyższone ciśnienie krwi",
+          "C": "Pacjent ma przyspieszony oddech",
+          "D": "Pacjent ma nasiloną duszność w pozycji leżącej"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 9,
+        "question": "O czym musi pamiętać chory z POChP stosując wziewne kortykosteroidy:",
+        "options": {
+          "A": "O nie przyjmowaniu dawki leku, gdy czuje się dobrze",
+          "B": "O higienie jamy ustnej po przyjęciu leku",
+          "C": "O zwiększonym ryzyku wystąpienia łagodnych zakażeń grzybiczych jamy ustnej i gardła",
+          "D": "Odpowiedzi B i C są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 10,
+        "question": "Które z wymienionych problemów pielęgnacyjnych są charakterystyczne dla chorego z zaawansowaną marskością wątroby?",
+        "options": {
+          "A": "Spadek odporności, brak łaknienia, bolesne parcie na stolec",
+          "B": "Uogólnione obrzęki, silny opasujący ból w nadbrzuszu, bóle głowy",
+          "C": "Odczuwanie świądu skóry, wodobrzusze, zaburzenia świadomości",
+          "D": "Spadek masy ciała, niepokój z powodu kołotania serca, częste oddawanie dużej ilości moczu"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 11,
+        "question": "Orthopnoe, to duszność:",
+        "options": {
+          "A": "Pojawiająca się w pozycji leżącej, ustępująca w pozycji siedzącej lub stojącej",
+          "B": "Pojawiająca się w pozycji stojącej, ustępująca w pozycji siedzącej lub leżącej",
+          "C": "Nasilająca się w pozycji siedzącej lub stojącej",
+          "D": "Pojawiająca się w pozycji siedzącej lub leżącej"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 12,
+        "question": "Zaznacz zdanie PRAWDZIWE. Koronarografia to:",
+        "options": {
+          "A": "Inwazyjne badanie naczyń wieńcowych polegające na uwidocznieniu w podglądzie radiologicznym i zarejestrowaniu w ruchu naczyń po podaniu środka cieniującego",
+          "B": "Zabeg polegający na wszczepieniu stenta do zwężonej tętnicy udowej",
+          "C": "Balonikowanie naczyń wieńcowych",
+          "D": "Zabieg polegający na wszczepieniu stenta do zwężonego naczynia wieńcowego"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 13,
+        "question": "Transportowa (transport gazów) funkcja krwi realizowana jest przez:",
+        "options": {
+          "A": "Trombocyty",
+          "B": "Leukocyty",
+          "C": "Erytrocyty",
+          "D": "Wszystkie powyższe"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 14,
+        "question": "Pacjent lat 65, przygotowany jest do kolonoskopii. Na co należy zwrócić choremu uwagę:",
+        "options": {
+          "A": "Dzień przed planowanym badaniem pacjent musi otrzymać preparat przeczyszczający np. Forstrans w celu oczyszczenia przewodu pokarmowego",
+          "B": "Pacjent będzie miał wykonaną lewatywę dzień przed samym badaniem",
+          "C": "Pacjenta w dniu poprzedzającym badanie nie obowiązuje dieta",
+          "D": "Odpowiedź A i C jest prawidłowa"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 15,
+        "question": "Szpitalne zapalenie płuc jest to proces chorobowy, który wystąpił:",
+        "options": {
+          "A": "Po 1 dniu od przyjęcia do szpitala",
+          "B": "Po 2 dniach od przyjęcia do szpitala",
+          "C": "Po 3 dniach od przyjęcia do szpitala",
+          "D": "Po 4 dniach od przyjęcia do szpitala"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 16,
+        "question": "Przygotowując chorego do badania kału na krew utajoną poinformujesz go o:",
+        "options": {
+          "A": "Unikaniu spożywania czerwonego mięsa przez 3 dni przed badaniem",
+          "B": "Unikaniu spożywania witaminy B oraz czerwonego mięsa na 3 dni przed badaniem",
+          "C": "Zaprzestanie przyjmowania statyn na 3 dni przed badaniem",
+          "D": "Zaprzestania przyjmowania aspiryny na 3 dni, unikanie spożywania czerwonego mięsa, brokułów, rzepy, chrzanu oraz witaminy C"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 17,
+        "question": "Samokontrola PEF jest elementem monitorowania i szczególnie zalecana wśród pacjentów z rozpoznaną:",
+        "options": {
+          "A": "Gruźlicą płuc",
+          "B": "Przewlekłą obturacyjną chorobą płuc",
+          "C": "Astmą oskrzelową",
+          "D": "Odpowiedź B i C jest prawidłowa"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 18,
+        "question": "W trakcie wywiadu chory zgłasza następujące objawy: utrzymująca się od kilku miesięcy duszność, obniżona tolerancja wysiłku, uporczywy kaszel z odkrztuszaniem wydzieliny oraz spadek masy ciała. Objawy sugerują, że pacjent choruje na:",
+        "options": {
+          "A": "Astmę oskrzelową",
+          "B": "Ostre zapalenie krtani",
+          "C": "Przewlekłą obturacyjną chorobę płuc",
+          "D": "Zapalenie płuc"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 19,
+        "question": "Pomimo podania pacjentowi nitrogliceryny skarżącemu się na ból o charakterze wieńcowym objawy nie ustępują. Jakie działania podejmiesz?",
+        "options": {
+          "A": "Podasz kolejne dawki nitrogliceryny, aż dolegliwości ustąpią",
+          "B": "Podasz pacjentowi paracetamol",
+          "C": "Wezwiesz lekarza, przygotujesz się do działań związanych z postępowaniem z pacjentem...",
+          "D": "Zalecisz pacjentowi spacer i przyjęcie leku uspokajającego"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 20,
+        "question": "Na oddział został przyjęty pacjent z następującymi objawami: nawracające stany podgorączkowe, kaszel, duszność, utrata masy ciała, krwioplucie. Wymienione objawy mogą wskazywać na obecność:",
+        "options": {
+          "A": "Przewlekłej obturacyjnej choroby płuc",
+          "B": "Napad astmy oskrzelowej",
+          "C": "Mukowiscydozy",
+          "D": "Gruźlicy"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 21,
+        "question": "Efektem mikroangiopatii cukrzycowej NIE jest:",
+        "options": {
+          "A": "Utrata wzroku",
+          "B": "Przewlekła choroba nerek",
+          "C": "Retinopatia",
+          "D": "Zawał mięśnia sercowego"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 22,
+        "question": "Jaka ilość glukozy jest podawana pacjentowi do wypicia w doustnym teście obciążenia glukozą?",
+        "options": {
+          "A": "50g",
+          "B": "75g",
+          "C": "100g",
+          "D": "150g"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 23,
+        "question": "Do objawów neurowegetatywnych hipoglikemii zalicza się:",
+        "options": {
+          "A": "Depresję, halucynacje, stany podniecenia, pocenia się",
+          "B": "Osłabienie odruchów, drgawki, zaburzenia czucia, przemijające niedowłady",
+          "C": "Głód, intensywne pocenie się, bladość skóry, drżenie mięśniowe",
+          "D": "Halucynacje, objawy podobne do schizofrenii"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 24,
+        "question": "Przed pobraniem u pacjenta krwi w kierunku oceny gospodarki lipidowej, poinformujesz go:",
+        "options": {
+          "A": "Aby przed badaniem pozostał na czczo",
+          "B": "Aby dzień wcześniej nie przyjmował statyn",
+          "C": "Aby nic nie pił od rana",
+          "D": "Aby zjadł śniadanie"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 25,
+        "question": "Do interwencji pielęgniarskich w przypadku obrzęku kardiogennego płuc zaliczamy:",
+        "options": {
+          "A": "Ułożenie pacjenta w pozycji bocznej ustalonej",
+          "B": "Założenie kaniuli nie jest konieczne",
+          "C": "Podaż tlenu",
+          "D": "Szybkie przetoczenie tlenu"
+        },
+        "correct": "C"
+      }
+    ]
+  }
+]

@@ -1,0 +1,326 @@
+[
+  {
+    "section": "Pielęgniarstwo Chirurgiczne",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Opieka przedoperacyjna nad pacjentem leczonym chirurgicznie rozpoczyna się:",
+        "options": {
+          "A": "w chwili przekazania przez lekarza informacji o konieczności podjęcia leczenia operacyjnego",
+          "B": "na bloku operacyjnym",
+          "C": "w momencie przyjęcia na oddział",
+          "D": "w momencie rozpoczęcia diagnozowania"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 2,
+        "question": "Ileostomia:",
+        "options": {
+          "A": "nie ma typowej lokalizacji",
+          "B": "zlokalizowana jest w lewym podbrzuszu",
+          "C": "zlokalizowana jest w prawym podbrzuszu",
+          "D": "zlokalizowana jest w śródbrzuszu"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 3,
+        "question": "Zgodnie z zaleceniami profilaktyki Zakażenia Miejsca Operowanego (ZMO) z 2015 r. kryterium rozpoznania miejsca operowanego jest okres:",
+        "options": {
+          "A": "gdy pacjent przebywa w szpitalu po zabiegu operacyjnym",
+          "B": "do 30 dni po typowych operacjach oraz do 12 miesięcy po operacjach podczas których wszczepiono ciało obce (proteza, implant)",
+          "C": "do chwili uzyskania dodatniego wyniku badania bakteriologicznego",
+          "D": "do momentu zdjęcia szwów"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 4,
+        "question": "Jedną z powszechnie stosowanych skal oceny ryzyka wystąpienia zakażenia miejsca operowanego (ZMO) jest klasyfikacja ran z uwzględnieniem stopnia czystości pola operacyjnego wg Cruse'a. W niniejszej klasyfikacji rana otwarta, powypadkowa czy operacyjna bez możliwości zachowania zasad jałowości w trakcie zabiegu klasyfikowana jest jako:",
+        "options": {
+          "A": "rana czysta",
+          "B": "rana brudna zakażona",
+          "C": "rana czysta skażona",
+          "D": "rana skażona"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 5,
+        "question": "Niwelowanie dolegliwości bólowych jest jednym z głównych zadań w opiece pooperacyjnej. Jak określamy podawanie dodatkowej dawki leku analgetycznego przed bolesnymi procedurami?",
+        "options": {
+          "A": "leczenie polegające na podawaniu leków przeciwbólowych drogą dokanałową",
+          "B": "profilaktyczne stosowanie środków przeciwbólowych",
+          "C": "fizjoterapia",
+          "D": "wszystkie odpowiedzi poprawne"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 6,
+        "question": "Pacjenci bezpośrednio po operacji kardiochirurgicznej wymagają monitorowania podstawowych parametrów życiowych. W celu rozpoznania zaburzeń równowagi kwasowo-zasadowej konieczne jest:",
+        "options": {
+          "A": "badanie gazometryczne krwi tętniczej",
+          "B": "stała ocena odcinka ST z monitora",
+          "C": "stały pomiar saturacji krwi z palca",
+          "D": "diureza godzinowa ilościowa"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 7,
+        "question": "Przyczyną kardiogennego obrzęku płuc jest:",
+        "options": {
+          "A": "Niewydolność prawokomorowa serca",
+          "B": "Niewydolność lewokomorowa serca",
+          "C": "Zaburzona gospodarka wodno-elektrolitowa",
+          "D": "Przesączenie płynu z powodu uszkodzenia śródbłonka naczyniowego"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 8,
+        "question": "W procesie gojenia rany rychłozrost występuje w ranie:",
+        "options": {
+          "A": "oparzeniowej",
+          "B": "z rozległym zniszczeniem i ubytkiem tkanek",
+          "C": "czystej bez zakażenia",
+          "D": "powstałej w skutek złamania otwartego"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 9,
+        "question": "Aby zminimalizować ryzyko Zakażenia Miejsca Operowanego (ZMO) owłosienie ze skóry należy usuwać:",
+        "options": {
+          "A": "12 godzin przed zabiegiem",
+          "B": "w dniu operacji",
+          "C": "w przeddzień operacji",
+          "D": "1-2 godziny przed zabiegiem"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 10,
+        "question": "Po operacji w obrębie jelit rekomendowaną drogą żywieniową w pierwszej dobie pooperacyjnej jest:",
+        "options": {
+          "A": "żywienie przez gastrostomię",
+          "B": "żywienie przez mikrojejunostomię",
+          "C": "żywienie parenteralne",
+          "D": "żywienie przez zgłębnik żołądkowy"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 11,
+        "question": "Chory w pierwszej dobie po operacji z powodu niedrożności jelit ma tętno 110 uderzeń na minutę RR 105/60 mmHg, jest blady, zlany zimnym potem i zgłasza złe samopoczucie... Może to oznaczać, że:",
+        "options": {
+          "A": "może występować krwawienie lub krwotok wewnętrzny i należy bezzwłocznie powiadomić lekarza",
+          "B": "chory tak zareagował na stres związany z operacją, poświęćmy mu więc chwilę na rozmowę",
+          "C": "wszystkie odpowiedzi są prawdziwe",
+          "D": "są to objawy występujące w przypadku przewodnienia organizmu"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 12,
+        "question": "Stan, w którym w czasie wdechu powietrze przedostaje się do jamy opłucnej, ale nie ma możliwości ujścia podczas wydechu określamy typem odmy:",
+        "options": {
+          "A": "opłucnowej otwartej",
+          "B": "opłucnowej zamkniętej",
+          "C": "opłucnowej prężnej",
+          "D": "podskórnej"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 13,
+        "question": "Prowadząc obserwację koloru skóry, zabarwienia moczu i stolca u pacjenta po zabiegu operacyjnym w obrębie dróg żółciowych pielęgniarka stara się wychwycić objawy:",
+        "options": {
+          "A": "zapalenie otrzewnej",
+          "B": "krwawienie z przewodu pokarmowego",
+          "C": "niedrożność z przewodu pokarmowego",
+          "D": "żółtaczki mechanicznej"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 14,
+        "question": "W jakiej pozycji ułożysz pacjentkę bezpośrednio po zabiegu usunięcia gruczołu tarczowego:",
+        "options": {
+          "A": "pozycji płaskiej na plecach z poparciem od kolana oraz pięty i okolice lędźwiową",
+          "B": "innej pozycji",
+          "C": "w pozycji semi-Fowlera z podparciem pod bark i głowę",
+          "D": "w pozycji Trendelenburga z uniesieniem głowy na małej poduszce"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 15,
+        "question": "Do objawów uszkodzenia lub porażenia jednego z nerwów krtaniowych po operacji należą:",
+        "options": {
+          "A": "niepokój, bradykardia, wymioty, biegunka, hipernatremia, hipoglikemia",
+          "B": "zaburzenia fonacji w postaci chrypki i zaburzenia oddychania",
+          "C": "bradykardia, apatia, spadek ciśnienia tętniczego, hieprnatremia, hiperkalcemia, hipoglikemia",
+          "D": "wysoka temperatura, tachykardia, wzrost ciśnienia, niepokój, pobudzenie, spadek poziomu sodu i wapnia, hiperglikemia"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 16,
+        "question": "Jednym z powikłań pooperacyjnych, które może wystąpić u pacjenta po usunięciu tarczycy jest tężyczka wynikająca z:",
+        "options": {
+          "A": "zapadnięcia się chrząstek tchawicy",
+          "B": "uszkodzenia lub wycięcia gruczołów przytarczycowych",
+          "C": "uszkodzenia nerwów krtaniowych",
+          "D": "uszkodzenia naczyń krwionośnych"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 17,
+        "question": "Badaniem laboratoryjnym, które musi zostać wykonane u pacjentki w przypadku podejrzenia wystąpienia objawów tężyczki pooperacyjnej jest:",
+        "options": {
+          "A": "poziom fosforanów",
+          "B": "morfologia krwi",
+          "C": "poziom wapnia całkowitego i zjonizowanego",
+          "D": "poziom hormonów tarczycowych"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 18,
+        "question": "Do objawów przełomu tarczycowego, które muszą zostać jak najszybciej rozpoznane przez pielęgniarkę sprawującą opiekę nad pacjentem po zabiegu w obrębie tarczycy należą:",
+        "options": {
+          "A": "wysoka temperatura ciała, tachykardia, spadek ciśnienia tętniczego, niepokój, pobudzenie, obniżony poziom hormonów tarczycowych",
+          "B": "bradykardia, apatia, spadek ciśnienia, hipernatremia, hiperkalcemia, hipoglikemia",
+          "C": "niepokój, bradykardia, wymioty, biegunka, hipernatremia, hiperkalcemia, hipoglikemia",
+          "D": "wysoka temperatura ciała, tachykardia, wzrost ciśnienia tętniczego, niepokój, pobudzenie, podwyższony poziom hormonów tarczycowych"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 19,
+        "question": "Opiekując się pacjentem z drenażem ssącym jamy opłucnowej należy zwrócić szczególną uwagę na:",
+        "options": {
+          "A": "obserwację miejsca założenia drenów oraz zapewnienie drożności i skuteczności drenażu",
+          "B": "wszystkie odpowiedzi są prawidłowe",
+          "C": "poinformowanie pacjenta o możliwości poruszania się z drenażem",
+          "D": "zabezpieczenie drenów przed przypadkowym usunięciem"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 20,
+        "question": "Postępowanie z chorym po operacji kardiochirurgicznej przebiega wg wypracowanego standardu bezpieczeństwa chorego. Warunkiem wypisu chorego z oddziału pooperacyjnego do sali monitorowanej jest własny wydolny oddech, stabilność hemodynamiczna oraz ustabilizowane krwawienie pooperacyjne. Ma to miejsce zwykle w:",
+        "options": {
+          "A": "0 dobie pooperacyjnej",
+          "B": "1-2 dobie pooperacyjnej",
+          "C": "3-4 dobie pooperacyjnej",
+          "D": "5 i dalszej dobie pooperacyjnej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 21,
+        "question": "Rola pielęgniarki w zapobieganiu zakrzepowemu zapaleniu żył kończyn dolnych u chorych po zabiegach operacyjnych jest:",
+        "options": {
+          "A": "wszystkie odpowiedzi są prawdziwe",
+          "B": "ułożenie chorego w wysokiej pozycji Fowlera w łóżku",
+          "C": "stosowanie kompresjoterapii II stopnia",
+          "D": "wczesne uruchamianie chorego"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 22,
+        "question": "U pacjenta leżącego na plecach z podejrzeniem świeżego złamania szyjki kości biodrowej prawej, kończyna dolna ułożona jest następująco:",
+        "options": {
+          "A": "prawa stopa w rotacji zewnętrznej, staw kolanowy w wyproście",
+          "B": "lewa stopa w rotacji wewnętrznej, staw kolanowy w wyproście",
+          "C": "prawy staw kolanowy w rotacji wewnętrznej, zgięty pod kątem 45 stopni",
+          "D": "lewy staw kolanowy w rotacji zewnętrznej, zgięty pod kątem 45 stopni"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 23,
+        "question": "Która z wartości indeksu masy ciała BMI wskazuje na ryzyko niedożywienia u pacjenta przed zabiegiem operacyjnym:",
+        "options": {
+          "A": "25-29.9",
+          "B": "20-24.9",
+          "C": "18-19.9",
+          "D": "17-17.9"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 24,
+        "question": "Odprowadzenia kończynowe w zapisie EKG to:",
+        "options": {
+          "A": "I, II, III, V1-V3",
+          "B": "V1-V3, aVr, aVI, aVf",
+          "C": "I, II, III, aVr, aVI, aVf",
+          "D": "V1-V6"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 25,
+        "question": "Podczas dializy otrzewnowej rolę filtra spełnia:",
+        "options": {
+          "A": "dializator",
+          "B": "cewnik Tenckhoffa",
+          "C": "otrzewna",
+          "D": "płyn dializacyjny"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 26,
+        "question": "Bezpieczny czas przechowywania pobranego od dawcy serca nie powinien być dłuższy niż:",
+        "options": {
+          "A": "10-15 godzin",
+          "B": "1-3 godzin",
+          "C": "15-18 godzin",
+          "D": "4-6 godzin"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 27,
+        "question": "Prawidłowe wykonanie zadań uwarunkowane jest min. zaplanowaniem liczby kompletnych pielęgniarek operacyjnych. Do każdego zabiegu na dyżurze powinny być przydzielone:",
+        "options": {
+          "A": "nie ma znaczenia ile pielęgniarek, zabieg i tak musi się odbyć",
+          "B": "trzy pielęgniarki operacyjne",
+          "C": "co najmniej dwie pielęgniarki operacyjne (jedna pielęgniarka instrumentująca do zabiegu a druga pomagająca)",
+          "D": "jedna pielęgniarka operacyjna"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 28,
+        "question": "Zapewnienie bezpieczeństwa pacjentowi na bloku operacyjnym polega na:",
+        "options": {
+          "A": "Przestrzeganiu standardów i procedur postępowania",
+          "B": "prawidłowym ułożeniu na stole operacyjnym",
+          "C": "wszystkie odpowiedzi są prawidłowe",
+          "D": "sprawdzeniu prawidłowości działania sprzętu medycznego"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 29,
+        "question": "Przeszczep heterotopowy jest to umieszczenie:",
+        "options": {
+          "A": "tkanki przeszczepianej w położeniu anatomicznym",
+          "B": "narządu przeszczepianego w położeniu anatomicznym",
+          "C": "narządu przeszczepianego w położeniu nieanatomicznym",
+          "D": "innego materiału"
+        },
+        "correct": "C"
+      }
+    ]
+  }
+]

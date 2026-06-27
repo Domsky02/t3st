@@ -1,0 +1,353 @@
+[
+  {
+    "section": "Pielęgniarstwo Chirurgiczne (Kontynuacja)",
+    "questions": [
+      {
+        "number": 31,
+        "question": "W czasie edukacji pacjentki negatywnie nastawionej do zabiegu ECPW oraz... przewodową kamicę wątrobową należy jej uświadomić, że drobne złogi kamieni....blokady brodawki dwunastnicy, mogą prowadzić do:",
+        "options": {
+          "A": "niedrożności przewodu pokarmowego",
+          "B": "raka pęcherzyka żółciowego",
+          "C": "ostrego zapalenia trzustki",
+          "D": "marskości wątroby"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 33,
+        "question": "Kluczowym elementem postępowania leczniczo-pielęgnacyjnego u pacjenta z ostrym niedokrwieniem kończyny będzie:",
+        "options": {
+          "A": "rehabilitacja ruchowa",
+          "B": "terapia przeciwbólowa",
+          "C": "terapia heparyną niefrakcjonowaną",
+          "D": "skleroterapia"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 34,
+        "question": "Pacjent jest w piątej dobie po zabiegu operacyjnym usunięcia nowotworu złośliwego pęcherza moczowego, ma wyłonioną urostomię. Skóra wokół stomii jest zaczerwieniona i bolesna. Przed ponownym założeniem sprzętu urostomijnego należy delikatnie przemyć skórę:",
+        "options": {
+          "A": "wodą, osuszyć i założyć worek urostomijny",
+          "B": "wodą i szarym (delikatnym) mydłem, osuszyć i założyć płytkę z workiem urostomijnym",
+          "C": "wodą i szarym mydłem, osuszyć, przetrzeć benzyną i założyć płytkę z workiem urostomijnym",
+          "D": "przetrzeć benzyną, zastosować maść allantoinową i worek stomijny"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 35,
+        "question": "W celu oceny nasilenia dolegliwości bólowych u małych dzieci lub osób z utrudnionym kontaktem wykorzystuje się:",
+        "options": {
+          "A": "skalę VRS",
+          "B": "skalę NRS",
+          "C": "skalę VAS",
+          "D": "skalę FPS"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 36,
+        "question": "Wczesne powikłania pooperacyjne to:",
+        "options": {
+          "A": "zapalenie płuc, wzdęcia brzucha, krwotok",
+          "B": "ból rany pooperacyjnej, nudności, wymioty",
+          "C": "rozejście się brzegów rany, choroba zakrzepowo-zatorowa",
+          "D": "przepukliny, przetoki"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 37,
+        "question": "Jak często należy wymieniać rękawice ochronne:",
+        "options": {
+          "A": "po wykonaniu czynności w jednej sali chorych",
+          "B": "co najmniej jeden raz na kwadrans",
+          "C": "przed każdym kontaktem z pacjentem lub pomiędzy zabiegiem brudnym, a czystym u tego samego chorego",
+          "D": "przed każdym kontaktem z pacjentem zakażonym"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 38,
+        "question": "Obecnie w szpitalach z certyfikacją „Szpital bez bólu” ból traktowany jest jako:",
+        "options": {
+          "A": "drugi parametr życiowy",
+          "B": "trzeci parametr życiowy",
+          "C": "czwarty parametr życiowy",
+          "D": "piąty parametr życiowy"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 39,
+        "question": "Standardy praktyki i opieki pielęgniarskiej w bloku operacyjnym muszą być:",
+        "options": {
+          "A": "opracowane na podstawie ogólnych rekomendacji oraz wytycznych dostosowanych indywidualnie do potrzeb i warunków danej placówki",
+          "B": "realne do spełnienia, aby nie stać się standardem martwym",
+          "C": "nie można zaadoptować standardu do swojego bloku operacyjnego, chyba, że istnieją porównywalne warunki i możliwości wdrożenia tego standardu",
+          "D": "all_correct"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 40,
+        "question": "W trakcie leczenia zachowawczego u pacjenta z PAD przeciwwskazane jest:",
+        "options": {
+          "A": "stosowanie leków przeciwzakrzepowych",
+          "B": "rzucenie palenia tytoniu",
+          "C": "masaż i ogrzewanie stóp",
+          "D": "aktywność fizyczna pod kierunkiem fizjoterapeuty"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 41,
+        "question": "Celem premedykacji nie jest:",
+        "options": {
+          "A": "zmniejszenie uczucia lęku",
+          "B": "zmniejszenie wydzielania gruczołów śluzowych i ślinowych",
+          "C": "zwiększenie siły skurczu mięśnia sercowego",
+          "D": "działania przeciwwymiotne"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 43,
+        "question": "Charakterystycznym objawem raka przełyku jest:",
+        "options": {
+          "A": "dysfagia",
+          "B": "ból głowy nasilający się podczas połykania",
+          "C": "okresowy ból w klatce piersiowej promieniujący do lewej kończyny górnej",
+          "D": "dodatni objaw Goldflama"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 44,
+        "question": "Który czynnik nie zwiększa ryzyka rozwoju PAD - chorób tętnic obwodowych:",
+        "options": {
+          "A": "płeć żeńska",
+          "B": "cukrzyca typu II",
+          "C": "zaburzenia lipidowe",
+          "D": "starszy wiek"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 45,
+        "question": "Przygotowując chorą do zabiegu endoprotezoplastyki stawu biodrowego do wypisu współpracujesz ściśle z zespołem terapeutycznym w tym z fizjoterapeutą. Do podstawowych zaleceń dla pacjenta po zabiegu będzie:",
+        "options": {
+          "A": "przez pierwsze 3 miesiące spanie tylko w pozycji na plecach z poduszką między nogami z bocznym podparciem dla stopy prawej, aby zapobiec krzyżowaniu nóg, przywiedzeniu i rotacji stopy",
+          "B": "szybki powrót do pełnej aktywności fizycznej z pełnym obciążeniem do 1 miesiąca po operacji",
+          "C": "siadanie na niższych krzesłach i fotelach niż przed operacją",
+          "D": "możliwość kąpieli w wannie już w pierwszym miesiącu po zabiegu operacyjnym"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 46,
+        "question": "Jakimi drogami nie powinniśmy podawać leków pacjentom po zabiegu operacyjnym?:",
+        "options": {
+          "A": "doustnie",
+          "B": "drogą dożylną",
+          "C": "drogą domięśniową",
+          "D": "żadna z powyższych"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 47,
+        "question": "Edukacja chorego po zabiegu operacyjnym na jamie brzusznej powinna zawierać treści dotyczące:",
+        "options": {
+          "A": "zalecenie kontroli w poradni chirurgicznej (usunięcie szwów), podkreślenie istoty regularnego przyjmowania leków zleconych na stałe, zalecenia dietetyczne, nauka samo pielęgnacji np. zmiana woreczka stomijnego, zakaz dźwigania minimum 3 m-ce.",
+          "B": "zalecenie kontroli w poradni endokrynologicznej, zalecenia dietetyczne, zakaz dźwigania przynajmniej 2 m-ce",
+          "C": "zalecenia dietetyczne, nauka samo pielęgnacji np. zmiana opatrunku, zakaz dźwigania przynajmniej miesiąc",
+          "D": "wystarczy tylko zalecenie kontroli w poradni chirurgicznej"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 48,
+        "question": "Niedokrwienny ból spoczynkowy u pacjenta z miażdżycą tętnic obwodowych świadczy o:",
+        "options": {
+          "A": "I stadium choroby wg klasyfikacji Fontaine'a",
+          "B": "II stadium choroby wg klasyfikacji Fontaine'a",
+          "C": "III stadium choroby wg klasyfikacji Fontaine'a",
+          "D": "IV stadium choroby wg klasyfikacji Fontaine'a"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 49,
+        "question": "Do zadań pielęgniarki operacyjnej instrumentującej do zabiegu operacyjnego nie należy:",
+        "options": {
+          "A": "chirurgiczne mycie i dezynfekcja rąk",
+          "B": "otwarcie pakietów z bielizną operacyjną i zestawów z narzędziami chirurgicznymi",
+          "C": "przygotowanie materiału dodatkowego (nici, szwy chirurgiczne, drenaże, płyny do płukania ran i jam ciała)",
+          "D": "pomoc przy obłożeniu pacjenta jałową bielizną operacyjną"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 50,
+        "question": "Do objawów skręcenia w stawie skokowym NIE należy:",
+        "options": {
+          "A": "ból",
+          "B": "obrzęk",
+          "C": "ograniczenie nieruchomości",
+          "D": "zaczerwienienie skóry"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 51,
+        "question": "Typowymi objawami kamicy żółciowej NIE jest:",
+        "options": {
+          "A": "Podwyższona temperatura ciała.",
+          "B": "Ból w prawym podżebrzu",
+          "C": "promieniowanie bólu do prawej łopatki",
+          "D": "ból o charakterze kolkowym"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 52,
+        "question": "Podstawowymi obowiązkami pielęgniarki w opiece nad pacjentem w pierwszej dobie po operacji brzusznej NIE jest:",
+        "options": {
+          "A": "mierzenie ciśnienia",
+          "B": "ocena gojenia się rany",
+          "C": "oznaczanie liczby oddechów na minutę",
+          "D": "ocena rodzaju i ilości wydzieliny z drenu brzusznego"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 53,
+        "question": "Typowymi objawami niedrożności jelit jest:",
+        "options": {
+          "A": "Ból w prawym podżebrzu",
+          "B": "ból brzucha połączony z nudnościami i wymiotami, zatrzymaniem gazów i stolca",
+          "C": "brzucha połączony z nudnościami, wymiotami z uporczywą biegunką",
+          "D": "ból o charakterze kolkowym i wysoka gorączka."
+        },
+        "correct": "B"
+      },
+      {
+        "number": 54,
+        "question": "Krwawienie z żołądka charakteryzuje się:",
+        "options": {
+          "A": "bólem brzucha i krwawymi wymiotami",
+          "B": "silnym bólem brzucha połączonym z fusowatymi wymiotami",
+          "C": "bólem brzucha o charakterze kolkowym nasiloną krwawą biegunką",
+          "D": "smolistym stolcem"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 55,
+        "question": "Krwawienie z żylaków przełyku zwykle związane jest z:",
+        "options": {
+          "A": "przewlekłym zapaleniem trzustki",
+          "B": "guzem wątroby",
+          "C": "marskością wątroby",
+          "D": "chorobą Leśniewskiego-Crohna"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 56,
+        "question": "Podczas zbierania wywiadu i planowania opieki nad pacjentem u którego będzie wykonany zabieg chirurgiczny istotne jest uzyskanie następujących informacji:",
+        "options": {
+          "A": "Wszystkie odpowiedzi są prawidłowe",
+          "B": "Jakie leki przyjmuje",
+          "C": "Czy występują u niego alergie",
+          "D": "Na jakie choroby przewlekłe choruje"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 57,
+        "question": "Typowymi objawami zapalenia wyrostka robaczkowego nie jest:",
+        "options": {
+          "A": "Nudności, wymioty",
+          "B": "Ból brzucha zlokalizowany w podbrzuszu",
+          "C": "Ból brzucha zlokalizowany w nadbrzuszu",
+          "D": "Biegunki"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 58,
+        "question": "Wstępna płynoterapia w chorobie oparzeniowej z zastosowaniem reguły Parklanda polega na przetaczaniu następującej ilości płynów:",
+        "options": {
+          "A": "20 ml glukozy 5%/kg m.c./% powierzchni oparzonej ciała na 24 godziny",
+          "B": "10 ml krystaloidu/kg m.c./% powierzchni oparzonej ciała na pierwsze 8 godzin",
+          "C": "4 ml krystaloidu/kg m.c./% powierzchni oparzonej ciała na 24 godziny",
+          "D": "1 ml koloidu (Gelaspan) / kg m.c./% powierzchni oparzonej ciała na pierwsze 8 godzin"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 59,
+        "question": "Wskaż zdanie prawdziwe:",
+        "options": {
+          "A": "wyłonione jelito cienkie to ileostomia",
+          "B": "wyłonione jelito cienkie to kolostomia",
+          "C": "kolostomia zlokalizowana jest w śródbrzuszu",
+          "D": "ileostomia jest wyłonionym jelitem grubym"
+        },
+        "correct": "A"
+      }
+    ]
+  },
+  {
+    "section": "Pielęgniarstwo Pediatryczne",
+    "questions": [
+      {
+        "number": 1,
+        "question": "W drugim półroczu życia zdrowe niemowlę w każdym miesiącu przybiera na masie ciała o:",
+        "options": {
+          "A": "1000 g",
+          "B": "500 g",
+          "C": "800 g",
+          "D": "300 g"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 2,
+        "question": "W pierwszym stopniu odwodnienia utrata płynu przez organizm:",
+        "options": {
+          "A": "Przekracza 5% wyjściowej masy dziecka",
+          "B": "Nie przekracza 10% wyjściowej masy dziecka",
+          "C": "Przekracza 10% wyjściowej masy dziecka",
+          "D": "Nie przekracza 5% wyjściowej masy dziecka"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 3,
+        "question": "Dziecko nieprzytomne powinno być karmione przez zgłębnik pokarmem o temp.:",
+        "options": {
+          "A": "35 stopni C",
+          "B": "36 stopni C",
+          "C": "30 stopni C",
+          "D": "25 stopni C"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 4,
+        "question": "Zatrucia kwasami powodują:",
+        "options": {
+          "A": "zwiększenie diurezy",
+          "B": "martwicę koagulacyjną",
+          "C": "nie powodują martwicy",
+          "D": "martwicę rozpływną"
+        },
+        "correct": "B"
+      }
+    ]
+  }
+]

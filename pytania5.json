@@ -1,0 +1,447 @@
+[
+  {
+    "section": "Holizm",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Współczesna medycyna, w tym pielęgniarstwo, oparte są na modelu humanistycznym. Model ten zorientowany jest na:",
+        "options": {
+          "A": "człowieka chorego i jego rodzinę",
+          "B": "człowieka zdrowego i jego środowisko",
+          "C": "człowieka zdrowego i chorego",
+          "D": "przedmiotowe podejście do pacjenta"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 2,
+        "question": "Uniwersalność, ciągłość, dynamika, logiczność, następstwo czasowe są to cechy:",
+        "options": {
+          "A": "gromadzenia danych o pacjencie, celem postawienia diagnozy pielęgniarskiej",
+          "B": "obserwacji ukierunkowanej",
+          "C": "procesu pielęgnowania",
+          "D": "teorii pielęgnowania"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 3,
+        "question": "W V etapie procesu pielęgnowania wg ICNP dokonuje się:",
+        "options": {
+          "A": "ewaluacji danych o pacjencie",
+          "B": "ewaluacji wdrożonego planu opieki",
+          "C": "ewaluacji zasobów ludzkich i rzeczowych",
+          "D": "ewaluacji wyników opieki pielęgniarskiej"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 4,
+        "question": "Źródłem danych o pacjencie jest:",
+        "options": {
+          "A": "wyłącznie podmiot opieki",
+          "B": "rodzina pacjenta",
+          "C": "podmiot opieki, rodzina, środowisko pacjenta",
+          "D": "najbliższe środowisko pacjenta"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 5,
+        "question": "Postepowanie mające na celu pozyskać informacje o pacjencie celem prowadzenia procesu pielęgnowania to:",
+        "options": {
+          "A": "ewaluacja",
+          "B": "hierarchizacja",
+          "C": "personalizacja",
+          "D": "gromadzenie danych"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 6,
+        "question": "Diagnoza pielęgniarska oparta jest na:",
+        "options": {
+          "A": "wiedzy teoretycznej pielęgniarki",
+          "B": "informacjach uzyskanych od lekarza",
+          "C": "danych o pacjencie zgromadzonych przez pielęgniarkę",
+          "D": "pielęgniarka nie stawia żadnej diagnozy"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 7,
+        "question": "Prawo człowieka do łagodzenia bólu i innych cierpień wynika z:",
+        "options": {
+          "A": "poszanowania godności osobistej człowieka",
+          "B": "Ustawy o Prawach Pacjenta i Rzeczniku Praw Pacjenta z 2008 roku",
+          "C": "praw człowieka",
+          "D": "wytycznych Helsińskiej Fundacji Praw Człowieka"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 8,
+        "question": "Pod pojęciem roli zawodowej pielęgniarki rozumiemy:",
+        "options": {
+          "A": "podejmowanie działań na rzecz wzmacniania i zachowania zdrowia oraz działań wynikających z procesu diagnozowania",
+          "B": "postepowanie zawodowe na rzecz zdrowia zgodnie z obowiązującymi normami i oczekiwaniami społecznymi",
+          "C": "podejmowanie działań w oparciu o wiedze i umiejętności nabyte w toku kształcenia",
+          "D": "postepowanie zawodowe mające na celu wykonywanie określonych świadczeń"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 9,
+        "question": "Funkcje zawodowe pielęgniarki odnoszą się:",
+        "options": {
+          "A": "do wiedzy i umiejętności praktycznych pielęgniarki",
+          "B": "do zakresu działań pielęgniarki podejmowanych wobec zespołu terapeutycznego",
+          "C": "do oczekiwanych wzorców zachowań i postaw określonych przez Kodeks etyki zawodowej",
+          "D": "do roli zawodowej pielęgniarki, czyli działań podejmowanych na rzecz podmiotu opieki"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 10,
+        "question": "Umiejętność człowieka do opiekowania się sobą to:",
+        "options": {
+          "A": "samopomoc",
+          "B": "opieka holistyczna",
+          "C": "samoopieka",
+          "D": "zdolności samo opiekuńcze"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 11,
+        "question": "Wzmacnianie i potęgowanie zdrowia to cel działań wynikających z funkcji zawodowej pielęgniarki:",
+        "options": {
+          "A": "wychowawczej",
+          "B": "promowania zdrowia",
+          "C": "opiekuńczej",
+          "D": "rehabilitacyjnej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 12,
+        "question": "Do zakresu zadań opiekuńczych zalicza się:",
+        "options": {
+          "A": "pomaganie w wykonywaniu tych czynności życia codziennego, które gwarantują komfort w życiu codziennym",
+          "B": "przygotowanie pacjenta do samoopieki i samopielęgnacji",
+          "C": "planowanie i realizowanie działań profilaktycznych",
+          "D": "współudział w badaniach naukowych"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 13,
+        "question": "Leki w postaci roztworów wodnych, oleistych i zawiesin można podawać droga:",
+        "options": {
+          "A": "śródskórną",
+          "B": "podskórną",
+          "C": "domięśniową",
+          "D": "dożylną"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 14,
+        "question": "Elementem identyfikacji pielęgniarki są symbole zawodowe takie jak: czepek, mundur, lampka oliwna oraz hymn pielęgniarski. Symbole te związane są z obrzędowością, ale nie maja znaczenia dla:",
+        "options": {
+          "A": "kształtowania wizerunku pielęgniarki",
+          "B": "komunikacji ze społeczeństwem",
+          "C": "przynależności danej osoby do grupy zawodowej",
+          "D": "roli zawodowej, której istotą jest pielęgnowanie"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 15,
+        "question": "Niezależną funkcją zawodową pielęgniarki jest funkcja:",
+        "options": {
+          "A": "opiekuńcza i wychowawcza",
+          "B": "wychowawcza i promowania zdrowia",
+          "C": "opiekuńcza i profilaktyczna",
+          "D": "opiekuńcza i rehabilitacyjna"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 16,
+        "question": "Kompres rozgrzewający wykonuje się w celu:",
+        "options": {
+          "A": "zahamowania procesu zapalnego i zmniejszenia bólu",
+          "B": "zahamowania rozwoju stanu zapalnego i zmniejszenia obrzęku",
+          "C": "zmniejszenia bólu i obrzęku",
+          "D": "przyspieszenia przebiegu procesu zapalnego i zmniejszenia bólu"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 17,
+        "question": "Dokonanie przez pielęgniarkę oceny stanu higienicznego pacjenta jest podstawa do zaplanowania działań:",
+        "options": {
+          "A": "zapobiegawczo - leczniczych",
+          "B": "pielęgnacyjnych i wychowawczych",
+          "C": "leczniczych i diagnostycznych",
+          "D": "rozpoczęcia procesu pielęgnowania"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 18,
+        "question": "Współczesnym trendem w opiece nad chorym jest:",
+        "options": {
+          "A": "altruizm",
+          "B": "empatia",
+          "C": "humanizm",
+          "D": "holizm"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 19,
+        "question": "Podaj prawidłowy rok uchwalenia obowiązującej ustawy o samorządzie pielęgniarek i położnych",
+        "options": {
+          "A": "1935",
+          "B": "1991",
+          "C": "1996",
+          "D": "2011"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 20,
+        "question": "Aktualnie obowiązujący Kodeks Etyki Polskiej Pielęgniarki i Położnej został uchwalony w roku:",
+        "options": {
+          "A": "1995",
+          "B": "1997",
+          "C": "2000",
+          "D": "2003"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 21,
+        "question": "Pierwsza koncepcja filozofii pielęgniarstwa została przedstawiona przez:",
+        "options": {
+          "A": "V. Henderson",
+          "B": "Nightingale",
+          "C": "Orem",
+          "D": "pielęgniarki amerykańskie"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 22,
+        "question": "Na oddziale chirurgii przyjmujesz 47 letniego pacjenta ze stwierdzonym uszkodzeniem stawu łokciowego. Określ w jaki sposób zdejmiesz mu marynarkę,",
+        "options": {
+          "A": "najpierw zdejmiesz ubranie z uszkodzonej kończyny",
+          "B": "najpierw zdejmiesz ubranie ze zdrowej kończyny",
+          "C": "rękaw jest szeroki wiec go tylko podwiniesz.",
+          "D": "poprosisz pacjenta żeby się sam rozebrał"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 23,
+        "question": "Opiekujesz się pacjentem unieruchomionym w łóżku od 3 miesięcy. Występujący u pacjenta bezruch, skrócenie mięśni wskutek zwłóknienia i usztywnienia stawów może przyczynić się do powstania:",
+        "options": {
+          "A": "odleżyn",
+          "B": "przykurczy",
+          "C": "zapalenia stawów",
+          "D": "choroby zakrzepowo - zatorowej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 24,
+        "question": "Jednym z powikłań występującym po nakłuciu jamy otrzewnej, który może być wynikiem jednorazowego upustu dużej ilości płynu (więcej niż 2000 ml) jest:",
+        "options": {
+          "A": "obrzęk płuc",
+          "B": "duszność",
+          "C": "zapaść krążeniowa",
+          "D": "marskość wątroby"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 25,
+        "question": "Prawo pacjenta do zachowania w tajemnicy wszystkich informacji uzyskanych o nim w trakcie pełnienia obowiązków zawodowych zawarte jest w:",
+        "options": {
+          "A": "Ustawie o prawach pacjenta i Ustawie o działalności leczniczej oraz w Kodeksie etyki zawodowe] pielęgniarki i położnej Rzeczypospolitej Polskiej",
+          "B": "Kodeksie etyki zawodowej pielęgniarki i położnej Rzeczypospolitej Polskiej i w Ustawie o działalności leczniczej",
+          "C": "Regulaminie oddziału szpitala i w Karcie Praw Pacjenta",
+          "D": "Ustawach o prawach pacjenta i działalności leczniczej"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 26,
+        "question": "Asystowanie człowiekowi zdrowemu i choremu w jego codziennych czynnościach, z wykorzystaniem roli zawodowej jako środka zastępczego, pomocnika, partnera, jest głównym założeniem teorii:",
+        "options": {
+          "A": "V. Henderson",
+          "B": "Neuman",
+          "C": "Nightingale",
+          "D": "Orem"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 27,
+        "question": "Pierwszym krokiem niezbędnym do oceny stanu pacjenta zgodnie z założeniami teorii D. Orem jest ocena potrzeb pacjenta. Jakie są to potrzeby?",
+        "options": {
+          "A": "fizjologiczne, psychiczne, społeczne i duchowe",
+          "B": "uniwersalne, rozwojowe, w zaburzeniach stanu zdrowia",
+          "C": "jest to 14 podstawowych potrzeb",
+          "D": "oparte na realizacji systemów opieki pielęgniarskiej zwłaszcza całkowicie kompensacyjnym"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 28,
+        "question": "Działania za i dla pacjenta, kierowanie, doradzanie, udzielanie wskazówek, udzielanie wsparcia, stwarzanie środowiska sprzyjającego rozwojowi człowieka, uczenie drugiej osoby, są to metody służące:",
+        "options": {
+          "A": "asystowaniu pacjentowi zgodnie z założeniami teorii D. Orem",
+          "B": "postawieniu diagnozy i realizacji zaplanowanych wczesnej interwencji pielęgniarskich",
+          "C": "przygotowania pacjenta do współpracy z zespołem terapeutycznym",
+          "D": "ocenie procesu adaptacji pacjenta zgodnie z założeniami teorii C. Roy"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 29,
+        "question": "Wykorzystanie właściwego systemu pielęgnowania zgodnie z założeniami teorii D. Orem zależy od:",
+        "options": {
+          "A": "stanu pacjenta",
+          "B": "stanu pacjenta, potrzeb pacjenta, indywidualnej oceny rodzaju i stopnia deficytu samoopieki",
+          "C": "potrzeb pacjenta, indywidualnej oceny rodzaju i stopnia deficytu samoopieki",
+          "D": "potrzeb pacjenta, stanu opieki nieprofesjonalnej, możliwości edukacyjnych pacjenta"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 30,
+        "question": "Chorego nieprzytomnego, z zachowanym krążeniem i oddechem ułożysz:",
+        "options": {
+          "A": "na brzuchu",
+          "B": "w pozycji Trendelenburga",
+          "C": "w pozycji bocznej ustalonej",
+          "D": "płasko na plecach"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 31,
+        "question": "Zakładając lek do ucha u osoby powyżej 3 r. z. powinniśmy:",
+        "options": {
+          "A": "małżowinę pociągnąć lekko do dołu i do tylu",
+          "B": "małżowinę pociągnąć lekko ku górze i ku tyłowi",
+          "C": "małżowinę pociągnąć lekko ku górze i do przodu",
+          "D": "małżowinę pociągnąć lekko do dołu i do przodu"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 32,
+        "question": "Medal Florence Nightingale co dwa lata jest przyznawany tym pielęgniarkom, które w wyjątkowy sposób wyróżniły się w niesieniu pomocy rannym i chorym w czasie wojny i pokoju. Został on ustanowiony w 1912 roku przez:",
+        "options": {
+          "A": "Międzynarodową Rade Pielęgniarek",
+          "B": "Polskie Stowarzyszenie Pielęgniarek Zawodowych",
+          "C": "Polskie Towarzystwo Pielęgniarskie",
+          "D": "Międzynarodowe Stowarzyszenie Czerwonego Krzyża"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 33,
+        "question": "Jatrogenia to:",
+        "options": {
+          "A": "profilaktyczne i lecznicze wykorzystanie fizycznych właściwości wody, w chorobach układu ruchu",
+          "B": "zachowania i postawy pracowników placówek ochrony zdrowia, które wpływają szkodliwie na stan zdrowia człowieka",
+          "C": "jeden ze sposobów leczenia w radiologii zabiegowej",
+          "D": "terapia barwą, wykorzystująca lecznicze właściwości kolorów"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 34,
+        "question": "Prowadząc działania edukacyjne u pacjentów w zakresie oceny, czy masa ciała jest w normie, podasz wzór:",
+        "options": {
+          "A": "BMI = masa ciała w kilogramach podzielona przez wzrost w m2",
+          "B": "BMI = masa ciała w kilogramach podzielona przez wzrost w cm2",
+          "C": "BMI = masa ciała w gramach podzielona przez wzrost w cm2",
+          "D": "BMI = masa ciała w gramach podzielona przez wzrost w m2"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 35,
+        "question": "Jednym z powikłań wstrzyknięcia domięśniowego jest zespól Hoigne objawiający się:",
+        "options": {
+          "A": "pojawieniem parestezji wzdłuż przebiegu nerwu",
+          "B": "ochłodzeniem i bladością kończyny",
+          "C": "panicznym lekiem i uczuciem zagrożenia życia",
+          "D": "wystąpieniem krwawych stolców, wymiotów, krwinkomoczu"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 36,
+        "question": "Wskaz zdanie prawdziwe dotyczące zasad funkcjonowania podstawowej opieki zdrowotnej:",
+        "options": {
+          "A": "POZ koncentruje swoje działania na świadczeniach z zakresu promocji i profilaktyki,",
+          "B": "POZ ukierunkowuje swoje działania głownie na leczenie osób chorych",
+          "C": "POZ udziela świadczeń tym pacjentom, którzy zgłaszają się po poradę z własnej inicjatywy",
+          "D": "POZ ogranicza świadczenia wyłącznie do działań lekarskich"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 37,
+        "question": "Świadczenia pielęgniarki szkolnej nie obejmują:",
+        "options": {
+          "A": "prowadzenia grupowej profilaktyki fluorkowej w klasach I-VI",
+          "B": "wykonywania i interpretowania testów przesiewowych",
+          "C": "czynnego poradnictwa dla uczniów z problemami zdrowotnymi",
+          "D": "wykonywania szczepień ochronnych zgodnych z kalendarzem szczepień"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 38,
+        "question": "Wskaz zdanie prawdziwe dotyczące sposobu finansowania świadczeń zdrowotnych w POZ:",
+        "options": {
+          "A": "dominującą formą rozliczania usług w POZ jest system kapitacyjny",
+          "B": "zasada \"za przypadek\" występuje w kontraktowaniu świadczeń przez położną POZ",
+          "C": "system zadaniowy jest formą kontraktowania usług przez pielęgniarkę POZ",
+          "D": "zasada \"za przypadek\" występuje w kontraktowaniu świadczeń przez pielęgniarkę POZ"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 39,
+        "question": "W systemie „per capita\", wielkość stawki kapitacynej pielęgniarki POZ uzależniona jest od: 1. wieku pacjenta, 2. ilości pacjentów objętych praktyka, 3. stanu zdrowia pacjenta, 4. miejsca pobytu pacjenta, 5. od natężenia pracy w ciągu roku. Prawidłowe to:",
+        "options": {
+          "A": "1,2",
+          "B": "1,4",
+          "C": "1.2.3.4",
+          "D": "1,2,4,5"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 40,
+        "question": "Świadczenia diagnostyczne pielęgniarki POZ nie obejmują:",
+        "options": {
+          "A": "przeprowadzania wywiadów środowiskowych",
+          "B": "oceny wydolności pielęgnacyjno - opiekuńczej rodziny",
+          "C": "oceny i monitorowania bólu u pacjenta",
+          "D": "pobierania materiału do badań diagnostycznych w gabinecie zabiegowym"
+        },
+        "correct": "D"
+      }
+    ]
+  }
+]

@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wielki Super-Egzamin Pielęgniarski (Kolejno)</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f7f6;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+        }
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+            margin-bottom: 10px;
+        }
+        .subtitle {
+            text-align: center;
+            color: #7f8c8d;
+            margin-bottom: 30px;
+            font-size: 0.9em;
+        }
+        .quiz-status {
+            display: flex;
+            justify-content: space-between;
+            font-weight: bold;
+            margin-bottom: 20px;
+            background: #eef2f3;
+            padding: 10px 20px;
+            border-radius: 8px;
+        }
+        .question-card {
+            margin-bottom: 25px;
+            padding: 20px;
+            border: 1px solid #e0e0e0;
+            border-radius: 8px;
+            background: #fff;
+        }
+        .question-text {
+            font-size: 1.1em;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        .options-list {
+            list-style: none;
+            padding: 0;
+        }
+        .option-item {
+            margin-bottom: 10px;
+        }
+        .option-label {
+            display: block;
+            padding: 12px 15px;
+            background: #f8f9fa;
+            border: 2px solid #e9ecef;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+        .option-label:hover {
+            background: #e9ecef;
+            border-color: #ced4da;
+        }
+        input[type="radio"] {
+            display: none;
+        }
+        input[type="radio"]:checked + .option-label {
+            background: #e3f2fd;
+            border-color: #2196f3;
+        }
+        .correct-answer {
+            background: #d4edda !important;
+            border-color: #28a745 !important;
+            color: #155724;
+        }
+        .wrong-answer {
+            background: #f8d7da !important;
+            border-color: #dc3545 !important;
+            color: #721c24;
+        }
+        button {
+            display: block;
+            width: 100%;
+            padding: 15px;
+            background: #2c3e50;
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 1.1em;
+            font-weight: bold;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        button:hover {
+            background: #1a252f;
+        }
+        .result-screen, .loading-screen {
+            text-align: center;
+        }
+        .result-screen {
+            display: none;
+        }
+        .score-big {
+            font-size: 3em;
+            color: #28a745;
+            margin: 20px 0;
+        }
+        .spinner {
+            margin: 20px auto;
+            width: 40px;
+            height: 40px;
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid #3498db;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Super-Egzamin</h1>
+    <div class="subtitle">Połączono 19 baz pytań (tryb chronologiczny)</div>
+    
+    <div id="loading-box" class="loading-screen">
+        <p>Trwa pobieranie i łączenie pytań (19 plików)...</p>
+        <div class="spinner"></div>
+    </div>
+
+    <div id="quiz-box" style="display: none;">
+        <div class="quiz-status">
+            <span id="progress">Pytanie: 1/1</span>
+            <span id="score-counter">Punkty: 0</span>
+        </div>
+
+        <div id="question-container"></div>
+        <button id="action-btn" onclick="handleAction()">Sprawdź odpowiedź</button>
+    </div>
+
+    <div id="result-box" class="result-screen">
+        <h2>Koniec Egzaminu!</h2>
+        <p>Twój ostateczny wynik ze wszystkich części to:</p>
+        <div class="score-big" id="final-score">0 / 0</div>
+        <button onclick="location.reload()">Rozpocznij od nowa</button>
+    </div>
+</div>
+
+<script>
+    let quizData = [];
+    let currentQuestionIndex = 0;
+    let score = 0;
+    let isChecked = false;
+
+    const loadingBox = document.getElementById('loading-box');
+    const quizBox = document.getElementById('quiz-box');
+    const questionContainer = document.getElementById('question-container');
+    const progressText = document.getElementById('progress');
+    const scoreCounter = document.getElementById('score-counter');
+    const actionBtn = document.getElementById('action-btn');
+    const resultBox = document.getElementById('result-box');
+    const finalScoreText = document.getElementById('final-score');
+
+    // Automatyczne generowanie listy 19 plików i scalanie ich chronologicznie
+    async function loadAndMergeAllQuizzes() {
+        const fileList = [];
+        for (let i = 1; i <= 19; i++) {
+            fileList.push(`pytania${i}.json`);
+        }
+
+        try {
+            // Pobieranie wszystkich plików równolegle
+            const fetchPromises = fileList.map(file => 
+                fetch(file).then(res => {
+                    if (!res.ok) throw new Error(`Brak pliku ${file}`);
+                    return res.json();
+                })
+            );
+            
+            const allResults = await Promise.all(fetchPromises);
+            
+            // Łączenie struktur w jedną płaską tablicę (zachowując oryginalną kolejność)
+            quizData = allResults.flat();
+
+            // Ekran ładowania znika, pojawia się test
+            loadingBox.style.display = 'none';
+            quizBox.style.display = 'block';
+            
+            loadQuestion();
+        } catch (error) {
+            loadingBox.innerHTML = `<p style="color:red; font-weight:bold;">Błąd ładowania: ${error.message}<br>Upewnij się, że nazwy plików na GitHubie to dokładnie: pytania1.json, pytania2.json ... pytania19.json</p>`;
+        }
+    }
+
+    function loadQuestion() {
+        isChecked = false;
+        actionBtn.innerText = "Sprawdź odpowiedź";
+        progressText.innerText = `Pytanie: ${currentQuestionIndex + 1} / ${quizData.length}`;
+        
+        const currentQuestion = quizData[currentQuestionIndex];
+        
+        let optionsHTML = '';
+        for (const [key, value] of Object.entries(currentQuestion.options)) {
+            optionsHTML += `
+                <li class="option-item">
+                    <input type="radio" id="opt-${key}" name="quiz-opt" value="${key}">
+                    <label class="option-label" id="label-${key}" for="opt-${key}">
+                        <strong>${key}.</strong> ${value}
+                    </label>
+                </li>
+            `;
+        }
+
+        // Wyświetlanie pytania
+        questionContainer.innerHTML = `
+            <div class="question-card">
+                <div class="question-text">${currentQuestion.question}</div>
+                <ul class="options-list">${optionsHTML}</ul>
+            </div>
+        `;
+    }
+
+    function handleAction() {
+        if (!isChecked) {
+            const selectedOption = document.querySelector('input[name="quiz-opt"]:checked');
+            if (!selectedOption) {
+                alert("Proszę zaznaczyć jedną odpowiedź!");
+                return;
+            }
+
+            const userAnswer = selectedOption.value;
+            const correctAnswer = quizData[currentQuestionIndex].correct;
+
+            document.getElementById(`label-${correctAnswer}`).classList.add('correct-answer');
+
+            if (userAnswer === correctAnswer) {
+                score++;
+                scoreCounter.innerText = `Punkty: ${score}`;
+            } else {
+                document.getElementById(`label-${userAnswer}`).classList.add('wrong-answer');
+            }
+
+            const inputs = document.querySelectorAll('input[name="quiz-opt"]');
+            inputs.forEach(input => input.disabled = true);
+
+            isChecked = true;
+            if (currentQuestionIndex === quizData.length - 1) {
+                actionBtn.innerText = "Zobacz wynik końcowy";
+            } else {
+                actionBtn.innerText = "Następne pytanie";
+            }
+        } else {
+            currentQuestionIndex++;
+            if (currentQuestionIndex < quizData.length) {
+                loadQuestion();
+            } else {
+                showResults();
+            }
+        }
+    }
+
+    function showResults() {
+        quizBox.style.display = 'none';
+        resultBox.style.display = 'block';
+        finalScoreText.innerText = `${score} / ${quizData.length}`;
+    }
+
+    // Start ładowania przy otwarciu strony
+    loadAndMergeAllQuizzes();
+</script>
+</body>
+</html>

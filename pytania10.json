@@ -1,0 +1,315 @@
+[
+  {
+    "section": "Podstawy Pielęgniarstwa - Teorie (Kontynuacja)",
+    "questions": [
+      {
+        "number": 10,
+        "question": "Osoba wg. F. Nightingale łączy w sobie komponenty:",
+        "options": {
+          "A": "moralne, emocjonalne",
+          "B": "moralne, emocjonalne, umysłowe",
+          "C": "fizyczne, społeczne, umysłowe, emocjonalne",
+          "D": "fizyczne, społeczne, umysłowe, emocjonalne, duchowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 11,
+        "question": "Najważniejsze znaczenie w środowisku wg F. Nightingale mają:",
+        "options": {
+          "A": "czysta woda, przedmioty codziennego użytku",
+          "B": "czysta woda, właściwe żywienie, sen",
+          "C": "czysta woda, właściwe żywienie, czyste powietrze, sen",
+          "D": "czysta woda, właściwe żywienie, czyste powietrze"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 12,
+        "question": "Proces pielęgnowania wg F. Nightingale składa się z następujących faz:",
+        "options": {
+          "A": "gromadzenie danych, planowanie, ocenianie",
+          "B": "gromadzenie danych, określanie konkluzji z nich wynikającej, planowanie, wykonywanie, ocenianie",
+          "C": "gromadzenie danych, określenie konkluzji z nich wynikającej",
+          "D": "gromadzenie danych, realizowanie, ocenianie"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 13,
+        "question": "F. Nightingale zapoczątkowała:",
+        "options": {
+          "A": "formalną edukację pielęgniarską",
+          "B": "badania praktyczne o charakterze hipotetycznym",
+          "C": "Pielęgniarstwo skoncentrowane wokół relacji pielęgniarka pacjent",
+          "D": "Żadne z powyższych"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 14,
+        "question": "Podstawowa edukacja pielęgniarek wg. F. Nightingale powinna odbywać się:",
+        "options": {
+          "A": "w środowisku chorego",
+          "B": "w domu chorego",
+          "C": "odpowiedzi a i b są prawidłowe",
+          "D": "przy łóżku chorego"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 15,
+        "question": "Choroba zdaniem F. Nightingale jest procesem:",
+        "options": {
+          "A": "reparacji",
+          "B": "rekompensaty",
+          "C": "realizacji",
+          "D": "resocjalizacji"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 16,
+        "question": "Rolą pielęgniarki w modelu pielęgnowania wg Callisty Roy jest:",
+        "options": {
+          "A": "zapewnienie pacjentowi potrzeb psychospołecznych",
+          "B": "pomaganie człowiekowi w osiągnięciu stanu zdrowia",
+          "C": "pomaganie człowiekowi w osiągnięciu stanu adaptacji",
+          "D": "zaadoptowanie pacjenta w środowisku szpitalnym."
+        },
+        "correct": "C"
+      },
+      {
+        "number": 17,
+        "question": "Ile wymiarów adaptacji jest wg C. Roy:",
+        "options": {
+          "A": "14",
+          "B": "9",
+          "C": "7",
+          "D": "4"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 18,
+        "question": "Jak można nazwać model opieki C. Roy?:",
+        "options": {
+          "A": "adaptacyjny",
+          "B": "samoopieki",
+          "C": "koncepcyjny",
+          "D": "koncentryczny"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 19,
+        "question": "Wg C. Roy zdrowie jest:",
+        "options": {
+          "A": "zdolnością człowieka do niezależnego funkcjonowania w zaspakajaniu jego czternastu podstawowych potrzeb zdrowotnych",
+          "B": "procesem przebiegającym w granicach dobrostan-choroba",
+          "C": "stanem i procesem bycia, stawania się osobą zintegrowaną",
+          "D": "dobrostanem osiąganym dzięki zapewnionej sobie opiece"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 20,
+        "question": "C. Roy w koncepcji siebie wyróżniała:",
+        "options": {
+          "A": "„ja realne” „ja idealne”, „ja moralno-etyczno-duchowe”",
+          "B": "ocenę współpracowników, ocenę własnych działań, ocenę środowiska",
+          "C": "cakowicie nieświadomi",
+          "D": "superego, ego"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 21,
+        "question": "Zastosowanie teorii pielęgnowania C. Roy znalazło odzwierciedlenie w:",
+        "options": {
+          "A": "promocji zdrowia",
+          "B": "w pielęgniarstwie klinicznym - proces pielęgnowania",
+          "C": "dokumentowaniu procesu pielęgnowania pacjenta psychiatrycznego",
+          "D": "w pielęgniarstwie środowiskowo - rodzinnym"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 22,
+        "question": "Na koncepcję własnej osoby wg C. Roy składają się:",
+        "options": {
+          "A": "fizycznie, zintegrowane, wykreowane, etycznie",
+          "B": "fizyczne, moralne, wykreowane, etyczne",
+          "C": "idealne, skonstruowane, racjonalne, duchowe",
+          "D": "fizyczne, idealne, racjonalne, moralno-etyczne-duchowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 23,
+        "question": "Proces adaptacji człowieka dla zachowania jego równowagi biopsychospołecznej największe znaczenie miał dla:",
+        "options": {
+          "A": "V. Henderson",
+          "B": "C. Roy",
+          "C": "M. Rogers",
+          "D": "D. Orem"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 24,
+        "question": "W którym roku powstała pierwsza w historii teoria pielęgniarstwa?:",
+        "options": {
+          "A": "1830",
+          "B": "1955",
+          "C": "1864",
+          "D": "1860"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 25,
+        "question": "C. Roy określa człowieka jako:",
+        "options": {
+          "A": "system otwarty, który składa się z części pozostających ze sobą we wzajemnych współzależnościach",
+          "B": "holistyczny system adaptacyjny, wyposażony w podsystem regulacyjny i poznawczy dla utrzymania adaptacji w czterech zakresach: funkcji fizjologicznych, koncepcji siebie, pełnionych ról oraz współzależności",
+          "C": "organizm, który w swoisty dla siebie sposób redukuje napięcia wytwarzane przez potrzeby",
+          "D": "osobę łączącą w sobie komponenty fizyczne, społeczne, umysłowe, emocjonalne i duchowe, ale jest czymś więcej niż sumą tych komponentów"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 26,
+        "question": "Jakie są podstawowe pojęcia występujące we wszystkich teoriach pielęgniarstwa?:",
+        "options": {
+          "A": "zdrowie, choroba, pielęgnowanie, środowisko",
+          "B": "osoba, środowisko, zdrowie, pielęgnowanie",
+          "C": "choroba, zdrowie, osoba, pielęgnowanie",
+          "D": "pielęgnowanie, przyjaźń, zdrowie, miłość"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 27,
+        "question": "Model adaptacyjny może być wykorzystany w opiece nad pacjentem:",
+        "options": {
+          "A": "Chorym psychicznie",
+          "B": "Przewlekle chorym",
+          "C": "Po zabiegach operacyjnych",
+          "D": "Ze schorzeniami somatycznymi"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 28,
+        "question": "Model adaptacyjny definiuje zdrowie jako:",
+        "options": {
+          "A": "stan oraz proces bycia i stawanie się osobą zintegrowaną w 2 wymiarach",
+          "B": "stan oraz proces bycia i stawanie się osobą zintegrowaną w 5 wymiarach",
+          "C": "stan oraz proces bycia i stawanie się osobą zintegrowaną w 3 wymiarach",
+          "D": "stan oraz proces bycia i stawanie się osobą zintegrowaną w 4 wymiarach"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 29,
+        "question": "W jakich wymiarach powinna być zintegrowana osoba, aby osiągnąć stan zdrowia w modelu pielęgnowania wg. C. Roy?:",
+        "options": {
+          "A": "Fizjologicznym, pełnionych ról, współzależności, koncepcji siebie.",
+          "B": "Społecznym, fizycznym, duchowym.",
+          "C": "Pełnionych ról, wykonywanej pracy, współzależności, osobowości.",
+          "D": "Psychicznym, współzależności, koncepcji siebie, pełnionych ról."
+        },
+        "correct": "A"
+      },
+      {
+        "number": 30,
+        "question": "Do czego powinna prowadzić interwencja pielęgniarska wg C. Roy?:",
+        "options": {
+          "A": "Obniżenia zdolności jednostki do radzenia sobie z bodźcami niepożądanymi oraz osiągnięcia stanu panowania nad reakcjami na bodźce zewnętrzne.",
+          "B": "Podniesienia zdolności do radzenia sobie z bodźcami niepożądanymi oraz osiągnięcie stanu częściowej adaptacji.",
+          "C": "Podniesienie zdolności do radzenia sobie z bodźcami niepożądanymi oraz osiągnięcie stanu adaptacji.",
+          "D": "Podniesienie zdolności jednostki do radzenia sobie w sytuacjach stresowych."
+        },
+        "correct": "C"
+      },
+      {
+        "number": 31,
+        "question": "Jaki model pielęgnowania przyporządkować należy Virginii Henderson?:",
+        "options": {
+          "A": "Model środowiskowy",
+          "B": "Model teoretyczny",
+          "C": "Model deficytu samo opieki",
+          "D": "Model koncepcyjny"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 32,
+        "question": "Czyją ideę kontynuowała w swej teorii Virginia Henderson?:",
+        "options": {
+          "A": "Dorothey Orem",
+          "B": "Calisty Roy",
+          "C": "Florence Nightingale",
+          "D": "Stworzyła odrębną teorię opierając się wyłącznie na swojej idei i przemyśleniach"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 33,
+        "question": "Z czyjej teorii korzystała Virginia Henderson tworząc teorię potrzeb?:",
+        "options": {
+          "A": "Maslowa",
+          "B": "Murraya",
+          "C": "Obuchowskiego",
+          "D": "Nightingale"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 34,
+        "question": "Z ilu potrzeb korzystała w swej teorii Virginia Henderson?:",
+        "options": {
+          "A": "z 12",
+          "B": "z 3",
+          "C": "z 14",
+          "D": "z 20"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 35,
+        "question": "Jak nazywano Virginię Henderson?:",
+        "options": {
+          "A": "Dama z Lampą",
+          "B": "Wielka Dama Pielęgniarstwa",
+          "C": "Nadzieja Pielęgniarstwa",
+          "D": "Nie nosiła żadnego przydomka"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 36,
+        "question": "Jak wg teorii Virginii Henderson traktowany jest człowiek? Jako:",
+        "options": {
+          "A": "Integralna komórka obarczona deficytem samo opieki",
+          "B": "Niezależna całość funkcjonująca poprzez zaspokajanie 14 potrzeb",
+          "C": "Zależna część środowiska obarczona stresem i zaburzeniami somatycznymi",
+          "D": "System adaptacyjny pozostający w interakcji ze środowiskiem, które oddziałuje na jednostkę przez bodźce"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 37,
+        "question": "Którą datę przyporządkujesz działalności Virginii Henderson?:",
+        "options": {
+          "A": "1950",
+          "B": "1955",
+          "C": "1952",
+          "D": "1984"
+        },
+        "correct": "B"
+      }
+    ]
+  }
+]

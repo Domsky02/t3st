@@ -1,0 +1,408 @@
+[
+  {
+    "section": "Egzamin 2024 - Dokończenie",
+    "questions": [
+      {
+        "number": 83,
+        "question": "Kardiowersja skonfigurowana jest z:",
+        "options": {
+          "A": "odstępem P-Q",
+          "B": "załamkiem R",
+          "C": "załamkiem P",
+          "D": "załamkiem T"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 84,
+        "question": "Tablica SCORE służy do:",
+        "options": {
+          "A": "oceny ryzyka zgonu z przyczyn sercowo-naczyniowych w ciągu 10 lat",
+          "B": "oceny ryzyka wystąpienia zespołu metabolicznego",
+          "C": "szacowania ryzyka powstania neuropatii cukrzycowej",
+          "D": "szacowania ryzyka wystąpienia groźnych arytmii komorowych u pacjentów po zawale mięśnia sercowego"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 85,
+        "question": "Wykonując EKG spoczynkowe trzecia elektrodę przedsercowa umieścisz:",
+        "options": {
+          "A": "w 2 przestrzeni międzyżebrowej, przymostkowo po stronie prawej",
+          "B": "w 4 przestrzeni międzyżebrowej, przymostkowo po stronie prawej",
+          "C": "w linii skośnej w połowie odległości miedzy 2 a 4 elektroda przedsercową",
+          "D": "w połowie odległości miedzy 2 a 4 elektroda przedsercową w 5 przestrzeni międzyżebrowej"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 86,
+        "question": "W przypadku terapii izotopowej u pacjentów z nadczynnością tarczycy nie zalecisz:",
+        "options": {
+          "A": "picia soku z cytryny w celu pobudzenia wydzielania śliny",
+          "B": "zachodzenia w ciążę kobietom przed upływem 6-12 miesięcy od zakończenia radioterapii",
+          "C": "cierpliwości, gdyż odczuwalne skutki terapii nie pojawią się natychmiast, rezultaty osiąga się po kilku tygodniach",
+          "D": "spożywania lekkich posiłków"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 87,
+        "question": "Prawidłowe wartości BMI wg WHO mieszczą się w zakresie:",
+        "options": {
+          "A": "17,5-20,5",
+          "B": "18,5-24,9",
+          "C": "20-25",
+          "D": "> 25"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 88,
+        "question": "WHR oblicza się:",
+        "options": {
+          "A": "dzieląc obwód talii przez obwód uda x2",
+          "B": "dzieląc obwód brzucha przez obwód bioder",
+          "C": "dzieląc obwód talii przez obwód bioder",
+          "D": "dzieląc masę ciała w kilogramach przez wzrost w metrach do kwadratu"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 89,
+        "question": "Edukując pacjenta uzależnionego od nikotyny:",
+        "options": {
+          "A": "możesz użyć testu stopnia uzależnienia oraz testu motywacji Fagerströma",
+          "B": "zaproponujesz nikotynową terapię zastępczą",
+          "C": "przeanalizujesz z pacjentem tablice SCORE",
+          "D": "użyjesz testu uzależnienia od nikotyny Bruma"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 90,
+        "question": "W trakcie diagnozowania pacjenta z niewydolnością nerek jednym z ważniejszych badań jest oznaczenie:",
+        "options": {
+          "A": "klirensu kreatyniny",
+          "B": "OB i morfologii",
+          "C": "lipidogramu",
+          "D": "prób wątrobowych"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 91,
+        "question": "Oceniając stan układu kostno-stawowo-mięśniowego u chorego na reumatoidalne zapalenie stawów nie zwrócisz uwagi na:",
+        "options": {
+          "A": "obrzęki",
+          "B": "zniekształcenia",
+          "C": "unieruchomienie",
+          "D": "bladość skóry"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 92,
+        "question": "Wskazówki zachowawcze dla pacjenta z rozpoznaniem choroby refluksowej przełyku to:",
+        "options": {
+          "A": "powstrzymanie się od spożywania posiłków tuż po spoczynku nocnym, dobieranie odzieży dopasowanej, wysokie ułożenie do snu",
+          "B": "powstrzymanie się od spożywania posiłków i picia przed udaniem się na spoczynek nocny, unikanie pokarmów wywołujących zgagę, noszenie luźnej nie uciskającej odzieży, wysokie ułożenie do snu",
+          "C": "powstrzymanie się od spożywania posiłków i picia przed udaniem się na spoczynek nocny, unikanie pokarmów wywołujących zgagę, noszenie luźnej nie uciskającej odzieży, płaskie ułożenie do snu",
+          "D": "powstrzymanie się od spożywania posiłków i picia przed udaniem się na spoczynek nocny, unikanie pokarmów wywołujących zgagę"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 93,
+        "question": "Ezofagoskopia to:",
+        "options": {
+          "A": "endoskopia żołądka i dwunastnicy",
+          "B": "endoskopia jelita grubego",
+          "C": "badanie endoskopowe przełyku",
+          "D": "cewnikowanie serca"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 94,
+        "question": "Przygotowując pacjenta do gastroskopii zwrócisz uwagę:",
+        "options": {
+          "A": "aby pacjent na 8 godzin przed badaniem nic nie jadł, 4 godziny przed nic nie pił, nie palił papierosów i nie żuł gumy",
+          "B": "aby pacjent przed badaniem nie przyjmował żadnych leków",
+          "C": "aby pacjent był na czczo, pić może w dowolnej ilości",
+          "D": "pacjent może przyjąć wszystkie swoje leki stałe"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 95,
+        "question": "Jeden wymiennik węglowodanowy (1 WW) to:",
+        "options": {
+          "A": "produkt z którego węglowodany wchłaniają się powoli",
+          "B": "ilość danego produktu zawierająca 10 g węglowodanów przyswajalnych",
+          "C": "10 gram produktu o niskim indeksie glikemicznym",
+          "D": "porcja węglowodanów przeznaczona do spożycia podczas jednego posiłku"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 96,
+        "question": "Doustny test tolerancji glukozy pozwala na zdiagnozowanie:",
+        "options": {
+          "A": "cukrzycy",
+          "B": "cukrzycy, nieprawidłowej glikemii na czczo, upośledzonej tolerancji węglowodanów",
+          "C": "cukrzycy i nieprawidłowej glikemii na czczo",
+          "D": "nieprawidłowej tolerancji węglowodanów"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 97,
+        "question": "Iniekcje insuliny krótko, szybko działającej wykonasz:",
+        "options": {
+          "A": "we wszystkie rekomendowane do iniekcji podskórnych okolice",
+          "B": "w brzuch lub ramię",
+          "C": "w pośladek",
+          "D": "w udo"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 98,
+        "question": "Przed przystąpieniem pacjenta do doustnego testu tolerancji glukozy (OGTT) wg WHO muszą być spełnione następujące warunki:",
+        "options": {
+          "A": "pacjent musi być na czczo, po co najmniej trzech dniach nieograniczonej diety (150 g węglowodanów) i nieograniczonym wysiłku fizycznym. Poziom glikemii na czczo musi oscylować między 100-125 mg/dl",
+          "B": "na czczo po 1 dobie nieograniczonej diety i wytężonym wysiłku fizycznym. Poziom glukozy musi oscylować między 100-125 mg/dl",
+          "C": "na czczo po 2 dobach nieograniczonej diety i nieograniczonej aktywności fizycznej",
+          "D": "pacjent przychodzi na czczo. Wysiłek i dieta nie mają zasadniczego znaczenia"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 99,
+        "question": "Koronaroplastyka to zabieg polegający na:",
+        "options": {
+          "A": "wszczepieniu stenta lub balonikowaniu naczyń wieńcowych serca",
+          "B": "udrożnianiu tętnic i naczyń żylnych",
+          "C": "wszczepieniu stenta do naczyń wieńcowych lub tętnicy udowej",
+          "D": "cewnikowanie tętnicy udowej"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 100,
+        "question": "Przetoka dializacyjna Cimino-Brescia funkcjonuje prawidłowo:",
+        "options": {
+          "A": "gdy osłuchowo stwierdza się wyraźny szum przy braku tętnienia",
+          "B": "gdy stwierdza się wyraźne tętnienie a osłuchowo nie stwierdza szumu",
+          "C": "gdy nie tętni i nie stwierdza się szumu",
+          "D": "gdy słychać wyraźny szum i tętnienie przetoki"
+        },
+        "correct": "D"
+      }
+    ]
+  },
+  {
+    "section": "Podstawy Pielęgniarstwa - Bank Pytań",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Holizm w odniesieniu do pielęgniarstwa oznacza:",
+        "options": {
+          "A": "świadczenie opieki choremu",
+          "B": "świadczenie opieki we wszystkich obszarach życia człowieka i we wszystkich jego stanach",
+          "C": "częściowe świadczenie opieki człowiekowi choremu i zdrowemu",
+          "D": "działania pielęgniarskie przyczyniające się do poprawy stanu zdrowia człowieka"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 2,
+        "question": "Pielęgniarstwo jest:",
+        "options": {
+          "A": "nauką",
+          "B": "sztuką",
+          "C": "profesją",
+          "D": "wszystkie odpowiedzi prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 3,
+        "question": "Komunikowanie werbalne to:",
+        "options": {
+          "A": "mowa ludzka",
+          "B": "porozumiewanie się bez użycia słowa mówionego i pisanego",
+          "C": "porozumiewanie się za pomocą gestów i mimiki twarzy",
+          "D": "pismo"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 4,
+        "question": "Komunikowanie terapeutyczne to:",
+        "options": {
+          "A": "komunikowanie podporządkowane celowi, który został wcześniej jednoznacznie określony;",
+          "B": "komunikowanie wywierające pozytywny wpływ na podmiot opieki;",
+          "C": "komunikowanie zakładające jaki ma być końcowy efekt tego kontaktu;",
+          "D": "żadna odpowiedź nie jest prawidłowa."
+        },
+        "correct": "B"
+      },
+      {
+        "number": 5,
+        "question": "Każda relacja interpersonalna musi być:",
+        "options": {
+          "A": "efektywna",
+          "B": "celowa",
+          "C": "terapeutyczna",
+          "D": "wszystkie odpowiedzi prawidłowe"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 6,
+        "question": "Zaznacz fałszywe zdanie. Pielęgnowanie nowoczesne rozumiane jest jako:",
+        "options": {
+          "A": "pomaganie w pielęgnowaniu",
+          "B": "pomaganie w zakresie leczenia przez wykonywanie zleceń lekarskich",
+          "C": "asystowanie człowiekowi w zdrowiu, chorobie i niepełnej sprawności",
+          "D": "kształtowanie umiejętności samoopiekuńczych"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 7,
+        "question": "Zaznacz fałszywą odpowiedź. Proces pielęgnowania to inaczej:",
+        "options": {
+          "A": "pielęgnowanie nowoczesne",
+          "B": "pielęgnowanie racjonalne",
+          "C": "pielęgnowanie tradycyjne",
+          "D": "pielęgnowanie indywidualne"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 8,
+        "question": "Podstawowymi właściwościami procesu pielęgnowania nie jest:",
+        "options": {
+          "A": "całościowe podejście do podmiotu opieki",
+          "B": "ciągłość i dynamika",
+          "C": "wąskie możliwości realizowania opieki",
+          "D": "uniwersalność"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 9,
+        "question": "Zaznacz prawidłową kolejność etapów procesu pielęgnowania:",
+        "options": {
+          "A": "planowanie, rozpoznanie, realizacja, ocena",
+          "B": "rozpoznanie, planowanie, realizacja, ocena",
+          "C": "ocena, planowanie, rozpoznanie, realizacja",
+          "D": "rozpoznanie, planowanie, ocena, realizacja"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 10,
+        "question": "Florence Nightingale w swoim modelu główny nacisk położyła na:",
+        "options": {
+          "A": "relacje międzyludzkie",
+          "B": "środowisko otaczające człowieka",
+          "C": "asystowanie człowiekowi zdrowemu lub choremu w jego codziennych aktywnościach",
+          "D": "samoopiekę"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 11,
+        "question": "Zaznacz fałszywą odpowiedź. Podstawowe pojęcia dla wszystkich teorii to:",
+        "options": {
+          "A": "osoba",
+          "B": "pielęgniarstwo",
+          "C": "środowisko",
+          "D": "zdrowie"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 12,
+        "question": "Celem opieki zdrowotnej jest:",
+        "options": {
+          "A": "utrzymanie jak najlepszego stanu zdrowia indywidualnych ludzi",
+          "B": "utrzymanie jak najlepszego stanu zdrowia grup społecznych",
+          "C": "utrzymanie jak najlepszego stanu zdrowia całego społeczeństwa",
+          "D": "wszystkie odpowiedzi prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 13,
+        "question": "Zaznacz fałszywe zdanie:",
+        "options": {
+          "A": "do opieki nieprofesjonalnej zaliczamy samoopiekę",
+          "B": "opieka nieprofesjonalna obejmuje wszystkie środki podejmowane przez nieprofesjonalistów w celu promowania podtrzymywania i przywracania zdrowia",
+          "C": "opiekę określamy jako nieprofesjonalną, jeżeli opiekun wykonuje zadania zgodnie z ustalonymi normami i procedurami oraz ma kwalifikacje niezbędne do świadczenia określonego zakresu opieki",
+          "D": "opieka nieprofesjonalna jest to pomoc udzielana przez, np. krewnych, przyjaciół, sąsiadów"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 14,
+        "question": "Do świadczeń jakich udziela pielęgniarka należą:",
+        "options": {
+          "A": "świadczenia pielęgnacyjne i diagnostyczne",
+          "B": "świadczenia rehabilitacyjne",
+          "C": "świadczenia lecznicze",
+          "D": "wszystkie prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 15,
+        "question": "Do zakresu zadań opiekuńczych zalicza się:",
+        "options": {
+          "A": "pomaganie w wykonywaniu tych czynności życia codziennego, które gwarantują komfort w życiu codziennym",
+          "B": "przygotowanie pacjenta do samoopieki",
+          "C": "planowanie i realizowanie działań profilaktycznych",
+          "D": "współudział w badaniach naukowych"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 16,
+        "question": "Jakość opieki pielęgniarskiej oceniamy najczęściej analizując:",
+        "options": {
+          "A": "wynik",
+          "B": "proces",
+          "C": "strukturę",
+          "D": "wszystkie odpowiedzi prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 17,
+        "question": "Standard to:",
+        "options": {
+          "A": "wymóg, norma jakości wykonania zadania",
+          "B": "dokładny plan wykonania zadania",
+          "C": "znormalizowany sposób postępowania z planem postępowania",
+          "D": "obowiązująca reguła postępowania wyznaczająca racjonalny sposób postępowania"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 18,
+        "question": "Zaznacz fałszywe zdanie. Proces diagnozowania obejmuje następujące etapy:",
+        "options": {
+          "A": "gromadzenie informacji",
+          "B": "rozpoznanie stanu zdrowia podopiecznego w aspekcie zdrowia biopsychospołecznego",
+          "C": "analiza i syntetyzowanie informacji",
+          "D": "ustalenie dalszego postępowania opiekuńczego"
+        },
+        "correct": "D"
+      }
+    ]
+  }
+]

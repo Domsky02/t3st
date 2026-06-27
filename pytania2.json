@@ -1,0 +1,173 @@
+[
+  {
+    "section": "Egzamin 2024 - Część 2",
+    "questions": [
+      {
+        "number": 16,
+        "question": "Wskaż zdanie prawdziwe dotyczące zasad funkcjonowania podstawowej opieki zdrowotnej:",
+        "options": {
+          "A": "POZ koncentruje swoje działania na świadczeniach z zakresu promocji i profilaktyki",
+          "B": "POZ ukierunkowuje swoje działania głownie na leczenie osób chorych",
+          "C": "POZ udziela świadczeń tym pacjentom, którzy zgłaszają się po poradę z własnej inicjatywy",
+          "D": "POZ ogranicza świadczenia wyłącznie do działań lekarskich"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 17,
+        "question": "Świadczenia pielęgniarki szkolnej nie obejmują:",
+        "options": {
+          "A": "prowadzenia grupowej profilaktyki fluorkowej w klasach I-VI",
+          "B": "wykonywania i interpretowania testów przesiewowych",
+          "C": "czynnego poradnictwa dla uczniów z problemami zdrowotnymi",
+          "D": "wykonywania szczepień ochronnych zgodnych z kalendarzem szczepień"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 18,
+        "question": "Wskaz zdanie prawdziwe dotyczące sposobu finansowania świadczeń zdrowotnych w POZ:",
+        "options": {
+          "A": "dominującą formą rozliczania usług w POZ jest system kapitacyjny",
+          "B": "zasada „za przypadek\" występuje w kontraktowaniu świadczeń przez położną POZ",
+          "C": "system zadaniowy jest formą kontraktowania usług przez pielęgniarkę POZ",
+          "D": "zasada „za przypadek\" występuje w kontraktowaniu świadczeń przez pielęgniarkę POZ"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 19,
+        "question": "W systemie „per capita\", wielkość stawki kapitacynej pielęgniarki POZ uzależniona jest od: 1. wieku pacjenta, 2. ilości pacjentów objętych praktyka, 3. stanu zdrowia pacjenta, 4. miejsca pobytu pacjenta, 5. od natężenia pracy w ciągu roku. Prawidłowe to:",
+        "options": {
+          "A": "1,2",
+          "B": "1,4",
+          "C": "1.2.3.4",
+          "D": "1,2,4,5"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 20,
+        "question": "Świadczenia diagnostyczne pielęgniarki POZ nie obejmują:",
+        "options": {
+          "A": "przeprowadzania wywiadów środowiskowych",
+          "B": "oceny wydolności pielęgnacyjno - opiekuńczej rodziny",
+          "C": "oceny i monitorowania bólu u pacjenta",
+          "D": "pobierania materiału do badań diagnostycznych w gabinete zabiegowym"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 21,
+        "question": "Wytyczne zawarte w Programie Szczepień Ochronnych zależne są od:",
+        "options": {
+          "A": "sytuacji epidemiologicznej kraju",
+          "B": "możliwości finansowych budżetu państwa",
+          "C": "sytuacji epidemiologicznej kraju i państw ościennych oraz możliwości finansowych budżetu państwa",
+          "D": "sytuacji epidemiologicznej kraju oraz państw ościennych"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 22,
+        "question": "Wskaż błędne wytyczne w odniesieniu do dokumentacji medycznej prowadzonej w POZ.:",
+        "options": {
+          "A": "może by prowadzona w postaci elektronicznej, stanowi własność POZ",
+          "B": "stanowi własność POZ, może byt udostępniona organom samorządu zawodowego",
+          "C": "może by udostępniona organom samorządu zawodowego, może być prowadzona w postaci elektronicznej",
+          "D": "stanowi własność pacjenta, nie może być udostępniona organom samorządu zawodowego"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 23,
+        "question": "Świadczenia gwarantowane pielęgniarki POZ nie obejmują:",
+        "options": {
+          "A": "wizyty realizowanej w domu świadczeniobiorcy",
+          "B": "wizyty patronażowej",
+          "C": "wykonywania obowiązkowych szczepień ochronnych",
+          "D": "wykonywania testów przesiewowych w terminach odpowiadających powszechnym profilaktycznym badaniom lekarskim",
+          "E": "nie gwarantują żadnych"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 24,
+        "question": "Świadczenia realizowane przez zespól POZ nie obejmują działań:",
+        "options": {
+          "A": "nocnej i świątecznej opieki lekarskiej i pielęgniarskiej w POZ",
+          "B": "pielęgniarki szkolnej",
+          "C": "pielęgniarki opieki długoterminowej",
+          "D": "transportu sanitarnego"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 25,
+        "question": "Zdrowy noworodek w pierwszych miesiącach życia powinien być karmiony",
+        "options": {
+          "A": "mlekiem z obniżoną zawartością laktozy",
+          "B": "mlekiem następnym gdy matka nie ma pokarmu",
+          "C": "wyłącznie mlekiem matki",
+          "D": "mlekiem sojowym"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 26,
+        "question": "Po urodzeniu najsłabiej rozwiniętym narządem zmysłu jest",
+        "options": {
+          "A": "smak",
+          "B": "wzrok",
+          "C": "słuch",
+          "D": "Czucie bólu"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 27,
+        "question": "Dziecko o masie 18 kg powinno na dobę przyjąć minimum",
+        "options": {
+          "A": "1600 ml płynów",
+          "B": "1000 ml płynów",
+          "C": "1400 ml płynów",
+          "D": "750 ml płynów"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 28,
+        "question": "Wskaż zdanie prawidłowe dotyczące zasad funkcjonowania nocnej i świątecznej opieki medycznej w POZ:",
+        "options": {
+          "A": "Świadczenia mogą być udzielane jedynie w przypadku zaostrzenia choroby przewlekłej (np. kolejny, umiarkowany napad astmy oskrzelowej)",
+          "B": "w przypadkach uzasadnionych medycznie lekarz wydaje skierowania na konsultacje specjalistyczne",
+          "C": "objecie tą formą opieki nie wymaga składania dodatkowych, imiennych Deklaracji wyboru lekarza i pielęgniarki nocnej i świątecznej opieki w POZ\"",
+          "D": "pacjenci mogą mieć przedłużone recepty na leki stosowane przewlekle"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 29,
+        "question": "Nowoczesna podstawowa opieka zdrowotna charakteryzuje się:",
+        "options": {
+          "A": "biurokratycznym i hierarchicznym typem struktury",
+          "B": "realizowaniem świadczeń w sposób ciągły, skoordynowany i holistyczny",
+          "C": "kierowaniem swoich działań na chorobę",
+          "D": "brakiem współpracy międzysektorowej na poziomie społeczności lokalnej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 30,
+        "question": "Do rutynowego wyposażenia gabinetu pielęgniarki POZ nie należy:",
+        "options": {
+          "A": "zestaw przeciwwstrząsowy",
+          "B": "waga medyczna dla niemowląt",
+          "C": "oftalmoskop",
+          "D": "tablice do badania ostrości wzroku"
+        },
+        "correct": "C"
+      }
+    ]
+  }
+]

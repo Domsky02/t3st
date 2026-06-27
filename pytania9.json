@@ -1,0 +1,472 @@
+[
+  {
+    "section": "Podstawy Pielęgniarstwa - Bank Pytań (Dokończenie)",
+    "questions": [
+      {
+        "number": 69,
+        "question": "Wskazaniem do zastosowania zimna są:",
+        "options": {
+          "A": "Bóle mięśniowe",
+          "B": "wzdęcia",
+          "C": "krwotoki z nosa",
+          "D": "choroby reumatyczne"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 70,
+        "question": "Wykonując wstrzyknięcie podskórne wprowadzamy igłę pod kątem:",
+        "options": {
+          "A": "25°",
+          "B": "45°",
+          "C": "60°",
+          "D": "90°"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 71,
+        "question": "Wg WHO codzienna podaż soli nie powinna przekraczać:",
+        "options": {
+          "A": "4g",
+          "B": "5g",
+          "C": "6g",
+          "D": "7g"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 72,
+        "question": "Dieta oszczędzająca oznacza:",
+        "options": {
+          "A": "Ograniczenie pokarmów zawierających substancje pobudzające wydzielanie soku żołądkowego",
+          "B": "Ograniczeniu spożycia substancji resztkowych",
+          "C": "Ograniczeniu podaży soli",
+          "D": "Ograniczeniu podaży białka"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 73,
+        "question": "Gimnastyka oddechowa nie ma na celu:",
+        "options": {
+          "A": "Zwiększenia ruchomości klatki piersiowej",
+          "B": "Poprawienia mechaniki oddychania",
+          "C": "Zapobiegania niedodmie i zapaleniu płuc",
+          "D": "Utrzymania skóry w stanie pozwalającym na prawidłowe jej funkcjonowanie"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 74,
+        "question": "Gimnastyka ogólno usprawniająca powinna być wykonywana nie rzadziej niż:",
+        "options": {
+          "A": "1 raz dziennie",
+          "B": "2 razy dziennie",
+          "C": "3 razy dziennie",
+          "D": "4 razy dziennie"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 75,
+        "question": "Kolostomia jest to stoma wykonana na:",
+        "options": {
+          "A": "Jelicie cienkim",
+          "B": "Jelicie grubym",
+          "C": "Moczowodzie",
+          "D": "Przełyku"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 76,
+        "question": "Oceniając oddech pacjenta zwracamy uwagę na:",
+        "options": {
+          "A": "rytm i jakość oddechów;",
+          "B": "pracę dodatkowych mięśni oddechowych;",
+          "C": "odgłosy wydawane przy wdechu i wydechu;",
+          "D": "wszystkie odpowiedzi są prawidłowe."
+        },
+        "correct": "D"
+      },
+      {
+        "number": 77,
+        "question": "Dokonując pomiaru ciśnienia tętniczego krwi napełniamy mankiet powietrzem aż do momentu, kiedy wartość ciśnienia na manometrze jest:",
+        "options": {
+          "A": "10 mmHg wyższa od wartości przy którym zanikło tętno;",
+          "B": "30 mmHg wyższa od wartości przy którym zanikło tętno;",
+          "C": "napełniamy mankiet do maksymalnej wartości;",
+          "D": "sugerujemy się wartością poprzedniego pomiaru ciśnienia tętniczego krwi."
+        },
+        "correct": "B"
+      },
+      {
+        "number": 78,
+        "question": "Oceniając reakcje odruchowe kończyn dolnych zwracamy uwagę na:",
+        "options": {
+          "A": "obecność odruchów;",
+          "B": "symetryczność odruchów;",
+          "C": "wzmożenie odruchów/zniesienie odruchów;",
+          "D": "wszystkie odpowiedzi są prawidłowe."
+        },
+        "correct": "D"
+      },
+      {
+        "number": 79,
+        "question": "Ile wynosi wskaźnik BMI u pacjenta ważącego 78 kg, przy wzroście 170 cm.?:",
+        "options": {
+          "A": "24,8",
+          "B": "25,96",
+          "C": "26.98",
+          "D": "27,21"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 80,
+        "question": "Według BMI otyłość mieści się w granicach:",
+        "options": {
+          "A": "20-25",
+          "B": "25-30",
+          "C": "30-40",
+          "D": "35-45"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 81,
+        "question": "W jakiej odległości od tablicy Snellena musi stanąć badany, aby pomiar ostrości wzroku był prawidłowy?:",
+        "options": {
+          "A": "2m",
+          "B": "3m",
+          "C": "4m",
+          "D": "5m"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 82,
+        "question": "Oceniając stan jamy ustnej zwracamy uwagę między innymi na zabarwienie języka, język w kolorze malinowym z wyraźnie zaznaczonymi brodawkami jest charakterystycznym objawem towarzyszącym:",
+        "options": {
+          "A": "niedokrwistości",
+          "B": "chorobom układu pokarmowego",
+          "C": "płonicy",
+          "D": "odrze"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 83,
+        "question": "Na jaką głębokość należy wprowadzić zgłębnik do żołądka w celu pobrania treści do badania:",
+        "options": {
+          "A": "do 35 cm",
+          "B": "do 40 cm",
+          "C": "do 45 cm",
+          "D": "do 50 cm"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 84,
+        "question": "Laparoskopia to badanie polegające na:",
+        "options": {
+          "A": "wziernikowaniu odbytnicy",
+          "B": "wziernikowaniu jelita grubego",
+          "C": "wziernikowaniu jamy otrzewnej",
+          "D": "wziernikowaniu tchawicy i oskrzeli"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 85,
+        "question": "Pobranie płynu mózgowo-rdzeniowego wykonuje się wprowadzając igłę punkcyjną do przestrzeni :",
+        "options": {
+          "A": "L3-L4",
+          "B": "L4-L5",
+          "C": "L5-L6",
+          "D": "answers_A_and_B_correct"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 86,
+        "question": "Przed, którym z wymienionych badań podaję się histaminę (środek pobudzający wydzielanie):",
+        "options": {
+          "A": "kolonoskopią",
+          "B": "rektoskopią",
+          "C": "zgłębnikowaniem żołądka",
+          "D": "zgłębnikowaniem dwunastnicy"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 86,
+        "question": "W jakiej temperaturze należy przechowywać leki takie jak czopki, szczepionki?:",
+        "options": {
+          "A": "0-2°C",
+          "B": "2-4°C",
+          "C": "4-6°C",
+          "D": "w temperaturze pokojowej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 87,
+        "question": "Szybkość przepływu tlenu podawanego z butli przez maskę wynosi:",
+        "options": {
+          "A": "2-4 l/min",
+          "B": "4-5 l/min",
+          "C": "2-6 l/min",
+          "D": "6-8 l/min"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 88,
+        "question": "Drogą wstrzyknięć domięśniowych można podawać roztwory:",
+        "options": {
+          "A": "wodne",
+          "B": "oleiste",
+          "C": "zawiesiny",
+          "D": "wszystkie odpowiedzi prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 89,
+        "question": "Jednym ze środków stosowanych do kąpieli leczniczych jest nadmanganian potasu, którego działanie jest:",
+        "options": {
+          "A": "odkażające",
+          "B": "osłaniające",
+          "C": "przeciwgrzybiczne",
+          "D": "wysuszające i odkażające"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 90,
+        "question": "Bogatym źródłem pokarmowym błonnika są:",
+        "options": {
+          "A": "świeże pszenne pieczywo;",
+          "B": "pieczywo razowe",
+          "C": "otręby, warzywa, owoce",
+          "D": "odpowiedzi b, c są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 91,
+        "question": "W przypadku oparzenia kwasami należy przemyć ranę:",
+        "options": {
+          "A": "3% roztworem wodorowęglanu sodu (sodą oczyszczoną)",
+          "B": "1% roztworem kwasu octowego",
+          "C": "3% roztworem kwasu borowego",
+          "D": "nie należy przemywać żadnym z wymienionych środków"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 92,
+        "question": "Do witamin rozpuszczalnych w tłuszczach nie zaliczamy:",
+        "options": {
+          "A": "C",
+          "B": "A",
+          "C": "D",
+          "D": "E"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 93,
+        "question": "Odsysanie najdłużej może trwać:",
+        "options": {
+          "A": "15 sekund",
+          "B": "20 sekund",
+          "C": "30 sekund",
+          "D": "40 sekund"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 94,
+        "question": "Edukacja zdrowotna to:",
+        "options": {
+          "A": "przygotowanie pacjenta do samoopieki",
+          "B": "proces, w którym ludzie uczą się, jak dbać o zdrowie własne i zdrowie społeczności w której żyją",
+          "C": "umożliwienie ludziom decydowania o sprawach ich zdrowia",
+          "D": "rozpoznawanie, rozwiązywanie i ocenianie problemów zdrowotnych pacjenta"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 95,
+        "question": "Ścieląc łóżko pacjentowi leżącemu, zgłaszającemu duszność musisz zrezygnować z pewnego elementu wchodzącego w zakres słania łóżka. Z którego elementu zrezygnujesz uwzględniając stan pacjenta?",
+        "options": {
+          "A": "z ułożenia pacjenta na prawym boku, naciągania podkładów",
+          "B": "z wyjęcia poduszek na czas ścielenia łóżka",
+          "C": "z poprawiania poduszek, naciągania prześcieradła na całej długości",
+          "D": "z naciągania dolnych warstw bielizny pościelowej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 96,
+        "question": "Celem pielęgnacji skóry nie jest:",
+        "options": {
+          "A": "oczyszczanie skóry",
+          "B": "odżywianie skóry",
+          "C": "wysuszanie skóry",
+          "D": "ochrona skóry"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 97,
+        "question": "Do pielęgnacji skóry powinno się stosować wodę:",
+        "options": {
+          "A": "zawierającą sole mineralne",
+          "B": "zawierającą środki do pielęgnacji skóry",
+          "C": "miękką",
+          "D": "chlorowaną"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 98,
+        "question": "Które z wymienionych składników pokarmowych dostarczają organizmowi energii:",
+        "options": {
+          "A": "tłuszcze, białka, węglowodany",
+          "B": "białka, tłuszcze, witaminy",
+          "C": "tylko tłuszcze",
+          "D": "tylko węglowodany"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 99,
+        "question": "Łojotokowa wysypka zapalna umiejscowiona jest:",
+        "options": {
+          "A": "w fałdach szyjnych",
+          "B": "w pachwinach",
+          "C": "na twarzy",
+          "D": "wszystkie odpowiedzi prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 100,
+        "question": "Czy można przykleić plaster samoprzylepny z pojemnikiem na podrażnioną skórę wokół urostomii?",
+        "options": {
+          "A": "tak",
+          "B": "nie"
+        },
+        "correct": "A"
+      }
+    ]
+  },
+  {
+    "section": "Podstawy Pielęgniarstwa - Teorie",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Pielęgniarstwo wg. Florence Nightingale ma jaki charakter:",
+        "options": {
+          "A": "humanitarny",
+          "B": "humanistyczny",
+          "C": "humanistyczny i humanitarny",
+          "D": "żadne z powyższych"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 2,
+        "question": "Pielęgniarstwo wg Florence Nightingale jest domeną:",
+        "options": {
+          "A": "mężczyzn",
+          "B": "kobiet",
+          "C": "odpowiedzi a i b są prawidłowe",
+          "D": "żadne z powyższych"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 3,
+        "question": "W swoim szerokim rozumieniu pielęgniarstwa F. Nightingale rozróżniała dwa rodzaje pielęgniarstwa:",
+        "options": {
+          "A": "moralno-zdyscyplinowanego i w chorobie",
+          "B": "społecznego i w służbie Bogu",
+          "C": "etyczno-społecznego i w zdrowiu",
+          "D": "w zdrowiu i właściwe (w chorobie)"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 4,
+        "question": "W którym roku ukazało się Notes of Nursing- what it is and what it is not F. Nightingale:",
+        "options": {
+          "A": "1872",
+          "B": "1949",
+          "C": "1969",
+          "D": "1859"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 5,
+        "question": "Szkoła F. Nightingale miała charakter:",
+        "options": {
+          "A": "sakralny, kulturowy,",
+          "B": "świecki, demokratyczny",
+          "C": "nieświecki, duchowny",
+          "D": "demokratyczny, autokratyczny"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 6,
+        "question": "Ile kanonów (praw) pielęgniarstwa przedstawiała F. Nightingale:",
+        "options": {
+          "A": "7",
+          "B": "10",
+          "C": "13",
+          "D": "9"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 7,
+        "question": "Jakie kanony (prawa) pielęgniarstwa przedstawiała F. Nightingale:",
+        "options": {
+          "A": "wentylacja i ogrzewanie, zdrowie domu, światło, hałas, czystość pokoju i ścian oraz czystość osobista, obserwacja,",
+          "B": "wentylacja i ogrzewanie, zdrowie domu, światło, hałas, różnorodność, łóżko- jego wyposażenie, utrzymanie w czystości i zapewnienie wygody, czystość pokoju i ścian oraz czystość osobista",
+          "C": "wentylacja i ogrzewanie, zdrowie domu, światło, hałas, różnorodność, łóżko- jego wyposażenie, utrzymanie w czystości i zapewnienie wygody, czystość pokoju i ścian oraz czystość osobista, żywienie i podawanie posiłków, „głupie\" budzenie nadziei i doradzanie, obserwacja, zarządzanie",
+          "D": "utrzymanie w czystości i zapewnienie wygody, czystość pokoju i ścian oraz czystość osobista, żywienie i podawanie posiłków,,,głupie\" budzenie nadziei i doradzanie, obserwacja"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 8,
+        "question": "Nadrzędne pojęcia pielęgniarstwa wg. F. Nightingale są:",
+        "options": {
+          "A": "zdrowie, osoba, środowisko, pielęgniarstwo",
+          "B": "zdrowie, osoba, środowisko",
+          "C": "zdrowie, osoba, życie",
+          "D": "zdrowie, osoba, życie, środowisko"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 9,
+        "question": "Ile jest nadrzędnych pojęć pielęgniarstwa wg. F Nightingale:",
+        "options": {
+          "A": "6",
+          "B": "3",
+          "C": "nie ma prawidłowej odpowiedzi",
+          "D": "2"
+        },
+        "correct": "C"
+      }
+    ]
+  }
+]

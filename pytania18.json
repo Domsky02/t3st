@@ -1,0 +1,483 @@
+[
+  {
+    "section": "Pielęgniarstwo Geriatryczne (Kontynuacja)",
+    "questions": [
+      {
+        "number": 20,
+        "question": "W postępowaniu edukacyjnym pielęgniarki w przypadku wystąpienia kserostomii u osoby starszej zalecisz:",
+        "options": {
+          "A": "ograniczenie stosowania łagodnych środków antybakteryjnych do płukania jamy ustnej",
+          "B": "zaprzestanie palenia tytoniu i nawilżanie jamy ustnej",
+          "C": "ograniczenie stosowania preparatów przeciwgrzybiczych",
+          "D": "zaprzestanie stosowania preparatów zwiększających produkcję śliny"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 21,
+        "question": "Jakiego rodzaju dietę polecisz w celu przyspieszenia procesu gojenia odleżyn:",
+        "options": {
+          "A": "Wysokobiałkową z zawartością cynku",
+          "B": "Wysokobiałkową z zawartością witaminy A i C",
+          "C": "Wysokobiałkową z zawartością L-argininy i kolagenu",
+          "D": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 22,
+        "question": "Narzędziem do oceny wsparcia osób starszych i ich rodzin jest:",
+        "options": {
+          "A": "Berlińska Skala Wsparcia Społecznego",
+          "B": "Wszystkie odpowiedzi są prawidłowe",
+          "C": "Wielowymiarowa Skala Spostrzeganego Wsparcia Społecznego",
+          "D": "Kwestionariusz COPE-Index"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 25,
+        "question": "Wskaż zdanie FAŁSZYWE dotyczące delirium u hospitalizowanych osób starszych:",
+        "options": {
+          "A": "W postępowaniu pielęgniarskim zalecane jest zastosowanie skali CAM a niekiedy wymagane jest zastosowanie przymusu bezpośredniego i stały nadzór nad chorym",
+          "B": "Wśród częstych przyczyn delirium w geriatrii wymienia się m.in.: zakażenia, odwodnienie i zaburzenia elektrolitowe, zabiegi chirurgiczne",
+          "C": "Wśród objawów delirium wymienia się m.in.: pogorszenie kontaktu z otoczeniem, dezorientację, wahania nasilenia zaburzeń, zaburzenia procesów poznawczych",
+          "D": "W leczeniu objawowym pobudzenia w przebiegu delirium stosuje się małe dawki haloperidolu i.v. i benzodiazepiny"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 26,
+        "question": "Deficyt samoobsługi u starszego pacjenta z chorobą Alzheimera może wynikać z:",
+        "options": {
+          "A": "Niedożywienia, zmniejszenia sprawności manualnej rąk i nietolerancji wysiłku",
+          "B": "Przewlekłych i postępujących zaburzeń poznawczych",
+          "C": "Spowolnienia psychoruchowego i poczucia starości",
+          "D": "Przewlekłych i postępujących zaburzeń poznawczych, zmniejszenia sprawności manualnej rąk i nietolerancji wysiłku"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 27,
+        "question": "Do czynników ryzyka upadków u osób starszych zalicza się:",
+        "options": {
+          "A": "hipoglikemię i migotanie przedsionków",
+          "B": "nieumiejętne stosowanie urządzeń wspomagających chód",
+          "C": "polifarmakoterapię",
+          "D": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 28,
+        "question": "Sprawując opiekę nad pacjentem z chorobą Parkinsona zwrócisz uwagę na czas przyjmowania preparatu lewodopy względem czasu przyjmowania posiłków, zwłaszcza bogatobiałkowych:",
+        "options": {
+          "A": "wskazane jest przyjmowanie leku w trakcie posiłku, bo pozwala to na zmniejszenie częstości występowania i nasilania się objawów ubocznych",
+          "B": "należy lek podawać choremu około 30 minut przed posiłkiem",
+          "C": "wskazane jest podawanie leku po przyjęciu posiłku, gdyż zwiększa to jego wchłanianie z przewodu pokarmowego",
+          "D": "nie ma znaczenia czas"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 29,
+        "question": "Jakiego rodzaju dietę polecisz w celu przyspieszenia procesu gojenia odleżyn:",
+        "options": {
+          "A": "Wysokobiałkową z zawartością cynku",
+          "B": "Wysokobiałkową z zawartością witaminy A i C",
+          "C": "Wysokobiałkową z zawartością L-argininy i kolagenu",
+          "D": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 32,
+        "question": "Które połączenie leków zwiększa ryzyko krwawień w geriatrii:",
+        "options": {
+          "A": "Leki z grupy NLPZ i warfaryna",
+          "B": "Leki z grupy NLPZ i acenokumarol",
+          "C": "odpowiedź a. jest prawidłowa",
+          "D": "odpowiedź a i b są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 33,
+        "question": "Do powikłań unieruchomienia w następstowe upadku NIE należy:",
+        "options": {
+          "A": "zakrzepica żył głębokich",
+          "B": "infekcje i odwodnienie",
+          "C": "zawał serca"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 34,
+        "question": "Skala Yesavage'a, używana w kompleksowej ocenie geriatrycznej, służy do oceny:",
+        "options": {
+          "A": "równowagi i chodu",
+          "B": "ryzyka operacyjnego",
+          "C": "depresji",
+          "D": "złożonych czynności życiowych"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 35,
+        "question": "Które połączenie leku i produktu spożywczego NIE jest wskazane w geriatrii:",
+        "options": {
+          "A": "hormony tarczycy i produkty mleczne/mleko",
+          "B": "antybiotyki i produkty mleczne/mleko",
+          "C": "odpowiedź a. jest prawidłowa",
+          "D": "odpowiedzi a. i b. są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 36,
+        "question": "Uszkodzenie pełnej grubości skóry, obejmujące również tkankę podskórną z widoczną martwicą okalających tkanek, oznacza:",
+        "options": {
+          "A": "odleżynę IV stopnia wg klasyfikacji Torrance'a",
+          "B": "odleżynę III stopnia wg klasyfikacji Torrance'a",
+          "C": "odleżynę II stopnia wg klasyfikacji Guttmana",
+          "D": "odleżynę IV stopnia wg klasyfikacji Guttman"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 38,
+        "question": "Wskaż zdanie FAŁSZYWE dotyczące delirium u hospitalizowanych osób starszych:",
+        "options": {
+          "A": "W postępowaniu pielęgniarskim zalecane jest zastosowanie skali CAM a niekiedy wymagane jest zastosowanie przymusu bezpośredniego i stały nadzór nad chorym",
+          "B": "Wśród częstych przyczyn delirium w geriatrii wymienia się m.in.: zakażenia, odwodnienie i zaburzenia elektrolitowe, zabiegi chirurgiczne",
+          "C": "Wśród objawów delirium wymienia się m.in.: pogorszenie kontaktu z otoczeniem, dezorientację, wahania nasilenia zaburzeń, zaburzenia procesów poznawczych",
+          "D": "W leczeniu objawowym pobudzenia w przebiegu delirium stosuje się małe dawki haloperidolu i.v. i benzodiazepiny"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 39,
+        "question": "Do wybranych objawów zagrożenia życia w pielęgniarstwie geriatrycznym zalicza się:",
+        "options": {
+          "A": "duszność, ból i zawroty głowy po upadku",
+          "B": "poziom glikemii wynoszący 45 mg %",
+          "C": "objawy zaburzenia metabolizmu mózgowego",
+          "D": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 40,
+        "question": "Który z poniższych zwrotów jest słuszny w pracy z chorym z otępieniem:",
+        "options": {
+          "A": "proszę rozebrać się i wejść do wanny",
+          "B": "teraz pomogę Pani przy kąpieli",
+          "C": "proszę wstać z łóżka, ubrać szlafrok i pójść do łazienki",
+          "D": "czy ma Pani teraz ochotę na kąpiel"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 41,
+        "question": "Metoda polegająca na wyrozumiałym i empatycznym przyjmowaniu subiektywnej rzeczywistości osoby starszej, kształtowanej pod wpływem choroby i przeżyć z przeszłości to:",
+        "options": {
+          "A": "Orientacja realistyczna",
+          "B": "Walidacja",
+          "C": "Trening reminiscencyjny",
+          "D": "Trening pamięci i orientacji"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 42,
+        "question": "Geriatryczna opieka pielęgniarska nad osobami w zaawansowanym wieku poddawanymi hemodializie polega m. in. na obserwacji późnych powikłań hemodializy, do których należą:",
+        "options": {
+          "A": "zakażenie przetoki tętniczo- żylnej lub cewnika do dializ",
+          "B": "bakteryjne zakażenie układu oddechowego i wsierdzia",
+          "C": "tylko odpowiedź a. jest prawidłowa",
+          "D": "odpowiedzi a. i b. są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 43,
+        "question": "Błędy jatrogenne w pielęgniarstwie geriatrycznym mogą wynikać z:",
+        "options": {
+          "A": "niewłaściwej komunikacji z pacjentem i nieprawidłowej postawy wobec chorego",
+          "B": "niewłaściwie wykonanych badań",
+          "C": "nieodpowiedniego podawanie leków",
+          "D": "Wszystkie odpowiedzi są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 44,
+        "question": "W postępowaniu edukacyjnym pielęgniarki w przypadku wystąpienia kserostomii u osoby starszej zalecisz:",
+        "options": {
+          "A": "ograniczenie stosowania łagodnych środków antybakteryjnych do płukania jamy ustnej",
+          "B": "zaprzestanie palenia tytoniu i nawilżanie jamy ustnej",
+          "C": "ograniczenie stosowania preparatów przeciwgrzybiczych",
+          "D": "zaprzestanie stosowania preparatów zwiększających produkcję śliny"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 45,
+        "question": "Wskaż zdanie FAŁSZYWE dotyczące opieki pielęgniarskiej nad pacjentem niedożywionym w starszym wieku:",
+        "options": {
+          "A": "wśród metod oceny stanu odżywienia osób starszych wymienia się: wywiad żywieniowy, badanie podmiotowe, badania antropometryczne, kwestionariusze MUST i MST, badania biochemiczne i immunologiczne",
+          "B": "w praktyce w niedożywieniu typu marasmus niezbędne jest często żywienie dojelitowe za pomocą zgłębnika lub całkowite żywienie pozajelitowe",
+          "C": "leczenie żywieniowe ma charakter przyczynowy i polega m.in. na zwiększeniu energetyczności diety oraz zawartości w niej białka, częstym podawaniu posiłków małych objętościowo",
+          "D": "w praktyce w niedożywieniu typu kwashiorkor niezbędne jest często żywienie dojelitowe za pomocą zgłębnika lub całkowite żywienie pozajelitowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 47,
+        "question": "Wskaż zdanie FAŁSZYWE dotyczące zasad aktywizacji osoby starszej objętej opieką geriatryczną:",
+        "options": {
+          "A": "ze względu na swoją złożoność i specyfikę rehabilitacja osób starszych musi być prowadzona w specjalistycznych ośrodkach",
+          "B": "kinezyterapia i rehabilitacja osób starszych powinna być zintegrowana z prewencją niepełnosprawności",
+          "C": "regularna aktywność fizyczna składa się z trzech podstawowych elementów: ćwiczeń aerobowych, siłowych i rozciągających",
+          "D": "Podstawą rehabilitacji kardiologicznej w prewencji pierwotnej i wtórnej jest regularna aktywność fizyczna, głównie o charakterze wytrzymałościowym"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 48,
+        "question": "Wskaż zdanie FAŁSZYWE w postępowaniu pielęgniarskim w przypadku uwięźnięcia twardych mas kałowych w odbytnicy u osoby w podeszłym wieku:",
+        "options": {
+          "A": "Uwięźnięcie twardych mas kałowych w odbytnicy is bezwzględnym wskazaniem do zastosowania reżimu sanitarnego ponieważ jest zawsze wywoływana przez Clostridium difficile",
+          "B": "Uwięźnięcie twardych mas kałowych w odbytnicy to biegunka rzekoma, która jest bezwzględnym wskazaniem do zastosowania reżimu sanitarnego i regularnego podawania płynnej parafiny lub dokuzanu sodu aż do uzyskania efektu terapeutycznego",
+          "C": "Uwięźnięcie twardych mas kałowych w odbytnicy to biegunka paradoksalna, która jest bezwzględnym wskazaniem do zastosowania leków prokinetycznych, które pielęgniarka może podać bez zlecenia lekarskiego",
+          "D": "Może być konieczna ręczna ewakuacja stolca, a w profilaktyce nawrotów wymagane jest kilkutygodniowe, regularne wykonywanie wlewów czyszczących"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 49,
+        "question": "Do tzw. wielkich zespołów geriatrycznych NIE zalicza się:",
+        "options": {
+          "A": "depresji",
+          "B": "upadków",
+          "C": "POCHP",
+          "D": "otępienia"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 50,
+        "question": "Polipatologia to inaczej:",
+        "options": {
+          "A": "wielolekowość",
+          "B": "wieloprzyczynowość",
+          "C": "wielochorobowość"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 51,
+        "question": "Opiekując się pacjentem geriatrycznym w fazie agonalnej:",
+        "options": {
+          "A": "należy zastosować elementy tzw. „uporczywej terapii”",
+          "B": "nie należy przyspieszać śmierci ani wydłużać uporczywie umierania",
+          "C": "należy stworzyć choremu i jego bliskim godne warunki umierania",
+          "D": "odpowiedzi b. i c. są prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 52,
+        "question": "Polipragmazja oznacza:",
+        "options": {
+          "A": "Samoleczenie",
+          "B": "Wielolekowość",
+          "C": "Przyjmowanie dużej liczby leków, w tym leków bez wyraźnych wskazań medycznych",
+          "D": "Wielochorobowość lub wielolekowość",
+          "E": "żadna z odpowiedzi nie jest prawidłowa"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 53,
+        "question": "Chory lat 81 wykazuje cechy otępienia, ma upośledzoną zdolność orientacji, urojenia, błądzi nocą po korytarzu. W takiej sytuacji NIE należy:",
+        "options": {
+          "A": "poszukiwać przyczyn dezorientacji",
+          "B": "uświadamiać mu prawdy i przekonywać, że jego opinia jest błędna",
+          "C": "unikać rozdrażniania chorego bezpośrednim przeciwstawianiem się jego woli",
+          "D": "oferować taktownej pomocy, która pozwala na poprawę orientacji"
+        },
+        "correct": "B"
+      }
+    ]
+  },
+  {
+    "section": "Pielęgniarstwo Neurologiczne",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Zaobserwowanie u pacjenta z chorobą Parkinsona objawów takich jak: Bradykinezja i drżenie dystalnych części ciała świadczy o wystąpieniu objawów:",
+        "options": {
+          "A": "wegetatywnych, oponowych, osiowych",
+          "B": "wegetatywnych i przedmiotowych na podstawie badania krwi",
+          "C": "tylko subiektywnych oponowych, podnormalnych i osiowych"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 2,
+        "question": "Aktywizacja ruchowa pacjentów z udarem niedokrwiennym w ostrej fazie to:",
+        "options": {
+          "A": "nacieranie i oklepywanie pleców podczas zmiany pozycji u pacjenta leżącego",
+          "B": "ustawianie stolika przyłóżkowego od strony porażonej kończyny górnej",
+          "C": "profilaktyka przeciw/odleżynowa",
+          "D": "ustawianie stolika przyłóżkowego od strony sprawnej kończyny górnej"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 3,
+        "question": "W ocenie orientacji allopsychicznej pytamy pacjenta o:",
+        "options": {
+          "A": "imię i nazwisko, zawód",
+          "B": "miejsce, w którym się znajduje, datę",
+          "C": "imię dzieci i ich nazwiska",
+          "D": "dzień tygodnia, wykształcenie, wiek"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 4,
+        "question": "U osób, które nie przestrzegają zaleceń zespołu medycznego, może wystąpić w 3-4 dobie, zespół popunkcyjny, tzn. reakcja organizmu, po jakim badaniu:",
+        "options": {
+          "A": "TK z kontrastem",
+          "B": "biopsji mięśnia",
+          "C": "nakłucia lędźwiowego",
+          "D": "EEG"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 5,
+        "question": "Podczas prowadzenia obserwacji pielęgniarskiej zauważasz u pacjenta z chorobą Parkinsona niemożność zatrzymania się na polecenie (tendencja do padania do przodu), objaw świadczy o:",
+        "options": {
+          "A": "agnozji",
+          "B": "dysfonii",
+          "C": "afazji mechanicznej",
+          "D": "propulsji"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 6,
+        "question": "Do czynności pielęgniarskich podczas dyżuru w oddziale neurologii nie należy:",
+        "options": {
+          "A": "ocenianie stanu świadomości pacjenta wg skali Barthel",
+          "B": "obserwacja nieformalna pacjentów",
+          "C": "ocenianie stanu świadomości pacjenta wg skali Glasgow",
+          "D": "obserwacja formalna pacjentów"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 7,
+        "question": "Jeśli w trakcie podawania posiłku u pacjenta z udarem mózgowym pielęgniarka zauważa trudności w połykaniu pokarmów, może to świadczyć o:",
+        "options": {
+          "A": "dyzartrii",
+          "B": "dysfagii",
+          "C": "apraksji",
+          "D": "agnozji"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 8,
+        "question": "Pielęgniarka zmierzyła ciśnienie tętnicze pacjenta w pierwszej dobie udaru niedokrwiennego mózgu wynik 170/98mmHg. Co powinna zrobić w takiej sytuacji:",
+        "options": {
+          "A": "niezwłocznie poinformować lekarza i podać leki hipotensyjne",
+          "B": "podać leki wg indywidualnej karty, zwiększyć dawkę leków hipotensyjnych",
+          "C": "wpisać w kartę obserwacyjną, bezwzględnie nie obniżać lekami hipotensyjnymi, podłączyć płyn infuzyjny z 10% natrium chloratum",
+          "D": "dokonać dalszej obserwacji stanu, zmierzyć tętno, temperaturę ciała, saturację i poinformować lekarza o wszystkich wynikach"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 9,
+        "question": "Podczas przyjęcia pacjenta na oddział w historii choroby przeczytałaś/eś diagnozę: \"Przemijający niedokrwienny udar mózgowy\", co może świadczyć, że to:",
+        "options": {
+          "A": "krwawienie do przestrzeni podpajęczej z objawami sztywności karku",
+          "B": "przełom miasteniczny",
+          "C": "objawy ogniskowe takie jak afazja, dysfagia, itp., utrzymujące się nie dłużej niż 24 godziny",
+          "D": "objawy ogniskowe takie jak dysleksja, aleksja, itp., utrzymujące się dłużej niż 24 godziny"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 10,
+        "question": "Badanie czynności mięśni podczas spoczynku, niewielkiego ruchu i wysiłku maksymalnego ocenia się wykonując badanie:",
+        "options": {
+          "A": "Elektromiografia (EMG)",
+          "B": "Elektroneurografia (ENG)",
+          "C": "Elektroencefalografia (EEG)",
+          "D": "Elektrokardiografia (EKG)"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 11,
+        "question": "Pielęgniarka ocenia świadomość pacjenta w ujęciu jakościowym, czyli:",
+        "options": {
+          "A": "zdolności do utrzymania stanu czuwania",
+          "B": "zdolności do szybkiego wybudzania się ze snu",
+          "C": "spójności myślenia i kojarzenia",
+          "D": "spójności wypowiedzi niewerbalnej"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 12,
+        "question": "Do punkcji lędźwiowej układa się pacjenta w pozycji:",
+        "options": {
+          "A": "Trendelenburga i na boku z przywiedzioną głową oraz kończynami dolnymi do tułowia",
+          "B": "na boku z przywiedzioną głową oraz kończynami dolnymi do tułowia",
+          "C": "płaskiej tylko na lewym boku - z przywiedzioną głową oraz kończynami dolnymi do tułowia",
+          "D": "na wznak z uniesionymi nogami do góry"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 13,
+        "question": "Do gromadzenia danych o pacjencie uzyskuje się poprzez poniższe ZA WYJĄTKIEM. Wskaż błędną odpowiedź:",
+        "options": {
+          "A": "Wywiad z chorym tylko kiedy jest przytomny",
+          "B": "Obserwację, badanie fizykalne, wywiad z chorym i/lub rodziną",
+          "C": "Analizę dokumentacji medycznej, pomiar parametrów życiowych",
+          "D": "Tylko wywiad i badanie fizykalne"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 14,
+        "question": "Zbierając wywiad uzyskałaś/eś informacje od pacjenta o chorobach współistniejących - nadciśnienie tętnicze leczone sporadycznie i cukrzyca insulino zależna. Z obserwacji: niewyraźna mowa, ułożenie głowy sugerujące niedowidzenie połowicze. Pacjent po TK - wynik nie ma zmian sugerujących udar mózgowy. W planach wykonanie badania usg tętnic szyjnych. Rodzina pacjenta utrzymuje, że podobne objawy wystąpiły 3 tyg. temu i ustąpiły po około godzinie. Przypuszczalnie w tamtym okresie przeszedł:",
+        "options": {
+          "A": "udar krwotoczny mózgu",
+          "B": "stłuczenie mózgu",
+          "C": "przemijający atak niedokrwienny",
+          "D": "udar niedokrwienny mózgu dokonany"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 15,
+        "question": "Jak ma się przygotować chory do badania naczyniowego - angiografii na godzinę 14:00?",
+        "options": {
+          "A": "w dniu badania może zjeść lekki posiłek do godziny 8:00, wskazane spożywanie kawy i herbaty",
+          "B": "pacjent pozostaje na czczo, pisemna zgoda na badanie",
+          "C": "pacjent pozostaje na czczo i przed badaniem pacjent otrzymuje leki przeciwzakrzepowe",
+          "D": "w dniu badania może zjeść lekki posiłek do godziny 13:00, niewskazane pokarmy wysokobiałkowe"
+        },
+        "correct": "B"
+      }
+    ]
+  }
+]

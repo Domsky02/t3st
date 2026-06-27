@@ -1,0 +1,337 @@
+[
+  {
+    "section": "Podstawy Pielęgniarstwa - Teorie (Dokończenie)",
+    "questions": [
+      {
+        "number": 67,
+        "question": "Wg H. Peplau zapoznanie się przez pielęgniarkę z tym, co niezrozumiałe dla pacjenta jest fazą:",
+        "options": {
+          "A": "orientacji,",
+          "B": "identyfikacji,",
+          "C": "eksploatacji,",
+          "D": "rozwiązania"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 68,
+        "question": "W swoim modelu Hildegarda Peplau przedstawia pielęgniarstwo jako proces interpersonalny, w który są zaangażowane co najmniej:",
+        "options": {
+          "A": "2 osoby (pacjent i pielęgniarka)",
+          "B": "1 osoba(pacjent)",
+          "C": "1 osoba (pielęgniarka)",
+          "D": "wszystkie odpowiedzi są błędne."
+        },
+        "correct": "A"
+      },
+      {
+        "number": 69,
+        "question": "Jakie typy systemu pielęgnowania wyróżnia D. Orem?",
+        "options": {
+          "A": "system wspierająco-uczący,",
+          "B": "częściowo kompensacyjny,",
+          "C": "cakowicie kompensacyjny,",
+          "D": "wszystkie odpowiedzi są poprawne."
+        },
+        "correct": "D"
+      },
+      {
+        "number": 70,
+        "question": "Jakie są 3 kategorie potrzeb według Orem:",
+        "options": {
+          "A": "uniwersalne,",
+          "B": "rozwojowe,",
+          "C": "w zaburzeniach stanu zdrowia,",
+          "D": "wszystkie odpowiedzi są poprawne."
+        },
+        "correct": "D"
+      },
+      {
+        "number": 71,
+        "question": "Jakie jest podstawowe pojęcie w modelu pielęgnowania Doroty Orem?",
+        "options": {
+          "A": "udzielanie wsparcia",
+          "B": "uczenie",
+          "C": "działanie za pacjenta",
+          "D": "samoopieka"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 72,
+        "question": "Jak D. Orem nazywa inaczej niezdolność do samoopieki?",
+        "options": {
+          "A": "brak samoopieki",
+          "B": "niedobór samoopieki",
+          "C": "deficyt samoopieki",
+          "D": "ubytek samoopieki"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 73,
+        "question": "Według D. Orem na poziom zdrowia wpływa:",
+        "options": {
+          "A": "wiek",
+          "B": "stan emocjonalny",
+          "C": "uwarunkowania kulturowe",
+          "D": "wszystkie odpowiedzi prawidłowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 74,
+        "question": "Do jakiej kategorii teorii pielęgniarstwa przypisywana jest D. Orem:",
+        "options": {
+          "A": "środowisko",
+          "B": "potrzeby",
+          "C": "system",
+          "D": "interakcja"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 75,
+        "question": "W jakich teoriach D. Orem przedstawiła własną koncepcję opieki:",
+        "options": {
+          "A": "teorii samoopieki",
+          "B": "teorii deficytu samoopieki,",
+          "C": "teorii systemów pielęgnowania",
+          "D": "wszystkie poprawne"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 76,
+        "question": "Kiedy i gdzie urodziła się Dorothy Orem?",
+        "options": {
+          "A": "w 1914 roku w Baltimorethy Orem97 roku w Kansas City",
+          "B": "w 1914 roku w Baltimore",
+          "C": "w 1914 roku w Dallas",
+          "D": "w 1939 roku w Los Angeles"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 77,
+        "question": "W jakich znaczeniach D. Orem rozpatrywała pielęgniarstwo jako wiedzę:",
+        "options": {
+          "A": "wiedza praktyczna",
+          "B": "wiedza kliniczna",
+          "C": "wiedza pielęgniarska pochodząca z innych źródeł",
+          "D": "wszystkie odpowiedzi są poprawne"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 78,
+        "question": "Potrzeby wspólne dla wszystkich ludzi i konieczne do utrzymania życia, zdrowia i dobrego samopoczucia to potrzeby:",
+        "options": {
+          "A": "uniwersalne,",
+          "B": "rozwojowe",
+          "C": "w sytuacjach zaburzeń stanu zdrowia",
+          "D": "żadna odpowiedź nie jest prawidłowa"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 79,
+        "question": "Rolą pielęgniarki w teorii D. Orem jest:",
+        "options": {
+          "A": "udzielenie pomocy podopiecznemu w zachowaniu lub przywracaniu harmonii umysłu, ciała i duszy",
+          "B": "zaspakajanie potrzeb pacjenta",
+          "C": "przygotowanie do samoopieki w sytuacji deficytu samoopieki",
+          "D": "promocja zdrowia"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 80,
+        "question": "Zastosowanie teorii pielęgnowania D. Orem znalazło miejsce w:",
+        "options": {
+          "A": "pielęgniarstwie klinicznym - proces pielęgnowania,",
+          "B": "prowadzeniu badań naukowych",
+          "C": "pielęgniarstwie środowiskowym,",
+          "D": "promocji zdrowia"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 81,
+        "question": "Teoria pielęgnowania D. Orem znalazła zastosowanie w:",
+        "options": {
+          "A": "pielęgniarstwie pediatrycznym",
+          "B": "rodzinnym",
+          "C": "środowiskowym",
+          "D": "we wszystkich powyższych"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 82,
+        "question": "Deficyt samoopieki jest to różnica jakościowa i ilościowa pomiędzy:",
+        "options": {
+          "A": "systemem opieki pielęgniarskiej a działaniami pacjenta",
+          "B": "terapeutycznymi wymogami samoopieki a działaniami samoopiekuńczymi pacjenta",
+          "C": "potrzebami uniwersalnymi a potrzebami wynikającymi z zaburzeń w stanie zdrowia",
+          "D": "działaniami pielęgniarki a działaniami pacjenta."
+        },
+        "correct": "B"
+      },
+      {
+        "number": 83,
+        "question": "Proces pielęgnowania według D. Orem składał się z 4 etapów. Zaznacz odpowiedź, w której etapy ułożone są chronologicznie:",
+        "options": {
+          "A": "realizacja samoopieki, planowanie opieki, ocena wyników, rozpoznanie problemu,",
+          "B": "rozpoznanie problemu, planowanie opieki, realizacja samoopieki, ocena wyników,",
+          "C": "rozpoznanie problemu, planowanie opieki, ocena wyników, realizacja samoopieki,",
+          "D": "rozpoznanie problemu, realizacja samoopieki, ocena wyników, planowanie opieki"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 84,
+        "question": "Jaką koncepcję stworzyła J. Watson:",
+        "options": {
+          "A": "Samoopieki",
+          "B": "Humanistycznej troskliwości",
+          "C": "Relacji międzyludzkich",
+          "D": "Środowiskowy"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 85,
+        "question": "Czyją kontynuatorką koncepcji była J. Watson:",
+        "options": {
+          "A": "Nightingale",
+          "B": "Orem",
+          "C": "Henderson",
+          "D": "Peplau"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 86,
+        "question": "Czym wg. Watson jest opiekuńczość:",
+        "options": {
+          "A": "Jest istotą pielęgniarstwa urzeczywistniającą się w międzyosobowych relacjach między pielęgniarką, a chorym.",
+          "B": "Jest realizacją 14 potrzeb",
+          "C": "Przejawia się wpływem na zdrowie człowieka poprzez eliminację szkodliwych czynników środowiskowych",
+          "D": "Jest to pomaganie człowiekowi w osiągnięciu stanu adaptacji poprzez oddziaływanie na określone bodźce lub pomoc w wytwarzaniu reakcji adaptacyjnej."
+        },
+        "correct": "A"
+      },
+      {
+        "number": 87,
+        "question": "Osoba wg. Watson to:",
+        "options": {
+          "A": "Jedność umysłu, ciała i duszy, istota, która stanowi część natury",
+          "B": "system adaptacyjny, pozostającym w interakcji ze środowiskiem...",
+          "C": "Zbiór komponentów: fizycznych, intelektualnych, emocjonalnych i duchowych.",
+          "D": "Osoba zdrowa lub chora traktowana jako niezależna całość."
+        },
+        "correct": "A"
+      },
+      {
+        "number": 88,
+        "question": "Według Watson pielęgniarstwo ma naturę:",
+        "options": {
+          "A": "Humanistyczna",
+          "B": "Medyczną",
+          "C": "Przyrodniczą",
+          "D": "Medyczno-przyrodniczą"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 89,
+        "question": "Zdrowie wg. Watson to:",
+        "options": {
+          "A": "Harmonia umysłu, ciała i duszy oraz życie w harmonii z innymi ludźmi i otaczająca naturą",
+          "B": "Brak choroby",
+          "C": "Stan oraz proces bycia i stawanie się osobą zintegrowaną w 4 wymiarach...",
+          "D": "Zdolność człowieka do korzystania z tych wszystkich możliwości i sił, którymi dysponuje."
+        },
+        "correct": "A"
+      },
+      {
+        "number": 90,
+        "question": "Poprzez co pielęgniarka realizuje istotę pielęgniarstwa:",
+        "options": {
+          "A": "Poprzez wpływ na środowisko",
+          "B": "Poprzez urzeczywistnienie humanistycznej troskliwości",
+          "C": "Poprzez pomaganie człowiekowi w osiąganiu stanu adaptacji",
+          "D": "Poprzez asystowanie człowiekowi"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 91,
+        "question": "Potrzeby niższego rzędu to wg Watson:",
+        "options": {
+          "A": "Biofizyczne i biopsychiczne",
+          "B": "Biotechnologiczne",
+          "C": "Psychosocjalne",
+          "D": "Metafizyczne"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 92,
+        "question": "Potrzeby wyższego rzędu to wg Watson:",
+        "options": {
+          "A": "Biofizyczne",
+          "B": "Psychosocjalne oraz intra- i inter-personalne",
+          "C": "Biopsychiczne",
+          "D": "Psychologiczne i biotechnologiczne"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 93,
+        "question": "Edukacja zdrowotna wg Watson powinna być realizowana:",
+        "options": {
+          "A": "w początkowym etapie procesu pielęgnowania",
+          "B": "w końcowym etapie procesu pielęgnowania",
+          "C": "w każdym etapie procesu pielęgnowania",
+          "D": "nie powinna być realizowana"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 94,
+        "question": "W czym wg Watson mają pomóc czynniki opiekuńcze:",
+        "options": {
+          "A": "w pogorszeniu zdrowia",
+          "B": "w utrzymaniu zdrowia lub zapewnieniu pacjentowi spokojnej śmierci",
+          "C": "we wpajaniu wiary i nadziei",
+          "D": "w kultywowaniu wrażliwości swojej i innych osób"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 95,
+        "question": "Międzynarodowy dzień pielęgniarek obchodzony jest w rocznicę urodzin której z prekursorek nowoczesnego pielęgniarstwa?",
+        "options": {
+          "A": "D. Orem,",
+          "B": "V. Henderson,",
+          "C": "F. Nightingale",
+          "D": "H. Peplau"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 96,
+        "question": "Jak nazywa się medal będący prestiżowym odznaczeniem, przyznawanym zasłużonym pielęgniarkom z całego świata przez Międzynarodowy Komitet Czerwonego Krzyża?",
+        "options": {
+          "A": "im. H. Peplau,",
+          "B": "im. V. Henderson",
+          "C": "im. F. Nightingale",
+          "D": "im. D. Orem"
+        },
+        "correct": "C"
+      }
+    ]
+  }
+]

@@ -1,0 +1,487 @@
+[
+  {
+    "section": "Pielęgniarstwo Pediatryczne (Uzupełnienie)",
+    "questions": [
+      {
+        "number": 5,
+        "question": "Pielęgnacja dziecka z mózgowym porażeniem dziecięcym polega na:",
+        "options": {
+          "A": "rehabilitacji ruchowej",
+          "B": "wieloprofilowym usprawnianiu obejmującym działania kinezyterapeutyczne, logopedagogiczne, psychopedagogiczne, rozpoczęte od pierwszego roku życia",
+          "C": "wieloprofilowym usprawnianiu obejmującym działania kinezyterapeutyczne, logopedagogiczne, psychopedagogiczne, rozpoczęte w pierwszych tygodniach życia dziecka",
+          "D": "rehabilitacji czuciowej"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 6,
+        "question": "Niemowlęta urodzone o czasie powinny otrzymywać witaminę D3 w następującej dawce:",
+        "options": {
+          "A": "400 IU",
+          "B": "800 IU",
+          "C": "2000 IU",
+          "D": "Inna wielkość"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 7,
+        "question": "Zdrowy noworodek w pierwszych miesiącach życia powinien być karmiony:",
+        "options": {
+          "A": "wyłącznie mlekiem matki",
+          "B": "mlekiem sojowym, gdy matka nie ma pokarmu",
+          "C": "mlekiem następnym, gdy matka nie ma pokarmu",
+          "D": "mlekiem z obniżoną zawartością laktozy, gdy matka nie ma pokarmu"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 8,
+        "question": "W 2 roku życia dziecko powinno:",
+        "options": {
+          "A": "mówić kilka dwu-trzysylabowych słów",
+          "B": "wyraźnie wymawiać „r”",
+          "C": "żadna nie jest prawidłowa",
+          "D": "mówić kilkanaście słów, umie zbudować proste 2-3 wyrazowe zdanie"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 9,
+        "question": "Zgodnie z zaleceniami obowiązującego kalendarza żywienia niemowlę powinno otrzymać pszenicę w:",
+        "options": {
+          "A": "4 mies. życia gdy jest karmione sztucznie",
+          "B": "8 mies. gdy jest karmione piersią",
+          "C": "w wielkości 12g 2 łyżeczki",
+          "D": "żadna nie jest prawidłowa"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 10,
+        "question": "W 12 miesiącu życia dziecko powinno mówić:",
+        "options": {
+          "A": "co najmniej trzy dwusylabowe słowa",
+          "B": "mówić kilka prostych zdań",
+          "C": "nie musi jeszcze mówić",
+          "D": "żadna nie jest prawidłowa"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 11,
+        "question": "Dziecko powinno utrzymywać głowę w linii ciała, przy podnoszeniu za ręce z pozycji leżącej na plecach:",
+        "options": {
+          "A": "W 10 mies. życia",
+          "B": "W 8 mies.",
+          "C": "W 6 mies.",
+          "D": "W 3 mies."
+        },
+        "correct": "D"
+      },
+      {
+        "number": 12,
+        "question": "Do objawów klinicznych występujących w nadczynności tarczycy zaliczamy:",
+        "options": {
+          "A": "zaparcia stolca, bradykardia, obrzęk śluzowaty, senność",
+          "B": "tachykardia, zwiększone łaknienie, zła tolerancja ciepła, zwiększona potliwość",
+          "C": "bradykardia, zła tolerancja zimna, utrata masy ciała, biegunki",
+          "D": "tachykardia, zła tolerancja zimna, utrata masy ciała, zwiększona potliwość"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 13,
+        "question": "Opiekujesz się noworodkiem urodzonym w 40 tygodniu ciąży, który jest senny, leniwie ssie, ma zaparcia, niską ciepłotę ciała, duży język, duże ciemię, żółtaczka trwa już 16 dni. Co podejrzewasz?",
+        "options": {
+          "A": "wadę cewy nerwowej",
+          "B": "wrodzoną niedoczynność tarczycy",
+          "C": "cukrzycę u matki",
+          "D": "zakażenie tkanki podskórnej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 14,
+        "question": "Profilaktyka zakażeń układu moczowego u dzieci polega na:",
+        "options": {
+          "A": "wszystkie odpowiedzi są prawidłowe",
+          "B": "małej podaży płynów i częstych mikcjach",
+          "C": "dużej podaży płynów i właściwych nawykach higienicznych",
+          "D": "dużej podaży płynów i sporadycznych mikcjach"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 15,
+        "question": "Zespół nerczycowy to stan, w którym:",
+        "options": {
+          "A": "nie dochodzi do zaburzeń krzepnięcia",
+          "B": "dochodzi do znacznej utraty białka przez przewód pokarmowy",
+          "C": "nie występują obrzęki",
+          "D": "dochodzi do znacznej utraty białka przez nerki"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 16,
+        "question": "Najskuteczniejszą metodą leczenia zewnątrzustrojowego usunięcia wchłoniętej substancji toksycznej jest:",
+        "options": {
+          "A": "plazmafereza",
+          "B": "hemoperfuzja",
+          "C": "dializa otrzewnowa",
+          "D": "hemodializa sekwencyjna"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 17,
+        "question": "Zgodnie z zaleceniami obowiązującymi kalendarza żywienia do 12 mies. życia wolno podawać:",
+        "options": {
+          "A": "białko jajka",
+          "B": "żółtko jajka",
+          "C": "sól",
+          "D": "cukier"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 18,
+        "question": "W pierwszym roku życia dziecko urośnie o:",
+        "options": {
+          "A": "20 cm",
+          "B": "10 cm",
+          "C": "24 cm",
+          "D": "15 cm"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 19,
+        "question": "W 12 miesiącu życia dziecko:",
+        "options": {
+          "A": "powinno kontrolować oddawanie moczu i stolca",
+          "B": "potraja swoją masę urodzeniową",
+          "C": "podwaja swoją masę urodzeniową",
+          "D": "zaczyna mówić"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 20,
+        "question": "Niemowlę z powodu zapalenia ucha otrzymuje 230 mg Biofuroksymu. Stężenie podstawowe leku to 750 mg. W ilu ml rozpuścisz antybiotyk i ile nabierzesz do strzykawki aby podać dziecku?",
+        "options": {
+          "A": "w 15 ml, nabiorę 2,3 ml",
+          "B": "w 7,5 ml, nabiorę 2,3 ml",
+          "C": "w 10 ml, nabiorę 2,3 ml",
+          "D": "w 8 ml, nabiorę 2,3 ml"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 21,
+        "question": "Dziecko o masie 18kg powinno na dobę przyjąć minimum:",
+        "options": {
+          "A": "750ml płynów",
+          "B": "1000ml płynów",
+          "C": "1400ml płynów",
+          "D": "1600ml płynów"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 22,
+        "question": "Dziecko przyjęte na oddział pediatryczny z powodu uporczywych wymiotów. W pielęgnacji dziecka z wymiotami nie jest istotne:",
+        "options": {
+          "A": "zapobieganie aspiracji treści do dróg oddechowych",
+          "B": "ocena stanu ogólnego dziecka",
+          "C": "pielęgnacja skóry dziecka",
+          "D": "ustalenie przyczyny wymiotów"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 23,
+        "question": "W pierwszym roku życia narządem zmysłu który ma największy wpływ na rozwój dziecka jest:",
+        "options": {
+          "A": "wzrok",
+          "B": "słuch",
+          "C": "czucie bólu",
+          "D": "smak"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 24,
+        "question": "Do szpitala trafił nastolatek z dodatnim objawem Goldflama, który sugeruje:",
+        "options": {
+          "A": "Refluks pęcherzowo-moczowodowy",
+          "B": "Odmiedniczkowe zapalenie nerek",
+          "C": "Choroby układu pokarmowego",
+          "D": "Zespół nerczycowy"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 25,
+        "question": "Dieta DASH zalecana jest w niefarmakologicznym leczeniu:",
+        "options": {
+          "A": "Cukrzycy typu 2",
+          "B": "Niedoczynności tarczycy",
+          "C": "ZUM",
+          "D": "NT (Nadciśnienie tętnicze)"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 26,
+        "question": "Po urodzeniu najsłabiej rozwiniętym narządem zmysłu jest:",
+        "options": {
+          "A": "Smak",
+          "B": "Słuch",
+          "C": "Czucie bólu",
+          "D": "Wzrok"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 27,
+        "question": "8-miesięcznemu niemowlęciu podasz mleko modyfikowane:",
+        "options": {
+          "A": "Typu Junior",
+          "B": "Hypoalergiczne",
+          "C": "Początkowe",
+          "D": "Następne"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 28,
+        "question": "Bilans płynów jest ujemny jeżeli:",
+        "options": {
+          "A": "Jest zachowana równowaga płynowa u dziecka",
+          "B": "Przeważa objętość płynów dostarczonych do organizmu dziecka",
+          "C": "Dziecko ma dobry apetyt",
+          "D": "Przeważa objętość płynów wydalonych różnymi drogami u dziecka"
+        },
+        "correct": "D"
+      }
+    ]
+  },
+  {
+    "section": "Pielęgniarstwo Geriatryczne",
+    "questions": [
+      {
+        "number": 1,
+        "question": "Ze względu na wysokie ryzyko upadków u osób starszych NIE zaleca się stosowania:",
+        "options": {
+          "A": "trójpierścieniowych leków przeciwdepresyjnych",
+          "B": "paracetamolu",
+          "C": "kodeiny",
+          "D": "inhibitorów konwertazy angiotensyny",
+          "E": "niesteroidowych leków przeciwzapalnych"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 2,
+        "question": "Wskaż zdanie FAŁSZYWE dotyczące przebiegu zawału mięśnia sercowego u osób starszych z wielochorobowością:",
+        "options": {
+          "A": "może pojawić się duszność, zlewne poty i niepokój",
+          "B": "charakterystyczny ból w klatce piersiowej występuje najczęściej",
+          "C": "may pojawić się pieczenie i ból okolicy nadbrzusza",
+          "D": "klasyczne dla ostrego zawału serca uniesienie odcinka ST w postaci fali Pardeego po 75 r.ż. występuje rzadziej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 3,
+        "question": "Skrócony Test Sprawności Umysłowej wg Hodgkinsona, używany w kompleksowej ocenie geriatrycznej, służy do oceny:",
+        "options": {
+          "A": "Otępienia",
+          "B": "Równowagi i chodu",
+          "C": "Delirium",
+          "D": "Depresji"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 4,
+        "question": "Które połączenie leków zwiększa ryzyko krwawień w geriatrii:",
+        "options": {
+          "A": "Paracetamol i kodeina",
+          "B": "Morfina i trójpierścieniowe leki depresyjne",
+          "C": "Leki z grupy NLPZ i trójpierścieniowe leki depresyjne",
+          "D": "Leki z grupy NLPZ i acenokumarol"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 5,
+        "question": "Do tzw. wielkich zespołów geriatrycznych zalicza się:",
+        "options": {
+          "A": "Nietrzymanie moczu i stolca, chorobę zwyrodnieniową stawów",
+          "B": "Otępienie i choroby układu krążenia",
+          "C": "Upadki i zaburzenia równowagi",
+          "D": "Zespół kruchości i cukrzycę"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 6,
+        "question": "Do czynników ryzyka upadków u osób starszych NIE zalicza się:",
+        "options": {
+          "A": "Polifarmakoterapii",
+          "B": "Hipoglikemii i migotania przedsionków",
+          "C": "Nieumiejętnego stosowania urządzeń wspomagających chód",
+          "D": "Zażywania paracetamolu"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 7,
+        "question": "Do wybranych objawów zagrożenia życia w pielęgniarstwie geriatrycznym NIE zalicza się:",
+        "options": {
+          "A": "Duszności, bólów i zawrotów głowy po upadku",
+          "B": "Depresji i cukrzycy",
+          "C": "Hipoglikemii",
+          "D": "Objawów zaburzenia metabolizmu mózgowego"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 8,
+        "question": "Lekiem z wyboru do leczenia bólu w geriatrii jest:",
+        "options": {
+          "A": "NLPZ",
+          "B": "Paracetamol",
+          "C": "Tramal lub ketonal",
+          "D": "Ibuprofen"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 9,
+        "question": "Wskaż zdanie FAŁSZYWE dotyczące opieki pielęgniarskiej nad pacjentem niedożywionym w starszym wieku:",
+        "options": {
+          "A": "wśród metod oceny stanu odżywienia osób starszych wymienia się: wywiad żywieniowy, badanie podmiotowe, badania antropometryczne, kwestionariusze MUST i MST, badania biochemiczne i immunologiczne",
+          "B": "w praktyce w niedożywieniu typu marasmus niezbędne jest często żywienie dojelitowe za pomocą zgłębnika lub całkowite żywienie pozajelitowe",
+          "C": "leczenie żywieniowe ma charakter przyczynowy i polega m.in. na zwiększeniu energetyczności diety oraz zawartości w niej białka, częstym podawaniu posiłków małych objętościowo",
+          "D": "w praktyce w niedożywieniu typu kwashiorkor niezbędne jest często żywienie dojelitowe za pomocą zgłębnika lub całkowite żywienie pozajelitowe"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 10,
+        "question": "Do niekorzystnych następstw niedożywienia NIE należy/żą:",
+        "options": {
+          "A": "Infekcje, odleżyny i somatopauza",
+          "B": "Upośledzenie odporności komórkowej i humoralnej",
+          "C": "Zmniejszenie stężenia białek w surowicy",
+          "D": "Osłabienie sprawności psychomotorycznej"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 11,
+        "question": "Do przejściowego nietrzymania moczu może prowadzić:",
+        "options": {
+          "A": "Otępienie",
+          "B": "Przyjmowanie furosemidu",
+          "C": "Pourazowe uszkodzenie rdzenia kręgowego",
+          "D": "Choroba Alzheimera"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 12,
+        "question": "U pacjenta z chorobą Parkinsona pielęgniarka może zdiagnozować następujące problemy pielęgnacyjne:",
+        "options": {
+          "A": "Biegunkę",
+          "B": "Przesuszoną skórę, szczególnie na twarzy",
+          "C": "Nieprawidłowy, wzmożony rozrost mięśni szkieletowych",
+          "D": "Dysfagię, łojotok, zaparcia"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 13,
+        "question": "Geriatryczna opieka pielęgniarska nad osobami w zaawansowanym wieku poddawanymi hemodializie polega m. in. na obserwacji późnych powikłań hemodializy, do których należą:",
+        "options": {
+          "A": "Wszystkie odpowiedzi są prawidłowe",
+          "B": "Zakażenie przetoki tętniczo-żylnej lub cewnika do dializ",
+          "C": "Bakteryjne zakażenie układu oddechowego",
+          "D": "Bakteryjne zakażenie wsierdzia"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 14,
+        "question": "Które z poniższych badań ma najmniejsze znaczenie kliniczne w starości:",
+        "options": {
+          "A": "Ocena stężenia białka i cholesterolu w przypadku podejrzenia niedożywienia",
+          "B": "Ocena HbA1c u osób z cukrzycą",
+          "C": "Dwupunktowy test tolerancji glukozy u chorych z podejrzeniem cukrzycy, u których glikemia na czczo jest prawidłowa",
+          "D": "Ocena cholesterolu w surowicy u pacjentów po 85. roku życia"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 15,
+        "question": "Wskaż zdanie prawdziwe:",
+        "options": {
+          "A": "Ryzyko rozwoju odleżyn w skali Norton stwierdza się u pacjenta z wynikiem równym 14 punktom lub niższym",
+          "B": "Uszkodzenie pełnej grubości skóry, obejmujące również tkankę podskórną z widoczną martwicą okalających tkanek, oznacza odleżynę III stopnia wg klasyfikacji Torrance'a",
+          "C": "Uszkodzenie pełnej grubości skóry, obejmujące również tkankę podskórną z widoczną martwicą okalających tkanek, oznacza odleżynę V stopnia wg klasyfikacji Torrance'a",
+          "D": "Ryzyko rozwoju odleżyn w skali Norton stwierdza się u pacjenta z wynikiem niższym niż 14 punktów"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 16,
+        "question": "Polipragmazja oznacza:",
+        "options": {
+          "A": "Samoleczenie",
+          "B": "Wielolekowość",
+          "C": "Przyjmowanie dużej liczby leków, w tym leków bez wyraźnych wskazań medycznych",
+          "D": "Wielochorobowość lub wielolekowość",
+          "E": "żadna z odpowiedzi nie jest prawidłowa"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 17,
+        "question": "Chora lat 69 ma nadwagę. Wykryto u niej cukrzycę typu II. Z wywiadu wynika, że nie ma żadnych dolegliwości ze strony układu krążenia i oddechowego. Celem utrzymywania aktywności fizycznej u osoby z cukrzycą typu II jest:",
+        "options": {
+          "A": "Utrzymanie podwyższonego stężenia trójglicerydów",
+          "B": "Utrzymanie niskiego stężenia cholesterolu HDL",
+          "C": "Obniżenie poziomu trójglicerydów i obniżenie HDL",
+          "D": "Wyrównanie glikemii"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 18,
+        "question": "Deficyt samoobsługi u starszego pacjenta z chorobą Alzheimera może wynikać z:",
+        "options": {
+          "A": "Niedożywienia, zmniejszenia sprawności manualnej rąk i nietolerancji wysiłku",
+          "B": "Przewlekłych i postępujących zaburzeń poznawczych",
+          "C": "Spowolnienia psychoruchowego i poczucia starości",
+          "D": "Przewlekłych i postępujących zaburzeń poznawczych, zmniejszenia sprawności manualnej rąk i nietolerancji wysiłku"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 19,
+        "question": "Leczenie niefarmakologiczne zaparć NIE obejmuje:",
+        "options": {
+          "A": "Łagodnego masażu brzucha wzdłuż przebiegu jelita grubego przez 10 minut przed wstaniem z łóżka",
+          "B": "Stosowania diety wzbogaconej w nierozpuszczalne włókna roślinne",
+          "C": "Ułożenia programu ćwiczeń dla chorego",
+          "D": "Ograniczenia podaży płynów do 1000 ml/dobę"
+        },
+        "correct": "D"
+      }
+    ]
+  }
+]

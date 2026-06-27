@@ -1,0 +1,138 @@
+[
+  {
+    "section": "Anestezjologia i Intensywna Terapia",
+    "questions": [
+      {
+        "number": 11,
+        "question": "Stan, w którym nieprawidłowa wymiana gazowa powoduje nieprawidłowy skład gazów we krwi tętniczej (hipoksemia, hiperkapnia) to:",
+        "options": {
+          "A": "Hiperwolemia",
+          "B": "Niewydolność krążenia",
+          "C": "Niewydolność oddechowa",
+          "D": "Hipowolemia",
+          "E": "Faza ciepła wstrząsu septycznego"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 12,
+        "question": "Która z wymienionych substancji nie należy do amin katecholowych?:",
+        "options": {
+          "A": "Dopamina",
+          "B": "Dobutamina",
+          "C": "Noradrenalina",
+          "D": "Adrenalina",
+          "E": "Digoksyna"
+        },
+        "correct": "E"
+      },
+      {
+        "number": 13,
+        "question": "Prawidłowy zakres pH osocza krwi tętniczej w badaniu gazometrycznym osoby dorosłej to:",
+        "options": {
+          "A": "7,15-7,25",
+          "B": "7,45-7,55",
+          "C": "7,30-7,40",
+          "D": "7,35-7,45"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 14,
+        "question": "U pacjenta znajdującego się w schyłkowym okresie życia personel medyczny ma prawo nie podjąć lub odstąpić od metod leczenia, takich jak - wskaż nieprawidłową odpowiedź:",
+        "options": {
+          "A": "Resuscytacja krążeniowo-oddechowa",
+          "B": "Żywienie i nawodnienie stosowne do potrzeb",
+          "C": "Leczenie nerkozastępcze",
+          "D": "Wentylacja mechaniczna",
+          "E": "Leczenie katecholaminami"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 15,
+        "question": "Leczenie ostrej niewydolności nerek opiera się na:",
+        "options": {
+          "A": "Tylko stosowaniu dożylnego wlewu amin katecholowych",
+          "B": "Stosowaniu leczenia nerkozastępczego w przypadku bezwzględnych wskazań, bilansowaniu płynów, eliminacji substancji nefrotoksycznych i leczeniu przyczynowym",
+          "C": "Wymuszonej diurezie i podawaniu dużych dawek furosemidu bez kontroli diurezy",
+          "D": "Ograniczeniu podaży płynów poniżej 500 ml na dobę u każdego pacjenta",
+          "E": "Wszystkie odpowiedzi są błędne"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 20,
+        "question": "Do powikłań metabolicznych żywienia pozajelitowego zalicza się:",
+        "options": {
+          "A": "Zakażenie odcewnikowe",
+          "B": "Zakrzepicę żył głębokich",
+          "C": "Odę opłucnową",
+          "D": "Hiperglikemię, hipoglikemię oraz zaburzenia elektrolitowe",
+          "E": "Wahania poziomu glikemii"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 21,
+        "question": "Do potencjalnie odwracalnych przyczyn nagłego zatrzymania krążenia NIE zalicza się:",
+        "options": {
+          "A": "Hipoksja",
+          "B": "Hipotermia",
+          "C": "Hipokaliemia",
+          "D": "Hipoglikemia",
+          "E": "Hipofosfatazja"
+        },
+        "correct": "E"
+      },
+      {
+        "number": 22,
+        "question": "Do przyczyn wstrząsu hipowolemicznego NIE należy:",
+        "options": {
+          "A": "Utrata płynów ustrojowych przez przewód pokarmowy i nerki",
+          "B": "Zmniejszenie objętości płynu pozakomórkowego (stany odwodnienia)",
+          "C": "Przewlekła gorączka (>38,5 C) przy jednoczesnym braku podaży płynów uzupełniających",
+          "D": "Krwawienie zewnętrzne lub wewnętrzne",
+          "E": "Reakcja alergiczna typu natychmiastowego występująca wskutek ekspozycji na alergen"
+        },
+        "correct": "E"
+      },
+      {
+        "number": 23,
+        "question": "Znaczne obniżenie OCŻ (ośrodkowego ciśnienia żylnego) świadczy o:",
+        "options": {
+          "A": "Hiperkapni",
+          "B": "Hipoglikemii",
+          "C": "Hipowolemii",
+          "D": "Hiperwolemii",
+          "E": "Hipoksji"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 24,
+        "question": "Skrót MAP oznacza:",
+        "options": {
+          "A": "Ciśnienie wewnątrzczaszkowe",
+          "B": "Średnie ciśnienie tętnicze",
+          "C": "Wypełnienie łożyska naczyniowego",
+          "D": "Minimalne stężenie pęcherzykowe",
+          "E": "Pozaustrojowe utlenowanie krwi"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 25,
+        "question": "Wskaż prawidłowe stwierdzenie dotyczące RKO osoby dorosłej:",
+        "options": {
+          "A": "W pierwszej kolejności należy wykonać 5 oddechów ratowniczych",
+          "B": "Uciśnięcia klatki piersiowej wykonuje się na głębokość 5-6 cm z częstotliwością 100-120 na minutę w stosunku 30:2 do oddechów",
+          "C": "Stosunek uciśnięć do oddechów wynosi zawsze 15:2",
+          "D": "Energia pierwszej defibrylacji aparatem dwufazowym wynosi zawsze 360J",
+          "E": "Oddechy ratownicze są ważniejsze niż uciśnięcia klatki piersiowej"
+        },
+        "correct": "B"
+      }
+    ]
+  }
+]

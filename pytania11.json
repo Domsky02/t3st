@@ -1,0 +1,327 @@
+[
+  {
+    "section": "Podstawy Pielęgniarstwa - Teorie (Kontynuacja)",
+    "questions": [
+      {
+        "number": 38,
+        "question": "Zdaniem Henderson:",
+        "options": {
+          "A": "Pielęgniarka powinna ukończyć szkołę pielęgniarską i zaprzestać nauki w zawodzie.",
+          "B": "Pielęgniarka powinna uczyć się całe życie, by móc pomagać choremu w sposób profesjonalny.",
+          "C": "Doskonała pielęgniarka to osoba wrażliwa i współczująca.",
+          "D": "Odpowiedź b i c poprawna."
+        },
+        "correct": "D"
+      },
+      {
+        "number": 39,
+        "question": "Według Virginii Henderson pielęgnowany może być człowiek:",
+        "options": {
+          "A": "Nie tylko chory ale też zdrowy",
+          "B": "Mający deficyt samo opieki",
+          "C": "Chory",
+          "D": "Wykazujący zaburzenia somatyczne"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 40,
+        "question": "Do 14 potrzeb Henderson nie zaliczysz:",
+        "options": {
+          "A": "Potrzeby odbywania zakupów",
+          "B": "Potrzeby celowej pracy",
+          "C": "Potrzeby unikania niebezpieczeństw otoczenia",
+          "D": "Dopływu świeżego powietrza"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 41,
+        "question": "Jako zmienne warunkujące możliwość zaspokojenia potrzeb V. Henderson wskazuje na:",
+        "options": {
+          "A": "Odczucie i myśl, zachowanie człowieka, jako przejawy działania pola energetycznego",
+          "B": "Styl życia oraz dysponowanie w zakresie samo opieki różnymi możliwościami",
+          "C": "Siłę, wiedzę i wolę człowieka, przy uwzględnieniu jego wieku, temperamentu, stanu socjalnego, stanu biologicznego i intelektualnego",
+          "D": "Stresory, wpływające na pacjenta zarówno w sposób pozytywny, jak i negatywny"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 42,
+        "question": "W myśl założeń V. Henderson „asystowanie człowiekowi” to:",
+        "options": {
+          "A": "Towarzyszenie w jego biopsychospołecznym i duchowym funkcjonowaniu w środowisku, w którym przebywa",
+          "B": "Planowanie i realizowanie działań za pacjenta, mających na celu zachowanie lub przywrócenie zdrowia",
+          "C": "Chronienie człowieka przed bodźcami płynącymi ze środowiska wewnętrznego i zewnętrznego",
+          "D": "Opiekuńczość warunkująca brak rozwoju możliwości pozwalających osobie wybrać najlepsze dla niej w określonym czasie działanie"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 43,
+        "question": "Głównym celem pielęgnowania, według Henderson jest:",
+        "options": {
+          "A": "Doprowadzenie do decydowania rodziny i środowiska o zdrowiu człowieka",
+          "B": "Doprowadzenie do samodzielnego decydowania przez człowieka o własnym zdrowiu",
+          "C": "Doprowadzenie do decydowania o zdrowiu człowieka tylko zespołu interdyscyplinarnego",
+          "D": "Doprowadzenie do decydowania o zdrowiu człowieka przez niego, rodzinę oraz zespół interdyscyplinarny"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 44,
+        "question": "Najważniejsze etapy profesjonalnej opieki pielęgniarskiej według Henderson to w kolejności:",
+        "options": {
+          "A": "Stawianie diagnozy, gromadzenie informacji o pacjencie, planowanie opieki, realizowanie",
+          "B": "Rozpoznanie stanu człowieka, realizowanie działań zachowujących podstawowe funkcje życiowe, ocenianie efektów pracy",
+          "C": "Gromadzenie informacji o pacjencie, gromadzenie informacji o jego rodzinie, gromadzenie sprzętu medycznego potrzebnego do wykonania zabiegu",
+          "D": "Gromadzenie informacji o pacjencie, planowanie, realizowanie, ocenianie"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 45,
+        "question": "Analizując istotę procesu pielęgnowania zaproponowanego przez V. Henderson zakres i charakter działań pielęgniarki wyznaczone są przez:",
+        "options": {
+          "A": "Zakres wiedzy, umiejętności i motywacji pielęgniarki",
+          "B": "Zakres wiedzy, umiejętności i motywacji rodziny pacjenta",
+          "C": "Zakres wiedzy, umiejętności i motywacji pacjenta",
+          "D": "Nie ma wyraźnych wyznaczników"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 46,
+        "question": "Pojęcia odgrywające kluczową rolę w teorii M. Rogers to:",
+        "options": {
+          "A": "adaptacja, osoba, środowisko, zdrowie, pielęgniarstwo",
+          "B": "człowiek, środowisko, teoria systemów otwartych, pole energetyczne, wymiana energii, materii i informacji",
+          "C": "samoopieka, deficyt samoopieki, system pielęgnowania, potrzeby uniwersalne, potrzeby rozwojowe, potrzeby w zaburzeniach stanu zdrowia",
+          "D": "pojedynczy człowiek, pielęgniarka, pielęgnowanie, zdrowie, niezależność"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 47,
+        "question": "Kto zapoczątkował kształcenie pielęgniarek w systemie pięcioletnim?:",
+        "options": {
+          "A": "Callisty Roy",
+          "B": "Hildegard Peplau",
+          "C": "Marthy Rogers",
+          "D": "Madeleine Leininger"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 48,
+        "question": "Kiedy urodziła się M. Rogers?:",
+        "options": {
+          "A": "15 maja 1914 r.",
+          "B": "12 maja 1914 r.",
+          "C": "13 marca 1994 r.",
+          "D": "7 lutego 1956 r."
+        },
+        "correct": "B"
+      },
+      {
+        "number": 49,
+        "question": "Podstawowym celem pielęgniarstwa wg. M. Rogers jest:",
+        "options": {
+          "A": "Zaspokojenie deficytu samoopieki",
+          "B": "Wykorzystanie wiedzy na temat możliwości oddziaływania pola magnetycznego człowieka i środowiska na zdrowie",
+          "C": "Ocenianie zapotrzebowania pacjenta na pielęgnowanie",
+          "D": "Rozpoznawanie efektywnych i nieefektywnych reakcji adaptacyjnych"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 50,
+        "question": "Które z założeń pielęgniarstwa zostało sformułowane przez M. Rogers?:",
+        "options": {
+          "A": "Właściwe kierowanie wzorami pól energetycznych człowieka i otoczenia prowadzi do osiągnięcia maksymalnego potencjału zdrowia",
+          "B": "Środowisko opiekuńczości warunkuje rozwój możliwości pozwalających osobie wybrać najlepsze dla niej w określonym czasie działanie",
+          "C": "Istnieją 3 rodzaje bodźców: ogniskowe, towarzyszące, pozostałe.",
+          "D": "Pielęgniarstwo jest profesją ale przede wszystkim powołaniem"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 51,
+        "question": "Pielęgniarstwo w koncepcji M. Rogers ma na celu zapewnienie najwyższego potencjału zdrowotnego poprzez:",
+        "options": {
+          "A": "osiągnięcie pełnego dobrostanu człowieka pod względem fizycznym, psychicznym i społecznym",
+          "B": "uzyskanie poczucia maksymalnego komfortu",
+          "C": "zapobieganie chorobie",
+          "D": "zachowanie harmonii między środowiskiem, a człowiekiem i przekształcenie form współistnienia człowieka i środowiska"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 52,
+        "question": "Przejawem energii pola ludzkiego jest „terapeutyczny dotyk”. Kto był autorką owej teorii:",
+        "options": {
+          "A": "Orem",
+          "B": "Henderson",
+          "C": "Peplau",
+          "D": "Rogers"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 53,
+        "question": "Model opieki pielęgniarskiej uwzględniający oddziaływanie pól energetycznych to:",
+        "options": {
+          "A": "model C. Roy",
+          "B": "model M. Rogers",
+          "C": "model H. Peplau",
+          "D": "model F. Nightingale"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 54,
+        "question": "We wszystkich modelach pielęgniarstwa wskazywano na cztery podstawowe fenomeny pielęgniarstwa:",
+        "options": {
+          "A": "Osoba/człowiek",
+          "B": "Zdrowie",
+          "C": "Środowisko",
+          "D": "Pielęgniarstwo",
+          "E": "wszystkie odp. są prawidłowe"
+        },
+        "correct": "E"
+      },
+      {
+        "number": 55,
+        "question": "Założenie, że „Celem pielęgniarek jest promowanie zdrowia i dobrego samopoczucia dla wszystkich osób, gdziekolwiek są” należy do teorii:",
+        "options": {
+          "A": "D. Orem",
+          "B": "M. Rogers",
+          "C": "F. Nightingale",
+          "D": "H. Peplau"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 56,
+        "question": "Trzy zasady homeodynamiki określające charakter i kierunek zmian i rozwoju człowieka (zasada spiralności, współbrzmienia i integralności) są charakterystyczne dla teorii:",
+        "options": {
+          "A": "F. Nightingale",
+          "B": "D. Orem",
+          "C": "M. Rogers",
+          "D": "H. Peplau"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 57,
+        "question": "Wymień 4 kolejne fazy w procesie relacji terapeutycznych H. Peplau:",
+        "options": {
+          "A": "orientacji, identyfikacji, eksploatacji, rozwiązania",
+          "B": "H. Peplau nie wyróżnia żadnych faz w procesie relacji terapeutycznych",
+          "C": "eksploatacji, identyfikacji, orientacji, rozwiązania",
+          "D": "identyfikacji, orientacji, eksploatacji, rozwiązania"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 58,
+        "question": "W oddziaływaniu terapeutycznym pielęgniarka - pacjent podstawowe znaczenie wg H. Peplau odgrywa:",
+        "options": {
+          "A": "system adaptacyjny",
+          "B": "komunikacja i kształtowanie relacji międzyludzkich",
+          "C": "opieka nad pacjentem",
+          "D": "odżywianie pacjenta"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 59,
+        "question": "Teoretyczne założenia pielęgnowania opracowane w 1952 roku przez Hildegardę Peplau zwracały uwagę na znaczenie:",
+        "options": {
+          "A": "metod pielęgnowania,",
+          "B": "osobowości pielęgniarki,",
+          "C": "organizacji pracy",
+          "D": "warunków pracy."
+        },
+        "correct": "B"
+      },
+      {
+        "number": 60,
+        "question": "Model wg. H. Peplau to model:",
+        "options": {
+          "A": "środowiskowy",
+          "B": "relacji międzyludzkich",
+          "C": "koncentryczny",
+          "D": "adaptacyjny"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 61,
+        "question": "W modelu H. Peplau w relacji między pacjentem a pielęgniarką zachodzą:",
+        "options": {
+          "A": "2 fazy",
+          "B": "3 fazy",
+          "C": "4 fazy",
+          "D": "5 faz"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 62,
+        "question": "II faza relacji między pacjentem a pielęgniarką w modelu H. Peplau to faza:",
+        "options": {
+          "A": "identyfikacji",
+          "B": "orientacji",
+          "C": "rozwiązania",
+          "D": "poznania"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 63,
+        "question": "Model H. Peplau najczęściej stosowany jest u pacjentów:",
+        "options": {
+          "A": "geriatrycznych",
+          "B": "psychiatrycznych",
+          "C": "dzieci",
+          "D": "onkologicznych"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 64,
+        "question": "Która z teoretyków pielęgniarstwa wskazywała na konieczność oceny psychodynamiki emocji w kontaktach z pacjentem:",
+        "options": {
+          "A": "V. Henderson",
+          "B": "M. Leininger",
+          "C": "C. Roy",
+          "D": "H. Peplau"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 65,
+        "question": "Faza eksploatacji procesu relacji terapeutycznych H. Peplau polega na:",
+        "options": {
+          "A": "orientacji pielęgniarki w tym, co jest dla pacjenta niejasne",
+          "B": "uzyskiwaniu możliwości radzenia sobie bez pomocy pielęgniarki",
+          "C": "podejmowaniu samodzielnych inicjatyw przez pacjenta",
+          "D": "psychicznym przygotowaniu się pacjenta do powrotu do domu"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 66,
+        "question": "Której z ról nie pełni pielęgniarka w relacji z pacjentem wg H. Peplau:",
+        "options": {
+          "A": "przyjaciela,",
+          "B": "obcego,",
+          "C": "przywódcy,",
+          "D": "zastępcy"
+        },
+        "correct": "A"
+      }
+    ]
+  }
+]

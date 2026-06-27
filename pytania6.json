@@ -1,0 +1,469 @@
+[
+  {
+    "section": "Holizm - Część 2",
+    "questions": [
+      {
+        "number": 41,
+        "question": "Wytyczne zawarte w Programie Szczepień Ochronnych zależne są od:",
+        "options": {
+          "A": "sytuacji epidemiologicznej kraju",
+          "B": "możliwości finansowych budżetu państwa",
+          "C": "sytuacji epidemiologicznej kraju i państw ościennych oraz możliwości finansowych budżetu państwa",
+          "D": "sytuacji epidemiologicznej kraju oraz państw ościennych"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 42,
+        "question": "Wskaż błędne wytyczne w odniesieniu do dokumentacji medycznej prowadzonej w POZ.:",
+        "options": {
+          "A": "może by prowadzona w postaci elektronicznej, stanowi własność POZ",
+          "B": "stanowi własność POZ, może byt udostępniona organom samorządu zawodowego",
+          "C": "może by udostępniona organom samorządu zawodowego, może być prowadzona w postaci elektronicznej",
+          "D": "stanowi własność pacjenta, nie może być udostępniona organom samorządu zawodowego"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 43,
+        "question": "Świadczenia gwarantowane pielęgniarki POZ nie obejmują:",
+        "options": {
+          "A": "wizyty realizowanej w domu świadczeniobiorcy",
+          "B": "wizyty patronażowej",
+          "C": "wykonywania obowiązkowych szczepień ochronnych",
+          "D": "wykonywania testów przesiewowych w terminach odpowiadających powszechnym profilaktycznym badaniom lekarskim"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 44,
+        "question": "Świadczenia realizowane przez zespól POZ nie obejmują działań:",
+        "options": {
+          "A": "nocnej i świątecznej opieki lekarskiej i pielęgniarskiej w POZ",
+          "B": "pielęgniarki szkolnej",
+          "C": "pielęgniarki opieki długoterminowej",
+          "D": "transportu sanitarnego"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 45,
+        "question": "W trakcie przeprowadzania profilaktycznych badań lekarskich (bilans zdrowia) nie obowiązuje:",
+        "options": {
+          "A": "wykonanie testów przesiewowych",
+          "B": "rutynowe wykonanie podstawowych badań laboratoryjnych np.: morfologia krwi",
+          "C": "w przypadkach uzasadnionych medycznie zlecenie konsultacji specjalistycznych",
+          "D": "wydanie orzeczenia o stanie zdrowia dziecka"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 46,
+        "question": "Wskaz zdanie prawidłowe dotyczące zasad funkcjonowania nocnej i świątecznej opieki medycznej w POZ:",
+        "options": {
+          "A": "Świadczenia mogą być udzielane jedynie w przypadku zaostrzenia choroby przewlekłej (np. kolejny, umiarkowany napad astmy oskrzelowej)",
+          "B": "w przypadkach uzasadnionych medycznie lekarz wydaje skierowania na konsultacje specjalistyczne",
+          "C": "objecie tą formą opieki nie wymaga skladania dodatkowych, imiennych Deklaracji wyboru lekarza i pielęgniarki nocnej i świątecznej opieki w POZ\"",
+          "D": "pacjenci mogą mieć przedłużone recepty na leki stosowane przewlekle"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 47,
+        "question": "Nowoczesna podstawowa opieka zdrowotna charakteryzuje się:",
+        "options": {
+          "A": "biurokratycznym i hierarchicznym typem struktury",
+          "B": "realizowaniem świadczeń w sposób ciągły, skoordynowany i holistyczny",
+          "C": "kierowaniem swoich działań na chorobę",
+          "D": "brakiem współpracy międzysektorowej na poziomie społeczności lokalnej"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 48,
+        "question": "Aktualnie, pielęgniarka POZ samodzielnie realizuje następujący program profilaktyczny:",
+        "options": {
+          "A": "przewlekłej obturacynej choroby pluc (POChP)",
+          "B": "gruźlicy",
+          "C": "chorób układu krążenia (CHUK)",
+          "D": "cukrzycy"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 49,
+        "question": "Do rutynowego wyposażenia gabinetu pielęgniarki POZ nie należy:",
+        "options": {
+          "A": "zestaw przeciwwstrząsowy",
+          "B": "waga medyczna dla niemowląt",
+          "C": "oftalmoskop",
+          "D": "tablice do badania ostrości wzroku"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 50,
+        "question": "Do świadczeń gwarantowanych pielęgniarki POZ. w zakresie badan laboratoryjnych i obrazowych należy:",
+        "options": {
+          "A": "usg jamy brzusznej",
+          "B": "poziom glikemii",
+          "C": "ekg spoczynkowe",
+          "D": "TSH, fT3, fl4"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 51,
+        "question": "Zaznacz zdanie fałszywe: - Biegunka przewlekła to stan:",
+        "options": {
+          "A": "trwający do dwóch tygodni",
+          "B": "oddawanie przez dziecko zwiększonej liczby stolców",
+          "C": "nieprawidłowa konsystencja stolców",
+          "D": "trwający ponad dwa tygodnie"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 52,
+        "question": "Do zatruć u dzieci dochodzi łatwiej niż u dorosłych ze względu na:",
+        "options": {
+          "A": "zwiększone wiązanie leku przez białka surowicy krwi",
+          "B": "korzystny stosunek powierzchni do masy ciała",
+          "C": "bardziej przepuszczalna barierę krew-mózg",
+          "D": "mniej przepuszczalna barierę krew-mózg"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 53,
+        "question": "W I stopniu odwodnienia u dziecka:",
+        "options": {
+          "A": "utrata płynu nie przekracza 5% wyjściowej masy ciała",
+          "B": "utrata płynu przekracza 5-10% wyjściowej masy ciała",
+          "C": "utrata płynu nie przekracza 10% wyjściowej masy ciała",
+          "D": "utrata płynu przekracza 10-15% wyjściowej masy ciała"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 54,
+        "question": "Profilaktyka zakażeń układu moczowego u dzieci polega na:",
+        "options": {
+          "A": "utrzymaniu zasadowego odczynu moczu",
+          "B": "dużej podaży płynów i właściwych nawykach higienicznych",
+          "C": "małej podaży płynów i sporadycznych mikcjach",
+          "D": "leczeniu farmakologicznym"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 55,
+        "question": "Pielęgnowanie dziecka z młodzieńczym idiopatycznym zapaleniem stawów polega na:",
+        "options": {
+          "A": "w ostrej fazie choroby zastosowaniu czynnej gimnastyki",
+          "B": "łagodzeniu bólu, obrzęku oraz zapobieganiu zniekształceniom",
+          "C": "leczeniu tylko środkami farmakologicznymi",
+          "D": "stosowaniu kąpieli"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 56,
+        "question": "Dla 5-miesięcznego niemowlęcia podasz mleko modyfikowane:",
+        "options": {
+          "A": "następne",
+          "B": "początkowe",
+          "C": "typu Junior",
+          "D": "krowie"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 57,
+        "question": "Unikanie ekspozycji na światło słoneczne zalecisz dzieciom chorym na:",
+        "options": {
+          "A": "gorączkę reumatyczną",
+          "B": "młodzieńcze idiopatyczne zapalenie stawów",
+          "C": "układowy toczeń rumieniowaty",
+          "D": "atopowe zapalenie skóry"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 58,
+        "question": "Dla 14 miesięcznego Bartka, przyjętego z nieżytem dróg oddechowych, zlecono 5 mg Fenicortu. Jego stężenie podstawowe to 25 mg w 2 ml. Jaka, objętość leku należy podać dziecku?",
+        "options": {
+          "A": "0.4 ml",
+          "B": "0,8 ml",
+          "C": "1.2 ml",
+          "D": "0,3 ml"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 59,
+        "question": "Zaznacz zdanie prawdziwe",
+        "options": {
+          "A": "do kąpieli dziecka z atopowym zapaleniem skory używa się mydła",
+          "B": "pielęgnacja dziecka z. atopowym zapaleniem skóry polega na codziennym nawilżaniu i natłuszczaniu skóry kremami z dodatkiem wazeliny",
+          "C": "dziecko z atopowym zapaleniem skóry powinno przebywać w pomieszczeniu o temperaturze 30 stopni C",
+          "D": "dziecko chore na atopowe zapalenie skóry powinno unikać ekspozycji na światło słoneczne"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 60,
+        "question": "Przyczyną hiperglikemii u dzieci może być:",
+        "options": {
+          "A": "opuszczony lub opóźniony posiłek",
+          "B": "znacznie upośledzone wchłanianie lub rozpad insuliny w miejscu iniekcji",
+          "C": "przedawkowanie insuliny",
+          "D": "nadmierny wysiłek fizyczny"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 61,
+        "question": "Zaznacz zdanie prawdziwe:",
+        "options": {
+          "A": "pomiaru obwodu klatki piersiowej u noworodka dokonuje się za pomocą centymetra krawieckiego, 3 cm poniżej linii brodawek sutkowych",
+          "B": "zabieg Credego wykonuje się w celu zapobiegnięcia rzeżączkowemu zapaleniu spojówek u noworodków",
+          "C": "standardowe odpępnienie powinno nastąpić przy zachowanym tętnieniu krwi w pępowinie",
+          "D": "zabieg Credego polega na zakropieniu obu worków spojówkowych 1% siarczanem magnezu"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 62,
+        "question": "Noworodek eutroficzny to:",
+        "options": {
+          "A": "noworodek z ciąży przenoszonej, z masa ciała 2100 g",
+          "B": "noworodek z masa ciała odpowiednia do wieku płodowego",
+          "C": "noworodek z masa ciała za małą do wieku płodowego",
+          "D": "noworodek z masa ciała za duża do wieku płodowego"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 63,
+        "question": "Zaznacz zdanie fałszywe. Podczas pielęgnacji dziecka z ospa wietrzna należy:",
+        "options": {
+          "A": "nawadniać dziecko",
+          "B": "obserwować wykwity pojawiające się na skórze i błonach śluzowych",
+          "C": "nakłuwać pęcherzyki z treścią surowiczą w celu szybszego gojenia się zmian skórnych",
+          "D": "obserwować i pielęgnować miejsca intymne, gdzie pojawiły się wykwity ospowe"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 64,
+        "question": "Przyczyną płaczu u 3- miesięcznego niemowlęcia nie będzie:",
+        "options": {
+          "A": "dyskomfort higieniczny",
+          "B": "przekarmienie",
+          "C": "brak ulubionej zabawki",
+          "D": "ból proceduralny"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 65,
+        "question": "Mierzenie temperatury u dziecka 4-letniego nie powinno odbywać się:",
+        "options": {
+          "A": "w uchu",
+          "B": "w odbycie",
+          "C": "pod pacha",
+          "D": "w pachwinie"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 66,
+        "question": "Zgodnie z zaleceniami profilaktyki Zakażenia Miejsca Operowanego (ZMO) z 2015 roku kryterium rozpoznania zakażenia miejsca operowanego jest okres:",
+        "options": {
+          "A": "gdy pacjent przebywa w szpitalu po zabiegu operacyjnym",
+          "B": "do momentu zdjęcia szwów",
+          "C": "do 30 dni po typowych operacjach oraz do 12 miesięcy po operacjach podczas, których wszczepiono ciało obce (proteza, implant)",
+          "D": "do chwili uzyskania dodatniego wyniku badania bakteriologicznego"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 67,
+        "question": "Jedną z powszechnie stosowanych skal oceny ryzyka wystąpienia Zakażenia Miejsca Operowanego (ZMO) jest klasyfikacja ran z uwzględnieniem stopnia czystości wg Cruse'a. W niniejszej klasyfikacji długo trwająca rana pourazowa z obecnością tkanek martwiczych i kontaktem z aktywnym stanem zapalnym klasyfikowana jest jako:",
+        "options": {
+          "A": "rana czysta",
+          "B": "rana brudna zakażona",
+          "C": "rana czysta skażona",
+          "D": "rana skażona"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 68,
+        "question": "W celu oceny efektywności postepowania przeciwbólowego u osoby dorosłej wykorzystywana jest najczęściej:",
+        "options": {
+          "A": "skala słowna - VRS (Verbal Rating Scale)",
+          "B": "skala numeryczna - NRS (Numerical Rating Scale)",
+          "C": "skala wzrokowo-analogowa - VAS (Visual Analog Skale)",
+          "D": "skala obrazkowa - FPS (Faces Pain Skale)"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 69,
+        "question": "Pacjenci bezpośrednio po operacji kardiochirurgicznej wymagają monitorowania podstawowych parametrów życiowych. W celu rozpoznania zaburzeń równowagi kwasowo-zasadowej konieczne jest:",
+        "options": {
+          "A": "badanie gazometryczne krwi tętniczej",
+          "B": "stała ocena odcinka ST z monitora",
+          "C": "stały pomiar saturacji krwi z palca",
+          "D": "diureza godzinowa ilościowa"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 70,
+        "question": "U pacjenta lezącego na plecach zpodejrzeniem świeżego złamania szyjki kości biodrowej prawej, kończyna dolna ułożona jest następująco:",
+        "options": {
+          "A": "prawa stopa w rotacji zewnętrznej, staw kolanowy w wyproście",
+          "B": "lewa stopa w rotacji wewnętrznej, staw kolanowy w wyproście",
+          "C": "prawy staw kolanowy w rotacji wewnętrznej, zgięty pod katem 45 stopni",
+          "D": "lewy staw kolanowy w rotacji zewnętrznej, zgięty pod katem 45 stopni"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 71,
+        "question": "Która z wartości indeksu masy ciała BMI wskazuje na ryzyko niedożywienia u pacjenta przed zabiegiem operacyjnym:",
+        "options": {
+          "A": "25-29.9",
+          "B": "20-24.9",
+          "C": "18-19.9",
+          "D": "17-17.9"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 72,
+        "question": "W procesie gojenia się rany rychłozrost występuje w ranie:",
+        "options": {
+          "A": "oparzeniowej",
+          "B": "powstałej w skutek złamania otwartego",
+          "C": "czystej bez zakażenia",
+          "D": "z rozległym zniszczeniem i ubytkiem tkanek"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 73,
+        "question": "Aby minimalizować ryzyko Zakażenia Miejsca Operowanego (ZMO) owłosienie ze skory należy usuwać:",
+        "options": {
+          "A": "w dniu operacji",
+          "B": "12 godz. przed zabiegiem",
+          "C": "1-2 godziny przed zabiegiem",
+          "D": "w przeddzień operacji"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 74,
+        "question": "Stan, w którym do jamy opłucnej napływa powietrze, tworzy się zastawka i w czasie każdego wdechu powietrze przedostaje do jamy opłucnej, lecz nie może się z niej wydostać w czasie wydechu określamy typem odmy:",
+        "options": {
+          "A": "opłucnowej otwartej",
+          "B": "opłucnowej zamkniętej",
+          "C": "opłucnowej prężnej",
+          "D": "podskórnej"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 75,
+        "question": "Prowadząc obserwację koloru skory, zabarwienia moczu i stolca u pacjenta po zabiegu operacyjnym w obrębie dróg żółciowych pielęgniarka stara się wychwycić objawy:",
+        "options": {
+          "A": "zapalenia otrzewnej",
+          "B": "żółtaczki mechanicznej",
+          "C": "niedrożności przewodu pokarmowego",
+          "D": "krwawienia z przewodu pokarmowego"
+        },
+        "correct": "B"
+      },
+      {
+        "number": 76,
+        "question": "Opieka przedoperacyjna nad pacjentem leczonym chirurgicznie rozpoczyna się:",
+        "options": {
+          "A": "w momencie przyjęcia na oddział",
+          "B": "w momencie rozpoczęcia diagnozowania",
+          "C": "na bloku operacyjnym",
+          "D": "w chwili przekazania przez lekarza informacji o konieczności podjęcia leczenia operacyjnego"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 77,
+        "question": "Do objawów uszkodzenia lub porażenia jednego z nerwów krtaniowych po operacji tarczycy należą:",
+        "options": {
+          "A": "zaburzenia fonacji w postaci chrypki i zaburzenia oddychania",
+          "B": "wysoka temperatura, tachykardia, wzrost ciśnienia, niepokój pobudzenie, spadek poziomu sodu i wapnia, hiperglikemia",
+          "C": "bradykardia, apatia, spadek ciśnienia tętniczego, hipernatremia, hiperkalcemia, hipoglikemia",
+          "D": "niepokój bradykardia, wymioty, biegunka, hipernatremia, hiperkalcemia, hipoglikemia"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 78,
+        "question": "Jakich skal używa się do oceny ryzyka zagrożenia powstania odleżyn:",
+        "options": {
+          "A": "skali Norton, Apgar, Glasgow",
+          "B": "skali Douglas i Waterloo, Kussmaula",
+          "C": "skali Braden i Baxtera",
+          "D": "skali Norton, Douglas i Waterloo"
+        },
+        "correct": "D"
+      },
+      {
+        "number": 79,
+        "question": "Ileostomia:",
+        "options": {
+          "A": "zlokalizowana jest w prawym podbrzuszu",
+          "B": "zlokalizowana jest w lewym podbrzuszu",
+          "C": "zlokalizowana jest w śródbrzuszu",
+          "D": "nie ma typowej lokalizacji"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 80,
+        "question": "Rola pielęgniarki, w zapobieganiu zakrzepowemu zapaleniu żył kończyn dolnych u chorych po zabiegach operacyjnych jest:",
+        "options": {
+          "A": "wczesne uruchamianie chorego",
+          "B": "ułożenie chorego w wysokiej pozycji Fovlera w łóżku",
+          "C": "elewacja kończyny",
+          "D": "stosowanie kompresjoterapii II stopnia"
+        },
+        "correct": "A"
+      },
+      {
+        "number": 81,
+        "question": "Odprowadzenia kończynowe w zapisie EKG to:",
+        "options": {
+          "A": "I, II, III, V1-V3",
+          "B": "V1-V3, aVr, aVI, aVf",
+          "C": "I, II, III, aVr, aVI, aVf",
+          "D": "V1-V6"
+        },
+        "correct": "C"
+      },
+      {
+        "number": 82,
+        "question": "Podczas dializy otrzewnowej role filtra spełnia:",
+        "options": {
+          "A": "dializator",
+          "B": "cewnik Tenckhoffa",
+          "C": "otrzewna",
+          "D": "płyn dializacyjny"
+        },
+        "correct": "C"
+      }
+    ]
+  }
+]
