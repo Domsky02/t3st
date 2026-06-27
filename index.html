@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Wielki Super-Egzamin Pielęgniarski (Kolejno)</title>
+    <title>Wielki Super-Egzamin Pielęgniarski</title>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -129,17 +129,30 @@
             0% { transform: rotate(0deg); }
             100% { transform: rotate(360deg); }
         }
+        #error-log {
+            background: #fdf2f2;
+            border: 1px dashed #ec5b5b;
+            color: #c81e1e;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            text-align: left;
+            display: none;
+            font-family: monospace;
+            white-space: pre-wrap;
+        }
     </style>
 </head>
 <body>
 
 <div class="container">
     <h1>Super-Egzamin</h1>
-    <div class="subtitle">Połączono 19 baz pytań (tryb chronologiczny)</div>
+    <div class="subtitle">Połączono 19 baz pytań (Kolejno)</div>
     
     <div id="loading-box" class="loading-screen">
-        <p>Trwa pobieranie i łączenie pytań (19 plików)...</p>
+        <p>Trwa pobieranie i łączenie pytań z 19 plików na GitHubie...</p>
         <div class="spinner"></div>
+        <div id="error-log"></div>
     </div>
 
     <div id="quiz-box" style="display: none;">
@@ -167,6 +180,7 @@
     let isChecked = false;
 
     const loadingBox = document.getElementById('loading-box');
+    const errorLog = document.getElementById('error-log');
     const quizBox = document.getElementById('quiz-box');
     const questionContainer = document.getElementById('question-container');
     const progressText = document.getElementById('progress');
@@ -175,34 +189,37 @@
     const resultBox = document.getElementById('result-box');
     const finalScoreText = document.getElementById('final-score');
 
-    // Automatyczne generowanie listy 19 plików i scalanie ich chronologicznie
     async function loadAndMergeAllQuizzes() {
-        const fileList = [];
+        // Pętla pobiera pliki jeden po drugim, by łatwiej wykryć, na którym się wywala
         for (let i = 1; i <= 19; i++) {
-            fileList.push(`pytania${i}.json`);
+            const fileName = `pytania${i}.json`;
+            try {
+                const res = await fetch(fileName);
+                
+                if (!res.ok) {
+                    throw new Error(`Błąd serwera HTTP ${res.status}. Upewnij się, czy plik istnieje i czy wielkość liter w nazwie "${fileName}" jest poprawna.`);
+                }
+                
+                const data = await res.json();
+                if (Array.isArray(data)) {
+                    quizData = quizData.concat(data);
+                }
+            } catch (error) {
+                // Jeśli wystąpi błąd, wyświetlamy raport na ekranie i przerywamy ładowanie
+                document.querySelector('.spinner').style.display = 'none';
+                errorLog.style.display = 'block';
+                errorLog.innerText = `BŁĄD PODCZAS WCZYTYWANIA: ${fileName}\n\nSzczegóły błędu:\n${error.message}\n\nMożliwe przyczyny:\n1. Plik nie został przesłany na GitHuba.\n2. Nazwa pliku różni się wielkością liter (np. Pytania1.json zamiast pytania1.json).\n3. Wewnątrz pliku JSON znajduje się błąd składniowy (np. brakujący przecinek lub cudzysłów).`;
+                return; // Zatrzymaj dalsze wykonywanie kodu
+            }
         }
 
-        try {
-            // Pobieranie wszystkich plików równolegle
-            const fetchPromises = fileList.map(file => 
-                fetch(file).then(res => {
-                    if (!res.ok) throw new Error(`Brak pliku ${file}`);
-                    return res.json();
-                })
-            );
-            
-            const allResults = await Promise.all(fetchPromises);
-            
-            // Łączenie struktur w jedną płaską tablicę (zachowując oryginalną kolejność)
-            quizData = allResults.flat();
-
-            // Ekran ładowania znika, pojawia się test
+        // Jeśli wszystko poszło gładko:
+        if (quizData.length > 0) {
             loadingBox.style.display = 'none';
             quizBox.style.display = 'block';
-            
             loadQuestion();
-        } catch (error) {
-            loadingBox.innerHTML = `<p style="color:red; font-weight:bold;">Błąd ładowania: ${error.message}<br>Upewnij się, że nazwy plików na GitHubie to dokładnie: pytania1.json, pytania2.json ... pytania19.json</p>`;
+        } else {
+            loadingBox.innerHTML = "<p style='color:red; font-weight:bold;'>Wczytane bazy są puste.</p>";
         }
     }
 
@@ -225,7 +242,6 @@
             `;
         }
 
-        // Wyświetlanie pytania
         questionContainer.innerHTML = `
             <div class="question-card">
                 <div class="question-text">${currentQuestion.question}</div>
@@ -279,7 +295,6 @@
         finalScoreText.innerText = `${score} / ${quizData.length}`;
     }
 
-    // Start ładowania przy otwarciu strony
     loadAndMergeAllQuizzes();
 </script>
 </body>
