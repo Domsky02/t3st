@@ -147,10 +147,10 @@
 
 <div class="container">
     <h1>Super-Egzamin</h1>
-    <div class="subtitle">Połączono 19 baz pytań (Kolejno)</div>
+    <div class="subtitle">Pobieranie pytań z 19 zewnętrznych plików JSON (Tryb chronologiczny)</div>
     
     <div id="loading-box" class="loading-screen">
-        <p>Trwa pobieranie i łączenie pytań z 19 plików na GitHubie...</p>
+        <p>Trwa łączenie baz pytań z serwera...</p>
         <div class="spinner"></div>
         <div id="error-log"></div>
     </div>
@@ -167,7 +167,7 @@
 
     <div id="result-box" class="result-screen">
         <h2>Koniec Egzaminu!</h2>
-        <p>Twój ostateczny wynik ze wszystkich części to:</p>
+        <p>Twój ostateczny wynik to:</p>
         <div class="score-big" id="final-score">0 / 0</div>
         <button onclick="location.reload()">Rozpocznij od nowa</button>
     </div>
@@ -189,15 +189,16 @@
     const resultBox = document.getElementById('result-box');
     const finalScoreText = document.getElementById('final-score');
 
+    // Funkcja pobierająca dane z podmienianą cyfrą w adresie URL
     async function loadAndMergeAllQuizzes() {
-        // Pętla pobiera pliki jeden po drugim, by łatwiej wykryć, na którym się wywala
         for (let i = 1; i <= 19; i++) {
-            const fileName = `pytania${i}.json`;
+            // Skrypt buduje pełną, bezwzględną ścieżkę sieciową z wielką literą "P"
+            const url = `https://domsky02.github.io/t3st/Pytania${i}.json`;
             try {
-                const res = await fetch(fileName);
+                const res = await fetch(url);
                 
                 if (!res.ok) {
-                    throw new Error(`Błąd serwera HTTP ${res.status}. Upewnij się, czy plik istnieje i czy wielkość liter w nazwie "${fileName}" jest poprawna.`);
+                    throw new Error(`Błąd HTTP ${res.status}. Nie znaleziono pliku pod adresem: ${url}`);
                 }
                 
                 const data = await res.json();
@@ -205,21 +206,19 @@
                     quizData = quizData.concat(data);
                 }
             } catch (error) {
-                // Jeśli wystąpi błąd, wyświetlamy raport na ekranie i przerywamy ładowanie
                 document.querySelector('.spinner').style.display = 'none';
                 errorLog.style.display = 'block';
-                errorLog.innerText = `BŁĄD PODCZAS WCZYTYWANIA: ${fileName}\n\nSzczegóły błędu:\n${error.message}\n\nMożliwe przyczyny:\n1. Plik nie został przesłany na GitHuba.\n2. Nazwa pliku różni się wielkością liter (np. Pytania1.json zamiast pytania1.json).\n3. Wewnątrz pliku JSON znajduje się błąd składniowy (np. brakujący przecinek lub cudzysłów).`;
-                return; // Zatrzymaj dalsze wykonywanie kodu
+                errorLog.innerText = `BŁĄD PODCZAS POBIERANIA ZADANIA: Pytania${i}.json\n\nSzczegóły:\n${error.message}`;
+                return; 
             }
         }
 
-        // Jeśli wszystko poszło gładko:
         if (quizData.length > 0) {
             loadingBox.style.display = 'none';
             quizBox.style.display = 'block';
             loadQuestion();
         } else {
-            loadingBox.innerHTML = "<p style='color:red; font-weight:bold;'>Wczytane bazy są puste.</p>";
+            loadingBox.innerHTML = "<p style='color:red; font-weight:bold;'>Baza pytań jest pusta.</p>";
         }
     }
 
